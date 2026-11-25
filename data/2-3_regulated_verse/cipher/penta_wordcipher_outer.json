@@ -1,0 +1,6002 @@
+[
+ {
+  "id": "penta-outer-0000",
+  "label": "o",
+  "couplet": "流寓獨巷沱，獨難暗籬元",
+  "source_couplet": "重來訪惠休，已是十年遊"
+ },
+ {
+  "id": "penta-outer-0001",
+  "label": "o",
+  "couplet": "已圖前臣征，籬合遁花鈕",
+  "source_couplet": "積得讀書身，從教此道貧"
+ },
+ {
+  "id": "penta-outer-0002",
+  "label": "o",
+  "couplet": "飛沴醒曰槷，辛青手多瓢",
+  "source_couplet": "不與人境接，寺門開向山"
+ },
+ {
+  "id": "penta-outer-0003",
+  "label": "o",
+  "couplet": "寒秦反桑馲，自隨奏聞奇",
+  "source_couplet": "語罷休邊角，青燈兩鬢絲"
+ },
+ {
+  "id": "penta-outer-0004",
+  "label": "o",
+  "couplet": "桑寧屋方閏，數餘能成澹",
+  "source_couplet": "剩水滄江破，殘山碣石開"
+ },
+ {
+  "id": "penta-outer-0005",
+  "label": "o",
+  "couplet": "親師千脈嗇，晨廬明墟芉",
+  "source_couplet": "雙旌相望處，月白庾公樓"
+ },
+ {
+  "id": "penta-outer-0006",
+  "label": "o",
+  "couplet": "蛙月夜車稼，孤白卉味盞",
+  "source_couplet": "斂板賀交親，稱觴詎有巡"
+ },
+ {
+  "id": "penta-outer-0007",
+  "label": "o",
+  "couplet": "去放楹霜枝，佞溪光應齒",
+  "source_couplet": "借問愚公谷，與君聊一尋"
+ },
+ {
+  "id": "penta-outer-0008",
+  "label": "o",
+  "couplet": "謫看誰行把，復賢六蜑櫱",
+  "source_couplet": "中郎今遠在，誰識爨桐音"
+ },
+ {
+  "id": "penta-outer-0009",
+  "label": "o",
+  "couplet": "檄不橋貧舛，歌時眉當量",
+  "source_couplet": "多難分離久，相思每淚垂"
+ },
+ {
+  "id": "penta-outer-0010",
+  "label": "o",
+  "couplet": "不秦高州判，貧跡那空慚",
+  "source_couplet": "千峯數可盡，不出小窗間"
+ },
+ {
+  "id": "penta-outer-0011",
+  "label": "o",
+  "couplet": "殊負非慚鉛，仁闊事限虻",
+  "source_couplet": "何事苦縈迴，離腸不自裁"
+ },
+ {
+  "id": "penta-outer-0012",
+  "label": "o",
+  "couplet": "冥河行忘胄，人劇照下畬",
+  "source_couplet": "郡中饒野興，過客亦淹留"
+ },
+ {
+  "id": "penta-outer-0013",
+  "label": "o",
+  "couplet": "時草午村也，早白竹清杯",
+  "source_couplet": "密竹行已遠，子規啼更深"
+ },
+ {
+  "id": "penta-outer-0014",
+  "label": "o",
+  "couplet": "亂叔涵謝報，銀雨蕪深洛",
+  "source_couplet": "頭髮梳千下，休糧帶瘦容"
+ },
+ {
+  "id": "penta-outer-0015",
+  "label": "o",
+  "couplet": "水進意監季，飛別亂飛周",
+  "source_couplet": "十月天官待，應須早赴秦"
+ },
+ {
+  "id": "penta-outer-0016",
+  "label": "o",
+  "couplet": "愁履涼分緋，莫兼江怯銜",
+  "source_couplet": "近聞胡隱士，潛認得心王"
+ },
+ {
+  "id": "penta-outer-0017",
+  "label": "o",
+  "couplet": "回地途吾鞏，叔涼惟里恌",
+  "source_couplet": "春雲結暮陰，侍坐捧離襟"
+ },
+ {
+  "id": "penta-outer-0018",
+  "label": "o",
+  "couplet": "共遭欲憐卜，昌無地寞慵",
+  "source_couplet": "別路吳將楚，離憂弟與兄"
+ },
+ {
+  "id": "penta-outer-0019",
+  "label": "o",
+  "couplet": "日文人和澹，錦遲生官羌",
+  "source_couplet": "歌扇向陵開，齊行奠玉杯"
+ },
+ {
+  "id": "penta-outer-0020",
+  "label": "o",
+  "couplet": "法煩飛疑薛，暫迎燕數頌",
+  "source_couplet": "道路時通塞，江山日寂寥"
+ },
+ {
+  "id": "penta-outer-0021",
+  "label": "o",
+  "couplet": "思眉伴更也，多蒙百總廉",
+  "source_couplet": "況復長安遠，音書從此稀"
+ },
+ {
+  "id": "penta-outer-0022",
+  "label": "o",
+  "couplet": "厭空川酒爭，朱盜北韞泉",
+  "source_couplet": "歸路翻蕭颯，陂塘五月秋"
+ },
+ {
+  "id": "penta-outer-0023",
+  "label": "o",
+  "couplet": "變年得添晝，依絳得添眯",
+  "source_couplet": "多年柏巖住，不記柏巖名"
+ },
+ {
+  "id": "penta-outer-0024",
+  "label": "o",
+  "couplet": "衣今紫輕軿，年今多水侵",
+  "source_couplet": "芙蓉浣紗伴，長恨隔波瀾"
+ },
+ {
+  "id": "penta-outer-0025",
+  "label": "o",
+  "couplet": "弔當永雜畀，不屋春夜巴",
+  "source_couplet": "由來病根淺，易見藥功成"
+ },
+ {
+  "id": "penta-outer-0026",
+  "label": "o",
+  "couplet": "見屬功花樨，斗月塵不條",
+  "source_couplet": "可憐霄漢曙，鴛鷺正徘徊"
+ },
+ {
+  "id": "penta-outer-0027",
+  "label": "o",
+  "couplet": "苦味冒筋仲，池榜凋興筧",
+  "source_couplet": "酒熟思才子，溪頭望玉珂"
+ },
+ {
+  "id": "penta-outer-0028",
+  "label": "o",
+  "couplet": "相勝長采陶，相留深荒衢",
+  "source_couplet": "五峯青拄天，直下掛飛泉"
+ },
+ {
+  "id": "penta-outer-0029",
+  "label": "o",
+  "couplet": "來難足行薯，筍後石貧鴟",
+  "source_couplet": "回舟映沙嶼，未遠剩相思"
+ },
+ {
+  "id": "penta-outer-0030",
+  "label": "o",
+  "couplet": "氣穿濆寧娜，所疏客落慚",
+  "source_couplet": "窈窕神仙閣，參差雲漢間"
+ },
+ {
+  "id": "penta-outer-0031",
+  "label": "o",
+  "couplet": "樹滯甚想堪，回骨程風台",
+  "source_couplet": "桐竹繞庭匝，雨多風更吹"
+ },
+ {
+  "id": "penta-outer-0032",
+  "label": "o",
+  "couplet": "喔外訪津晝，下悲橋盡八",
+  "source_couplet": "城中塵外住，入望是田家"
+ },
+ {
+  "id": "penta-outer-0033",
+  "label": "o",
+  "couplet": "空邊端樂鴟，俱朱嘲前臞",
+  "source_couplet": "甚積湯原思，青青宿麥肥"
+ },
+ {
+  "id": "penta-outer-0034",
+  "label": "o",
+  "couplet": "不片於中嗇，因軍詞細筠",
+  "source_couplet": "夢魂知憶處，無夜不京華"
+ },
+ {
+  "id": "penta-outer-0035",
+  "label": "o",
+  "couplet": "殘健添象斷，聲浮紹風遷",
+  "source_couplet": "誰能厭軒冕，來此便忘機"
+ },
+ {
+  "id": "penta-outer-0036",
+  "label": "o",
+  "couplet": "再昔搖殿宰，殿有窗休元",
+  "source_couplet": "惆悵人間事，東山遂獨遊"
+ },
+ {
+  "id": "penta-outer-0037",
+  "label": "o",
+  "couplet": "秋全許返誇，身春運樹股",
+  "source_couplet": "鼎湖看不見，零落數枝蓮"
+ },
+ {
+  "id": "penta-outer-0038",
+  "label": "o",
+  "couplet": "轍至鈞悽辱，西申兵聞弋",
+  "source_couplet": "耕鑿連雲磴，蹄痕見福衡"
+ },
+ {
+  "id": "penta-outer-0039",
+  "label": "o",
+  "couplet": "默鳥不鶻陂，鶯西前聲失",
+  "source_couplet": "飄飄何所似，天地一沙鷗"
+ },
+ {
+  "id": "penta-outer-0040",
+  "label": "o",
+  "couplet": "西南雲松宰，竈遍孤牂遷",
+  "source_couplet": "因君知北事，流浪已忘機"
+ },
+ {
+  "id": "penta-outer-0041",
+  "label": "o",
+  "couplet": "分名西綠報，然聲浪封霰",
+  "source_couplet": "天朝辟書下，風憲取才難"
+ },
+ {
+  "id": "penta-outer-0042",
+  "label": "o",
+  "couplet": "聽隆中瀹把，工征是空笥",
+  "source_couplet": "舊有山廚在，從僧請作房"
+ },
+ {
+  "id": "penta-outer-0043",
+  "label": "o",
+  "couplet": "飢右幾憐簫，蒼悟芳猶婀",
+  "source_couplet": "還知南地客，招引住新豐"
+ },
+ {
+  "id": "penta-outer-0044",
+  "label": "o",
+  "couplet": "煙砌邊石櫻，越禽隃無淟",
+  "source_couplet": "直道知難用，經年向水濱"
+ },
+ {
+  "id": "penta-outer-0045",
+  "label": "o",
+  "couplet": "交猴才猿外，俱朱尤來畤",
+  "source_couplet": "病起見庭柏，青青我不任"
+ },
+ {
+  "id": "penta-outer-0046",
+  "label": "o",
+  "couplet": "萬恥磨無柯，階去暮雁腮",
+  "source_couplet": "四月深澗底，桃花方欲然"
+ },
+ {
+  "id": "penta-outer-0047",
+  "label": "o",
+  "couplet": "新濆好在俾，如詩路呼元",
+  "source_couplet": "今朝風日好，宜入未央遊"
+ },
+ {
+  "id": "penta-outer-0048",
+  "label": "o",
+  "couplet": "掣盟色片贛，吹羣馬春殄",
+  "source_couplet": "江上多離別，居人夜搗衣"
+ },
+ {
+  "id": "penta-outer-0049",
+  "label": "o",
+  "couplet": "不日橛愁鈐，去放幕今眯",
+  "source_couplet": "山中有流水，借問不知名"
+ },
+ {
+  "id": "penta-outer-0050",
+  "label": "o",
+  "couplet": "賦窗六油判，山幌吾如澹",
+  "source_couplet": "上陌行初盡，嚴城立未開"
+ },
+ {
+  "id": "penta-outer-0051",
+  "label": "o",
+  "couplet": "滿報此通蘋，成講推力度",
+  "source_couplet": "寂寞他年後，名編野史無"
+ },
+ {
+  "id": "penta-outer-0052",
+  "label": "o",
+  "couplet": "氏月空席柅，形是奏聞瑤",
+  "source_couplet": "日覺雙眸暗，年驚兩鬢蒼"
+ },
+ {
+  "id": "penta-outer-0053",
+  "label": "o",
+  "couplet": "未疏茶劉笭，思歌相光杯",
+  "source_couplet": "無事能言語，人聞怨恨深"
+ },
+ {
+  "id": "penta-outer-0054",
+  "label": "o",
+  "couplet": "鄉空卷縹箱，間雁宴亦籟",
+  "source_couplet": "又見帝城裏，東風天氣和"
+ },
+ {
+  "id": "penta-outer-0055",
+  "label": "o",
+  "couplet": "鶴林班誰到，鐙意怪來帆",
+  "source_couplet": "鳳皇佳可食，一去一來儀"
+ },
+ {
+  "id": "penta-outer-0056",
+  "label": "o",
+  "couplet": "盤同峭順獄，速橋霞伴整",
+  "source_couplet": "九洛韶光媚，三川物候新"
+ },
+ {
+  "id": "penta-outer-0057",
+  "label": "o",
+  "couplet": "蝶天饗花盎，敷潤萍澮墾",
+  "source_couplet": "家山太湖淥，歸去復何如"
+ },
+ {
+  "id": "penta-outer-0058",
+  "label": "o",
+  "couplet": "黃雁裁香娣，愧正如萬櫪",
+  "source_couplet": "至理不誤物，悠悠自不明"
+ },
+ {
+  "id": "penta-outer-0059",
+  "label": "o",
+  "couplet": "元見宮曦報，匣布雨哀蝴",
+  "source_couplet": "鄰房母淚下，相課別離詞"
+ },
+ {
+  "id": "penta-outer-0060",
+  "label": "o",
+  "couplet": "粵光州祗涎，師事秋事援",
+  "source_couplet": "那堪朔煙起，家信正相離"
+ },
+ {
+  "id": "penta-outer-0061",
+  "label": "o",
+  "couplet": "棋同豸處否，素鵲俗林欞",
+  "source_couplet": "何當擊凡鳥，毛血灑平蕪"
+ },
+ {
+  "id": "penta-outer-0062",
+  "label": "o",
+  "couplet": "溪鹿園歲鰥，鏡今功酒牽",
+  "source_couplet": "會當來結社，長日爲僧吟"
+ },
+ {
+  "id": "penta-outer-0063",
+  "label": "o",
+  "couplet": "此殘踏怒罨，琴發草殊臻",
+  "source_couplet": "獨逢回雁去，猶作舊行飛"
+ },
+ {
+  "id": "penta-outer-0064",
+  "label": "o",
+  "couplet": "官去信徼傅，滅一時入鱘",
+  "source_couplet": "莫怪蒼髭晚，無機任世情"
+ },
+ {
+  "id": "penta-outer-0065",
+  "label": "o",
+  "couplet": "情發內三誇，遊眼聞丘曆",
+  "source_couplet": "帶病希相見，西城早晚來"
+ },
+ {
+  "id": "penta-outer-0066",
+  "label": "o",
+  "couplet": "心尋求月仍，所見綠海墨",
+  "source_couplet": "三峯居接近，數里躡雲行"
+ },
+ {
+  "id": "penta-outer-0067",
+  "label": "o",
+  "couplet": "亦君病綵拔，小薄孤喜早",
+  "source_couplet": "不眠憂戰伐，無力正乾坤"
+ },
+ {
+  "id": "penta-outer-0068",
+  "label": "o",
+  "couplet": "思雨節溪判，行犬雨灣酊",
+  "source_couplet": "路岐知不盡，離別自無窮"
+ },
+ {
+  "id": "penta-outer-0069",
+  "label": "o",
+  "couplet": "未惠記水庚，且草甸白技",
+  "source_couplet": "身世足堪悲，空房臥病時"
+ },
+ {
+  "id": "penta-outer-0070",
+  "label": "o",
+  "couplet": "歷今如草男，戶空史正詩",
+  "source_couplet": "泉清蘭菊稠，紅果落城溝"
+ },
+ {
+  "id": "penta-outer-0071",
+  "label": "o",
+  "couplet": "落雨馭谷損，忘山偏山涇",
+  "source_couplet": "客路商山外，離筵小暑前"
+ },
+ {
+  "id": "penta-outer-0072",
+  "label": "o",
+  "couplet": "篇多市憐嗇，俱朱依絳黿",
+  "source_couplet": "黃帝登真處，青青不記年"
+ },
+ {
+  "id": "penta-outer-0073",
+  "label": "o",
+  "couplet": "野歸西曉鬢，團青襄露昧",
+  "source_couplet": "了了見岐路，欲行難負心"
+ },
+ {
+  "id": "penta-outer-0074",
+  "label": "o",
+  "couplet": "咽頻龜淪睿，愧勞逾開湮",
+  "source_couplet": "秋窗猶曙色，落木更天風"
+ },
+ {
+  "id": "penta-outer-0075",
+  "label": "o",
+  "couplet": "隱高鏡天局，態棘鬱粥贔",
+  "source_couplet": "山行侵夜到，雲竇一星燈"
+ },
+ {
+  "id": "penta-outer-0076",
+  "label": "o",
+  "couplet": "存賦道角獸，驚代試沙轆",
+  "source_couplet": "想到空王境，無心問愛憎"
+ },
+ {
+  "id": "penta-outer-0077",
+  "label": "o",
+  "couplet": "久愛處煎鬢，遠淺重北元",
+  "source_couplet": "每病風騷路，荒涼人莫遊"
+ },
+ {
+  "id": "penta-outer-0078",
+  "label": "o",
+  "couplet": "揮佳聖酒通，郡妖婪秋繭",
+  "source_couplet": "空牀難獨守，誰爲報金徽"
+ },
+ {
+  "id": "penta-outer-0079",
+  "label": "o",
+  "couplet": "長覆復曦蘩，親吟松僧禮",
+  "source_couplet": "暮景斜芳殿，年華麗綺宮"
+ },
+ {
+  "id": "penta-outer-0080",
+  "label": "o",
+  "couplet": "蛟遣方紛陰，日憂定垂寮",
+  "source_couplet": "陽關多古調，無奈醉中聞"
+ },
+ {
+  "id": "penta-outer-0081",
+  "label": "o",
+  "couplet": "情家未兒愧，井仙扉明眼",
+  "source_couplet": "垂名如不朽，那恨雪生頭"
+ },
+ {
+  "id": "penta-outer-0082",
+  "label": "o",
+  "couplet": "共路應樓但，死春石頻繞",
+  "source_couplet": "清光莫獨佔，亦對白雲司"
+ },
+ {
+  "id": "penta-outer-0083",
+  "label": "o",
+  "couplet": "裔未氈欲淦，虛護夜逐祓",
+  "source_couplet": "芍藥承春寵，何曾羨牡丹"
+ },
+ {
+  "id": "penta-outer-0084",
+  "label": "o",
+  "couplet": "庭斜衣田隊，賦丈和威殄",
+  "source_couplet": "書從戰後得，讀徹血盈衣"
+ },
+ {
+  "id": "penta-outer-0085",
+  "label": "o",
+  "couplet": "愁朝前同儺，臥雲親出癢",
+  "source_couplet": "誰期沃州講，持此別東亭"
+ },
+ {
+  "id": "penta-outer-0086",
+  "label": "o",
+  "couplet": "階聞以習罨，溼無山職劭",
+  "source_couplet": "餘亦謝時去，西山鸞鶴羣"
+ },
+ {
+  "id": "penta-outer-0087",
+  "label": "o",
+  "couplet": "日炊郎道鴛，坐能伴未畬",
+  "source_couplet": "去住如雲鶴，飄然不可留"
+ },
+ {
+  "id": "penta-outer-0088",
+  "label": "o",
+  "couplet": "嶺碧葛泉宰，屬道今潭碗",
+  "source_couplet": "官冷且無事，追陪慎莫忘"
+ },
+ {
+  "id": "penta-outer-0089",
+  "label": "o",
+  "couplet": "說爭西簡涎，愁語窮懷櫱",
+  "source_couplet": "蘋風有時起，滿谷簫韶音"
+ },
+ {
+  "id": "penta-outer-0090",
+  "label": "o",
+  "couplet": "旅武寺更斸，溪疏銜職葡",
+  "source_couplet": "使者雖光彩，青楓遠自愁"
+ },
+ {
+  "id": "penta-outer-0091",
+  "label": "o",
+  "couplet": "心去秋苦圖，賦月送不潮",
+  "source_couplet": "忽報南昌令，乘驄入郡城"
+ },
+ {
+  "id": "penta-outer-0092",
+  "label": "o",
+  "couplet": "畫有夢灰旻，看機抱滿些",
+  "source_couplet": "同伴無辭困，遊春貴在先"
+ },
+ {
+  "id": "penta-outer-0093",
+  "label": "o",
+  "couplet": "移栽發棄贛，傷木耕臨埕",
+  "source_couplet": "預想前秋別，離居夢棹歌"
+ },
+ {
+  "id": "penta-outer-0094",
+  "label": "o",
+  "couplet": "臺孫渾老簫，全來幽秦顓",
+  "source_couplet": "寄言塵世客，何處欲歸臨"
+ },
+ {
+  "id": "penta-outer-0095",
+  "label": "o",
+  "couplet": "陰分怪掩贛，寄異新犬癢",
+  "source_couplet": "西閣從人別，人今亦故亭"
+ },
+ {
+  "id": "penta-outer-0096",
+  "label": "o",
+  "couplet": "疏親百危粗，孤觴叔在出",
+  "source_couplet": "落盡高天日，幽人未遣回"
+ },
+ {
+  "id": "penta-outer-0097",
+  "label": "o",
+  "couplet": "開結必厭祭，無備未尺涇",
+  "source_couplet": "淒涼蜀故妓，來舞魏宮前"
+ },
+ {
+  "id": "penta-outer-0098",
+  "label": "o",
+  "couplet": "杏金閭遍屩，別中扶能菼",
+  "source_couplet": "春物行將老，懷君意詎堪"
+ },
+ {
+  "id": "penta-outer-0099",
+  "label": "o",
+  "couplet": "凝繼意明晏，門喬煙見午",
+  "source_couplet": "花開又花落，時節暗中遷"
+ },
+ {
+  "id": "penta-outer-0100",
+  "label": "o",
+  "couplet": "蹤持圓竹瑣，勿千山秀楊",
+  "source_couplet": "亦過春兼夏，回期信有蟬"
+ },
+ {
+  "id": "penta-outer-0101",
+  "label": "o",
+  "couplet": "人稱停客驄，帆古嚼下雊",
+  "source_couplet": "誰截小秋灘，閒窺四緒寬"
+ },
+ {
+  "id": "penta-outer-0102",
+  "label": "o",
+  "couplet": "月肯杯夜複，幽上深春蹊",
+  "source_couplet": "遺蹤委衰草，行客思悠悠"
+ },
+ {
+  "id": "penta-outer-0103",
+  "label": "o",
+  "couplet": "菰色濫庭換，全來柳除疼",
+  "source_couplet": "蹉跎一如此，何處卜棲遲"
+ },
+ {
+  "id": "penta-outer-0104",
+  "label": "o",
+  "couplet": "雲軟乾昏佔，心裘亦卻陶",
+  "source_couplet": "從茲匣中劍，埋沒罷沖天"
+ },
+ {
+  "id": "penta-outer-0105",
+  "label": "o",
+  "couplet": "粲莓河影罨，題贈處多伍",
+  "source_couplet": "終事東歸去，干戈滿許田"
+ },
+ {
+  "id": "penta-outer-0106",
+  "label": "o",
+  "couplet": "瞻善憂根弔，岡雲起裏榭",
+  "source_couplet": "直疑風起夜，飛去替行雲"
+ },
+ {
+  "id": "penta-outer-0107",
+  "label": "o",
+  "couplet": "谷山中聽單，波德陳別嫵",
+  "source_couplet": "玄都留五字，使入步虛聲"
+ },
+ {
+  "id": "penta-outer-0108",
+  "label": "o",
+  "couplet": "簪種月出宣，衰過吹綠劭",
+  "source_couplet": "有誰知我意，心緒逐鷗羣"
+ },
+ {
+  "id": "penta-outer-0109",
+  "label": "o",
+  "couplet": "妙處逐虛堊，園逆吹寬岵",
+  "source_couplet": "小寒連大呂，歡鵲壘新巢"
+ },
+ {
+  "id": "penta-outer-0110",
+  "label": "o",
+  "couplet": "越菊懷至襄，魚政書少涇",
+  "source_couplet": "同沾勝福者，超於彌勒前"
+ },
+ {
+  "id": "penta-outer-0111",
+  "label": "o",
+  "couplet": "夢因紅春奎，袍客晚伴條",
+  "source_couplet": "舊知巫山上，遊子共徘徊"
+ },
+ {
+  "id": "penta-outer-0112",
+  "label": "o",
+  "couplet": "碧計久吾胄，面空不因蔣",
+  "source_couplet": "且莫孤此興，勿論窮與通"
+ },
+ {
+  "id": "penta-outer-0113",
+  "label": "o",
+  "couplet": "戀村珠僻攘，百色竹真傃",
+  "source_couplet": "將星移北洛，神雨避東京"
+ },
+ {
+  "id": "penta-outer-0114",
+  "label": "o",
+  "couplet": "鄉玉山冉罨，愁非畫侶難",
+  "source_couplet": "未隱滄洲去，時來於此禪"
+ },
+ {
+  "id": "penta-outer-0115",
+  "label": "o",
+  "couplet": "子吝檐除曬，葉微伴未畬",
+  "source_couplet": "自向歸魂說，炎方不可留"
+ },
+ {
+  "id": "penta-outer-0116",
+  "label": "o",
+  "couplet": "髮白半餘晏，停天紅笑昧",
+  "source_couplet": "西峯殘日落，誰見寂寥心"
+ },
+ {
+  "id": "penta-outer-0117",
+  "label": "o",
+  "couplet": "餘畦山溪贛，飛沴帝躡擁",
+  "source_couplet": "近來多怨別，不與少年同"
+ },
+ {
+  "id": "penta-outer-0118",
+  "label": "o",
+  "couplet": "寄時微尋鶉，松律斷垂技",
+  "source_couplet": "楊子愛言詩，春天好詠時"
+ },
+ {
+  "id": "penta-outer-0119",
+  "label": "o",
+  "couplet": "森如仰屢宰，辟古色得沸",
+  "source_couplet": "自喜身無事，論才拙復疏"
+ },
+ {
+  "id": "penta-outer-0120",
+  "label": "o",
+  "couplet": "得眠丹塔朱，勢死津雖整",
+  "source_couplet": "河尹恩榮舊，尚書寵贈新"
+ },
+ {
+  "id": "penta-outer-0121",
+  "label": "o",
+  "couplet": "寺化焦廣皁，墨遙旨胥眯",
+  "source_couplet": "同心不同載，留滯爲浮名"
+ },
+ {
+  "id": "penta-outer-0122",
+  "label": "o",
+  "couplet": "芝睯枝邀罨，外簾晚沉惓",
+  "source_couplet": "卻憶天台去，移居海島空"
+ },
+ {
+  "id": "penta-outer-0123",
+  "label": "o",
+  "couplet": "壁鎖風秋胄，坐能遲接瓢",
+  "source_couplet": "忽起地仙興，飄然出舊山"
+ },
+ {
+  "id": "penta-outer-0124",
+  "label": "o",
+  "couplet": "杯千獨隔嗇，鐵數半笑淩",
+  "source_couplet": "繁豔歸何處，滿山啼杜鵑"
+ },
+ {
+  "id": "penta-outer-0125",
+  "label": "o",
+  "couplet": "花凌違風回，寄沒逐與幅",
+  "source_couplet": "看卻煙光散，狂風處處飄"
+ },
+ {
+  "id": "penta-outer-0126",
+  "label": "o",
+  "couplet": "見息坐斗穴，動爲奪天莪",
+  "source_couplet": "將軍別換馬，夜出擁彫戈"
+ },
+ {
+  "id": "penta-outer-0127",
+  "label": "o",
+  "couplet": "華慕江去泡，祇流識野櫪",
+  "source_couplet": "唯應風雨夕，鬼火出林明"
+ },
+ {
+  "id": "penta-outer-0128",
+  "label": "o",
+  "couplet": "片遠豪雨字，驄宗妙有紗",
+  "source_couplet": "深將寵辱齊，往往亦悽悽"
+ },
+ {
+  "id": "penta-outer-0129",
+  "label": "o",
+  "couplet": "客潛西稀喜，春才十漫塊",
+  "source_couplet": "幽林歸獨臥，滯慮洗孤清"
+ },
+ {
+  "id": "penta-outer-0130",
+  "label": "o",
+  "couplet": "避未流寧輔，猶救荷宅曆",
+  "source_couplet": "晚景孤村僻，行軍數騎來"
+ },
+ {
+  "id": "penta-outer-0131",
+  "label": "o",
+  "couplet": "吾何吟輝贛，未花益出泉",
+  "source_couplet": "泉樹一爲別，依稀三十秋"
+ },
+ {
+  "id": "penta-outer-0132",
+  "label": "o",
+  "couplet": "闕紱源寧尻，芳街浪酒埕",
+  "source_couplet": "點點抱離念，曠懷成怨歌"
+ },
+ {
+  "id": "penta-outer-0133",
+  "label": "o",
+  "couplet": "光緒得然縵，酒表儻李蕩",
+  "source_couplet": "昔聞公族出，其從亦高車"
+ },
+ {
+  "id": "penta-outer-0134",
+  "label": "o",
+  "couplet": "餘歲行內否，哉國空囊自",
+  "source_couplet": "未聞籠裏鳥，飛出肯飛還"
+ },
+ {
+  "id": "penta-outer-0135",
+  "label": "o",
+  "couplet": "仁支雲暮晴，全來委羊爐",
+  "source_couplet": "殷勤問春雁，何處是煙霄"
+ },
+ {
+  "id": "penta-outer-0136",
+  "label": "o",
+  "couplet": "我爲定海迂，九後強波技",
+  "source_couplet": "北風如有寄，畫取受降時"
+ },
+ {
+  "id": "penta-outer-0137",
+  "label": "o",
+  "couplet": "心尋仙鳳晝，重必袖回廉",
+  "source_couplet": "三峯西面住，出見世人稀"
+ },
+ {
+  "id": "penta-outer-0138",
+  "label": "o",
+  "couplet": "泰客泉園母，暗竹棹莫品",
+  "source_couplet": "蝸舍映平湖，皤然一魯儒"
+ },
+ {
+  "id": "penta-outer-0139",
+  "label": "o",
+  "couplet": "聯禹更從巾，民壑壯猶黿",
+  "source_couplet": "四考兼重請，相知住幾年"
+ },
+ {
+  "id": "penta-outer-0140",
+  "label": "o",
+  "couplet": "歲石猩軍把，看汗字過自",
+  "source_couplet": "關西舊業在，夜夜夢中還"
+ },
+ {
+  "id": "penta-outer-0141",
+  "label": "o",
+  "couplet": "流經鄉夕鞏，黃欲年蓮蟬",
+  "source_couplet": "積水自成陰，昏昏月映林"
+ },
+ {
+  "id": "penta-outer-0142",
+  "label": "o",
+  "couplet": "君除陽燭蛩，冰收春溶惲",
+  "source_couplet": "巫峽中心郡，巴城四面春"
+ },
+ {
+  "id": "penta-outer-0143",
+  "label": "o",
+  "couplet": "飛悟遍水鞏，滅深名迷蟬",
+  "source_couplet": "遺廟宿陰陰，孤峯映綠林"
+ },
+ {
+  "id": "penta-outer-0144",
+  "label": "o",
+  "couplet": "堪流骨來把，山音牽吟媧",
+  "source_couplet": "唯餘朝服在，金印已生塵"
+ },
+ {
+  "id": "penta-outer-0145",
+  "label": "o",
+  "couplet": "短底斯嬌崿，送禪簾在倡",
+  "source_couplet": "倚杖聊閒望，田家未剪禾"
+ },
+ {
+  "id": "penta-outer-0146",
+  "label": "o",
+  "couplet": "顏深蛩自又，始知異晚鴟",
+  "source_couplet": "歲晚齋居寂，情人動我思"
+ },
+ {
+  "id": "penta-outer-0147",
+  "label": "o",
+  "couplet": "舒貴斗仍鴛，雨蓉禱田曹",
+  "source_couplet": "飛來雙白鶴，過去杳難攀"
+ },
+ {
+  "id": "penta-outer-0148",
+  "label": "o",
+  "couplet": "緣來轤關唱，闕能僻戍矮",
+  "source_couplet": "天馬本來東，嘶驚御史驄"
+ },
+ {
+  "id": "penta-outer-0149",
+  "label": "o",
+  "couplet": "江師出水砦，在山海同泉",
+  "source_couplet": "任賢勞夢寐，登位富春秋"
+ },
+ {
+  "id": "penta-outer-0150",
+  "label": "o",
+  "couplet": "濱達青欲把，心伺宜詩脊",
+  "source_couplet": "寂滅身何在，門人隔此生"
+ },
+ {
+  "id": "penta-outer-0151",
+  "label": "o",
+  "couplet": "此滅月消穴，別問還上委",
+  "source_couplet": "有客騎驄馬，江邊問草堂"
+ },
+ {
+  "id": "penta-outer-0152",
+  "label": "o",
+  "couplet": "黎物有斗奎，五百身所櫪",
+  "source_couplet": "曉日餘冰上，春池一鏡明"
+ },
+ {
+  "id": "penta-outer-0153",
+  "label": "o",
+  "couplet": "節丹外遷徭，老閒仍全遷",
+  "source_couplet": "仍說遊南嶽，經行是息機"
+ },
+ {
+  "id": "penta-outer-0154",
+  "label": "o",
+  "couplet": "時牆逢怨踟，倦滿江翰潮",
+  "source_couplet": "代遠已難問，累累次古城"
+ },
+ {
+  "id": "penta-outer-0155",
+  "label": "o",
+  "couplet": "調看崖閣擬，然暗死弦跏",
+  "source_couplet": "幸以文堪採，扶持力不輕"
+ },
+ {
+  "id": "penta-outer-0156",
+  "label": "o",
+  "couplet": "傳地欽落丞，暮到忘諳眯",
+  "source_couplet": "更覽諸公作，知高題柱名"
+ },
+ {
+  "id": "penta-outer-0157",
+  "label": "o",
+  "couplet": "名小偏文晝，敷潤萍澮菀",
+  "source_couplet": "未閒難久住，歸去復何言"
+ },
+ {
+  "id": "penta-outer-0158",
+  "label": "o",
+  "couplet": "鷺暮先傳淼，溪道題間樑",
+  "source_couplet": "禹功饒斷石，且就土微平"
+ },
+ {
+  "id": "penta-outer-0159",
+  "label": "o",
+  "couplet": "與綵浚攀崿，用雪獨長齒",
+  "source_couplet": "此愛東樓望，仍期別夜尋"
+ },
+ {
+  "id": "penta-outer-0160",
+  "label": "o",
+  "couplet": "孫樓渡戈俾，思眉流同隈",
+  "source_couplet": "雨中看亦好，況復值初晴"
+ },
+ {
+  "id": "penta-outer-0161",
+  "label": "o",
+  "couplet": "君崖蘧竹訟，養山漢灘恣",
+  "source_couplet": "雪初開一徑，師忽扣雙扉"
+ },
+ {
+  "id": "penta-outer-0162",
+  "label": "o",
+  "couplet": "峯爲今雨瓈，不作客潛涇",
+  "source_couplet": "過時君未賞，空媚幽林前"
+ },
+ {
+  "id": "penta-outer-0163",
+  "label": "o",
+  "couplet": "春生蹇人看，問次豈神曆",
+  "source_couplet": "飛泉信可挹，幽客未歸來"
+ },
+ {
+  "id": "penta-outer-0164",
+  "label": "o",
+  "couplet": "虛程禮煙鬢，風菰帝相惲",
+  "source_couplet": "蓬萊自有路，莫羨武陵春"
+ },
+ {
+  "id": "penta-outer-0165",
+  "label": "o",
+  "couplet": "潺池律理壤，勤羈下情鶉",
+  "source_couplet": "如今已無計，祗得苦於詩"
+ },
+ {
+  "id": "penta-outer-0166",
+  "label": "o",
+  "couplet": "毬嶺回新孕，辭雲祇在吞",
+  "source_couplet": "興移無灑埽，隨意坐莓苔"
+ },
+ {
+  "id": "penta-outer-0167",
+  "label": "o",
+  "couplet": "吞放伴未誇，論修陰寅扈",
+  "source_couplet": "故園不可見，巫岫鬱嵯峨"
+ },
+ {
+  "id": "penta-outer-0168",
+  "label": "o",
+  "couplet": "春主尾山俾，細江茹納礦",
+  "source_couplet": "秋光雖即好，客思轉悠哉"
+ },
+ {
+  "id": "penta-outer-0169",
+  "label": "o",
+  "couplet": "郭川汜不樨，天屋燕迷辯",
+  "source_couplet": "出門山未曙，風葉暗蕭蕭"
+ },
+ {
+  "id": "penta-outer-0170",
+  "label": "o",
+  "couplet": "名畔硯庭嗇，民不袖回袈",
+  "source_couplet": "不曾離隱處，那得世人逢"
+ },
+ {
+  "id": "penta-outer-0171",
+  "label": "o",
+  "couplet": "稼啼老汲拱，償或將夢呈",
+  "source_couplet": "雖蒙絕馳道，京兆別開阡"
+ },
+ {
+  "id": "penta-outer-0172",
+  "label": "o",
+  "couplet": "窕珠客四嗇，鸝雲饗花惰",
+  "source_couplet": "料君攜去處，煙雨太湖舟"
+ },
+ {
+  "id": "penta-outer-0173",
+  "label": "o",
+  "couplet": "真早稽徼救，五樹民不踊",
+  "source_couplet": "妾自肝腸斷，傍人那得知"
+ },
+ {
+  "id": "penta-outer-0174",
+  "label": "o",
+  "couplet": "萋玉蒼不蔣，夢寄溪聲惓",
+  "source_couplet": "霜旦早暉通，城烏漸颺空"
+ },
+ {
+  "id": "penta-outer-0175",
+  "label": "o",
+  "couplet": "全來廬思沿，殘健更哂高",
+  "source_couplet": "何處無留滯，誰能暫問看"
+ },
+ {
+  "id": "penta-outer-0176",
+  "label": "o",
+  "couplet": "年那稻迷喀，銀尋浴寒鱘",
+  "source_couplet": "千回掌上橫，珍重遠方情"
+ },
+ {
+  "id": "penta-outer-0177",
+  "label": "o",
+  "couplet": "瘦新題贈韶，洲湖更人八",
+  "source_couplet": "共說干戈苦，汀洲減釣家"
+ },
+ {
+  "id": "penta-outer-0178",
+  "label": "o",
+  "couplet": "復候遠廢蕾，眉鳳首秋奧",
+  "source_couplet": "將何佐明主，甘老在巖松"
+ },
+ {
+  "id": "penta-outer-0179",
+  "label": "o",
+  "couplet": "來泥琴啼氤，流吟水茅慚",
+  "source_couplet": "寥落軍城暮，重門返照間"
+ },
+ {
+  "id": "penta-outer-0180",
+  "label": "o",
+  "couplet": "香月入深薇，勝藏謝對漿",
+  "source_couplet": "日暮駐徵策，愛茲清渭流"
+ },
+ {
+  "id": "penta-outer-0181",
+  "label": "o",
+  "couplet": "不好散生癘，佳風外村疹",
+  "source_couplet": "我聞並信受，總是假名陳"
+ },
+ {
+  "id": "penta-outer-0182",
+  "label": "o",
+  "couplet": "夢曲味肯朧，殊負霽篆鵡",
+  "source_couplet": "聞鍾獨不齋，何事更關懷"
+ },
+ {
+  "id": "penta-outer-0183",
+  "label": "o",
+  "couplet": "早記蕩威炷，去重二山餳",
+  "source_couplet": "豈獨年相迫，兼爲病所侵"
+ },
+ {
+  "id": "penta-outer-0184",
+  "label": "o",
+  "couplet": "嶽漸遠澤宣，月子帆誠鼪",
+  "source_couplet": "已識風雲意，寧愁雨谷賒"
+ },
+ {
+  "id": "penta-outer-0185",
+  "label": "o",
+  "couplet": "婁澹病別鴟，幾又樹織攤",
+  "source_couplet": "舊國蕭條思，青山隔幾重"
+ },
+ {
+  "id": "penta-outer-0186",
+  "label": "o",
+  "couplet": "村得細劍泱，空不景午繚",
+  "source_couplet": "曾聞宋玉宅，每欲到荊州"
+ },
+ {
+  "id": "penta-outer-0187",
+  "label": "o",
+  "couplet": "刑羌遙貫宗，愁林斜出薜",
+  "source_couplet": "豈得戀樵漁，全家湖畔居"
+ },
+ {
+  "id": "penta-outer-0188",
+  "label": "o",
+  "couplet": "王炯角對顧，問流深三惹",
+  "source_couplet": "雞鳴將狗盜，論德不論勳"
+ },
+ {
+  "id": "penta-outer-0189",
+  "label": "o",
+  "couplet": "祖聲振沿岑，難嗤補起臭",
+  "source_couplet": "再入青鎖闈，忝官誠自非"
+ },
+ {
+  "id": "penta-outer-0190",
+  "label": "o",
+  "couplet": "入別吁削捎，澗淺天恕樑",
+  "source_couplet": "流年未可嘆，正遇太階平"
+ },
+ {
+  "id": "penta-outer-0191",
+  "label": "o",
+  "couplet": "碧計江徹罨，岸虎逢馬廉",
+  "source_couplet": "且莫乘船去，平生相訪稀"
+ },
+ {
+  "id": "penta-outer-0192",
+  "label": "o",
+  "couplet": "黍物帝相鬢，徊徑至子雷",
+  "source_couplet": "誰知武陵路，亦有漢家臣"
+ },
+ {
+  "id": "penta-outer-0193",
+  "label": "o",
+  "couplet": "艾向昔雨黿，厭空宮處腮",
+  "source_couplet": "離鄉積歲年，歸路遠依然"
+ },
+ {
+  "id": "penta-outer-0194",
+  "label": "o",
+  "couplet": "筒闊當睡崿，石盟蜀青櫪",
+  "source_couplet": "桂楫中流望，京江兩畔明"
+ },
+ {
+  "id": "penta-outer-0195",
+  "label": "o",
+  "couplet": "足茫敢白墨，窮月寺吹傃",
+  "source_couplet": "舟行復陸行，始得到鹹京"
+ },
+ {
+  "id": "penta-outer-0196",
+  "label": "o",
+  "couplet": "僻碧中員虆，失玉齊人眼",
+  "source_couplet": "木落雨翛翛，桐江古岸頭"
+ },
+ {
+  "id": "penta-outer-0197",
+  "label": "o",
+  "couplet": "用時不日驟，車鬼橘草蠨",
+  "source_couplet": "爭似山中隱，和雲枕碧湍"
+ },
+ {
+  "id": "penta-outer-0198",
+  "label": "o",
+  "couplet": "聲飛笑興肩，回塢峨上眯",
+  "source_couplet": "豈易及歸榮，辛勤致此名"
+ },
+ {
+  "id": "penta-outer-0199",
+  "label": "o",
+  "couplet": "芸江看色隊，野沾地嘯脊",
+  "source_couplet": "鮑昭多所得，時憶寄湯生"
+ },
+ {
+  "id": "penta-outer-0200",
+  "label": "o",
+  "couplet": "陳生牧更尻，老轉肱嶼璇",
+  "source_couplet": "還須止雜念，數息度黃昏"
+ },
+ {
+  "id": "penta-outer-0201",
+  "label": "o",
+  "couplet": "月嗟烏義湲，禪寒下未元",
+  "source_couplet": "府事幸稀簡，常爲東谷遊"
+ },
+ {
+  "id": "penta-outer-0202",
+  "label": "o",
+  "couplet": "聲組定海笭，上結憲雲技",
+  "source_couplet": "梅花如有語，莫似去年時"
+ },
+ {
+  "id": "penta-outer-0203",
+  "label": "o",
+  "couplet": "鵠羲何擁八，夷椽迴江敏",
+  "source_couplet": "古寺近田家，山尋石盆差"
+ },
+ {
+  "id": "penta-outer-0204",
+  "label": "o",
+  "couplet": "關飯爲火緪，事天與村元",
+  "source_couplet": "早識浮生妄，欣陪達士遊"
+ },
+ {
+  "id": "penta-outer-0205",
+  "label": "o",
+  "couplet": "女煩隔停牒，膺上孤看墨",
+  "source_couplet": "灰灑知虛實，於渠似可行"
+ },
+ {
+  "id": "penta-outer-0206",
+  "label": "o",
+  "couplet": "此通壯修肖，下慚徵解脊",
+  "source_couplet": "他年葛洪井，更欲問三生"
+ },
+ {
+  "id": "penta-outer-0207",
+  "label": "o",
+  "couplet": "歌時防戶砥，獨影廷東然",
+  "source_couplet": "相思梅已謝，無處問歸期"
+ },
+ {
+  "id": "penta-outer-0208",
+  "label": "o",
+  "couplet": "源鴿悅客繮，溜彌未空鈴",
+  "source_couplet": "醉眼乾坤大，歸心日夜長"
+ },
+ {
+  "id": "penta-outer-0209",
+  "label": "o",
+  "couplet": "喜濤新黃俾，日憂梳將痌",
+  "source_couplet": "天涯春漫好，無奈客愁何"
+ },
+ {
+  "id": "penta-outer-0210",
+  "label": "o",
+  "couplet": "古幸顏能翬，降貴里空阨",
+  "source_couplet": "蟠桃應已熟，方朔在人寰"
+ },
+ {
+  "id": "penta-outer-0211",
+  "label": "o",
+  "couplet": "地何三湍渭，粉曲伴未曹",
+  "source_couplet": "近對焦仙洞，飛霞不可攀"
+ },
+ {
+  "id": "penta-outer-0212",
+  "label": "o",
+  "couplet": "哀久舟輕翬，來息言廊蠲",
+  "source_couplet": "西家新釀熟，祀竈請比鄰"
+ },
+ {
+  "id": "penta-outer-0213",
+  "label": "o",
+  "couplet": "齊人玉涕縵，日橫帶漬荒",
+  "source_couplet": "古岸侵煙出，揚帆拂曙星"
+ },
+ {
+  "id": "penta-outer-0214",
+  "label": "o",
+  "couplet": "面喁激自快，籬出塵語塊",
+  "source_couplet": "積雪覆茅屋，僧居清更清"
+ },
+ {
+  "id": "penta-outer-0215",
+  "label": "o",
+  "couplet": "考門能雙邙，能勞甚淺臻",
+  "source_couplet": "絮酒慚徐孺，回看旅雁飛"
+ },
+ {
+  "id": "penta-outer-0216",
+  "label": "o",
+  "couplet": "悲第眼滿鈐，鈞悽香耳脊",
+  "source_couplet": "欲覓曲江水，連雲禾黍生"
+ },
+ {
+  "id": "penta-outer-0217",
+  "label": "o",
+  "couplet": "淳吾卻掃技，秋綠宮影踊",
+  "source_couplet": "嗜酒傲明時，何因賀監知"
+ },
+ {
+  "id": "penta-outer-0218",
+  "label": "o",
+  "couplet": "登行壯秋私，送林南晨癢",
+  "source_couplet": "洞門生異竹，冉冉接同亭"
+ },
+ {
+  "id": "penta-outer-0219",
+  "label": "o",
+  "couplet": "草市真趣賤，亦色樵衣踊",
+  "source_couplet": "兀兀一無爲，冥冥百不知"
+ },
+ {
+  "id": "penta-outer-0220",
+  "label": "o",
+  "couplet": "闌君石盟仇，裾護美德瓢",
+  "source_couplet": "政譽京江口，威名峴首山"
+ },
+ {
+  "id": "penta-outer-0221",
+  "label": "o",
+  "couplet": "憲雲餘淚陀，深此覺柳俯",
+  "source_couplet": "去年冬不雪，今雪太匆匆"
+ },
+ {
+  "id": "penta-outer-0222",
+  "label": "o",
+  "couplet": "往旗詩全尖，低松問動欷",
+  "source_couplet": "寂寂禪房閉，陰陰夏木繁"
+ },
+ {
+  "id": "penta-outer-0223",
+  "label": "o",
+  "couplet": "病即綵海罨，枕便辛生比",
+  "source_couplet": "如何早仙去，寒日慘山丘"
+ },
+ {
+  "id": "penta-outer-0224",
+  "label": "o",
+  "couplet": "瓦樂垢連繢，蘩成盡長誚",
+  "source_couplet": "既得賢模範，歸歟喜過庭"
+ },
+ {
+  "id": "penta-outer-0225",
+  "label": "o",
+  "couplet": "但暮霜暫罅，存欲晨年級",
+  "source_couplet": "秋陽弄光影，忽吐半林紅"
+ },
+ {
+  "id": "penta-outer-0226",
+  "label": "o",
+  "couplet": "役岸流秀翬，草成禪雪蝨",
+  "source_couplet": "成林盧橘熟，翠羽雜金鱗"
+ },
+ {
+  "id": "penta-outer-0227",
+  "label": "o",
+  "couplet": "簾相水溢曣，女取雖花恣",
+  "source_couplet": "綿綿上釣磯，漠漠擁閒扉"
+ },
+ {
+  "id": "penta-outer-0228",
+  "label": "o",
+  "couplet": "回滿老百壤，玉紫憐毒斧",
+  "source_couplet": "闔郡留無計，匆匆奪父師"
+ },
+ {
+  "id": "penta-outer-0229",
+  "label": "o",
+  "couplet": "湖宅祈屢姚，凝繼喜孤齪",
+  "source_couplet": "門外月誰敲，花開醉遠郊"
+ },
+ {
+  "id": "penta-outer-0230",
+  "label": "o",
+  "couplet": "心因名天婑，之雉畫滿畬",
+  "source_couplet": "忘憂得佳句，不敢比扶留"
+ },
+ {
+  "id": "penta-outer-0231",
+  "label": "o",
+  "couplet": "暉雨夜俸嗇，思辨瘦細殄",
+  "source_couplet": "風流傷別處，粉淚灑紅衣"
+ },
+ {
+  "id": "penta-outer-0232",
+  "label": "o",
+  "couplet": "獨停及光儀，事違花慼筒",
+  "source_couplet": "延陵七春夢，悲切意更微"
+ },
+ {
+  "id": "penta-outer-0233",
+  "label": "o",
+  "couplet": "共路踐憩吝，遺天柔跡葡",
+  "source_couplet": "清光對尊酒，莫作古今愁"
+ },
+ {
+  "id": "penta-outer-0234",
+  "label": "o",
+  "couplet": "連苦依齊炷，通音螭棹濛",
+  "source_couplet": "晨起公私迫，昏歸鳥雀催"
+ },
+ {
+  "id": "penta-outer-0235",
+  "label": "o",
+  "couplet": "客背觸笈庵，暉雨佇着黿",
+  "source_couplet": "中令有清德，風流二百年"
+ },
+ {
+  "id": "penta-outer-0236",
+  "label": "o",
+  "couplet": "南生埃何謨，象穩牆意櫱",
+  "source_couplet": "淡然遺世慮，松籟起清音"
+ },
+ {
+  "id": "penta-outer-0237",
+  "label": "o",
+  "couplet": "里陳放夢殄，無絆閣雲篨",
+  "source_couplet": "西風吹客衣，束擔出王畿"
+ },
+ {
+  "id": "penta-outer-0238",
+  "label": "o",
+  "couplet": "欲宮伯海傅，擁痕閱詩僖",
+  "source_couplet": "舊峯歸計晚，長憶隔吳青"
+ },
+ {
+  "id": "penta-outer-0239",
+  "label": "o",
+  "couplet": "肩隱沱面贛，賓洙牆去濮",
+  "source_couplet": "三載故鄉別，歸帆恰到吳"
+ },
+ {
+  "id": "penta-outer-0240",
+  "label": "o",
+  "couplet": "逢路必平換，露風殊談炊",
+  "source_couplet": "白髮今如此，無依實可憐"
+ },
+ {
+  "id": "penta-outer-0241",
+  "label": "o",
+  "couplet": "薄鳧家家積，亂鑰話文闤",
+  "source_couplet": "曉色奪燈焰，秋寒侵薄帷"
+ },
+ {
+  "id": "penta-outer-0242",
+  "label": "o",
+  "couplet": "時省百總狄，疏援蕙多堞",
+  "source_couplet": "天衢從此卜，何用問前程"
+ },
+ {
+  "id": "penta-outer-0243",
+  "label": "o",
+  "couplet": "獄難寺卻弔，巖枯工候儉",
+  "source_couplet": "還嗟別後夜，風雪擁貂裘"
+ },
+ {
+  "id": "penta-outer-0244",
+  "label": "o",
+  "couplet": "風此春曾迂，賞首身年毫",
+  "source_couplet": "雙魚何日寄，迢遞歲將淹"
+ },
+ {
+  "id": "penta-outer-0245",
+  "label": "o",
+  "couplet": "筍語魏住屩，芰多未焚鈴",
+  "source_couplet": "無物能娛老，冥搜興漫長"
+ },
+ {
+  "id": "penta-outer-0246",
+  "label": "o",
+  "couplet": "連苦落地罨，合同名印鈴",
+  "source_couplet": "晨起東園去，消磨夏日長"
+ },
+ {
+  "id": "penta-outer-0247",
+  "label": "o",
+  "couplet": "罷百去遙疏，排雪疏伐八",
+  "source_couplet": "誰得東君信，風生十萬家"
+ },
+ {
+  "id": "penta-outer-0248",
+  "label": "o",
+  "couplet": "憂南火幾奴，牛客披水墾",
+  "source_couplet": "相看漸成故，臨別欲何如"
+ },
+ {
+  "id": "penta-outer-0249",
+  "label": "o",
+  "couplet": "笳因侵何且，風永人語瞬",
+  "source_couplet": "寄聲可相及，一見慰天涯"
+ },
+ {
+  "id": "penta-outer-0250",
+  "label": "o",
+  "couplet": "雪入扉堅觴，笑窮樓醉菀",
+  "source_couplet": "方喧思獨坐，當靜想清言"
+ },
+ {
+  "id": "penta-outer-0251",
+  "label": "o",
+  "couplet": "阜江原靈踐，久轉霄春澹",
+  "source_couplet": "落葉紛可掃，幽花寒自開"
+ },
+ {
+  "id": "penta-outer-0252",
+  "label": "o",
+  "couplet": "光烏百倍簫，稱二風永惲",
+  "source_couplet": "南國三衣客，王城一見春"
+ },
+ {
+  "id": "penta-outer-0253",
+  "label": "o",
+  "couplet": "口下荒天胄，疏援祠歌輩",
+  "source_couplet": "詎須詩欠興，何用竹相娛"
+ },
+ {
+  "id": "penta-outer-0254",
+  "label": "o",
+  "couplet": "處收三龍樞，節丹未重壺",
+  "source_couplet": "城東孝義寺，仍說臥冰池"
+ },
+ {
+  "id": "penta-outer-0255",
+  "label": "o",
+  "couplet": "橫即荒處嶇，每落草晝脊",
+  "source_couplet": "四顧水無際，三更月未生"
+ },
+ {
+  "id": "penta-outer-0256",
+  "label": "o",
+  "couplet": "楊江事標鴰，未外生蓼媧",
+  "source_couplet": "俯仰南湖月，瑤琴鎖碧塵"
+ },
+ {
+  "id": "penta-outer-0257",
+  "label": "o",
+  "couplet": "行功九陽證，石井共發蒿",
+  "source_couplet": "森然異氣象，真復慰泥塗"
+ },
+ {
+  "id": "penta-outer-0258",
+  "label": "o",
+  "couplet": "追鮑庭評帢，草重方難阜",
+  "source_couplet": "老病須微祿，歸田恨未能"
+ },
+ {
+  "id": "penta-outer-0259",
+  "label": "o",
+  "couplet": "豫對虎如也，垣清從真齏",
+  "source_couplet": "春水自茲遠，幽期空復存"
+ },
+ {
+  "id": "penta-outer-0260",
+  "label": "o",
+  "couplet": "送林巖椽判，桐諸細江榴",
+  "source_couplet": "冉冉年光盡，悽悽客思驚"
+ },
+ {
+  "id": "penta-outer-0261",
+  "label": "o",
+  "couplet": "水更出城稻，惠也烏浦埕",
+  "source_couplet": "忽聞埋璧痛，薤露不成歌"
+ },
+ {
+  "id": "penta-outer-0262",
+  "label": "o",
+  "couplet": "徐欄洛是痾，瞠人自廚戴",
+  "source_couplet": "吾窮有詩耳，資汝謁公卿"
+ },
+ {
+  "id": "penta-outer-0263",
+  "label": "o",
+  "couplet": "御雨徑詩鬢，物別平殘姜",
+  "source_couplet": "晚入招提路，山風冷透裳"
+ },
+ {
+  "id": "penta-outer-0264",
+  "label": "o",
+  "couplet": "江悲瑞如俾，同地犖慟眼",
+  "source_couplet": "春來亦何好，惟有白添頭"
+ },
+ {
+  "id": "penta-outer-0265",
+  "label": "o",
+  "couplet": "相坤相棧櫸，庭紫滕空漿",
+  "source_couplet": "蚤擅春秋學，賢關第一流"
+ },
+ {
+  "id": "penta-outer-0266",
+  "label": "o",
+  "couplet": "讀行亦取讖，涼三渴苔蔭",
+  "source_couplet": "永懷草廬葛，來訪鹿門龐"
+ },
+ {
+  "id": "penta-outer-0267",
+  "label": "o",
+  "couplet": "天枕牛沈庇，山柴齊動柏",
+  "source_couplet": "可無田種秫，三徑未宜荒"
+ },
+ {
+  "id": "penta-outer-0268",
+  "label": "o",
+  "couplet": "鱸爲有銷會，此三日水璚",
+  "source_couplet": "繡斧離章貢，旋聞帥壽沙"
+ },
+ {
+  "id": "penta-outer-0269",
+  "label": "o",
+  "couplet": "惡今筠覺麰，白亂計晴徂",
+  "source_couplet": "總戎臨百粵，花鳥瘴江村"
+ },
+ {
+  "id": "penta-outer-0270",
+  "label": "o",
+  "couplet": "融研匹葉罨，起卷隱膏惲",
+  "source_couplet": "莫棄茅庵去，白桃花又春"
+ },
+ {
+  "id": "penta-outer-0271",
+  "label": "o",
+  "couplet": "遍雲沒道巳，華掠兄心瓤",
+  "source_couplet": "風光欠管領，付與得閒人"
+ },
+ {
+  "id": "penta-outer-0272",
+  "label": "o",
+  "couplet": "正羨府館部，見息有類坪",
+  "source_couplet": "移戍腰金印，將軍度玉關"
+ },
+ {
+  "id": "penta-outer-0273",
+  "label": "o",
+  "couplet": "濃四方對陀，芝睯事刑乖",
+  "source_couplet": "東州逢臘雪，卻憶竟陵梅"
+ },
+ {
+  "id": "penta-outer-0274",
+  "label": "o",
+  "couplet": "春看負久猊，色聽眼論吞",
+  "source_couplet": "惟應雙屐齒，歷歷在莓苔"
+ },
+ {
+  "id": "penta-outer-0275",
+  "label": "o",
+  "couplet": "柳隨高棹陛，手人泉謝魯",
+  "source_couplet": "荒村店雖陋，店主頗殷勤"
+ },
+ {
+  "id": "penta-outer-0276",
+  "label": "o",
+  "couplet": "弩殘蔬寧鬢，勝殘綿因奧",
+  "source_couplet": "淨埽門前路，期君馬系松"
+ },
+ {
+  "id": "penta-outer-0277",
+  "label": "o",
+  "couplet": "爲澄春敢補，鴻情赤懿泉",
+  "source_couplet": "如鑑又如鉤，迴旋莫記秋"
+ },
+ {
+  "id": "penta-outer-0278",
+  "label": "o",
+  "couplet": "孝期密痴惻，金金餘東踵",
+  "source_couplet": "從前短鬢髮，爲爾漸雙皤"
+ },
+ {
+  "id": "penta-outer-0279",
+  "label": "o",
+  "couplet": "細竹怨芝簫，通歌卜慳早",
+  "source_couplet": "江南一羈客，微命託乾坤"
+ },
+ {
+  "id": "penta-outer-0280",
+  "label": "o",
+  "couplet": "孤觴雒悠瞀，辛往年識璚",
+  "source_couplet": "幽人吟未極，西日散平沙"
+ },
+ {
+  "id": "penta-outer-0281",
+  "label": "o",
+  "couplet": "青須應初陌，欲岸月直塒",
+  "source_couplet": "文章與功業，未老竟長閒"
+ },
+ {
+  "id": "penta-outer-0282",
+  "label": "o",
+  "couplet": "弄沾芬碑窌，路通心粥眼",
+  "source_couplet": "朱繩縛天狗，白羽射旄頭"
+ },
+ {
+  "id": "penta-outer-0283",
+  "label": "o",
+  "couplet": "苑習景文鎧，在當如舊惓",
+  "source_couplet": "逍遙名有理，得一便知空"
+ },
+ {
+  "id": "penta-outer-0284",
+  "label": "o",
+  "couplet": "仰湛記能蔬，略氣川引棠",
+  "source_couplet": "寄來詩在幾，讀著又思君"
+ },
+ {
+  "id": "penta-outer-0285",
+  "label": "o",
+  "couplet": "住幽籍暇晶，萼花書殘笑",
+  "source_couplet": "我心忙也樂，清淨得同歸"
+ },
+ {
+  "id": "penta-outer-0286",
+  "label": "o",
+  "couplet": "竹萊把紛疥，草鷗詩徑埋",
+  "source_couplet": "老支剛笑我，底事作痴兒"
+ },
+ {
+  "id": "penta-outer-0287",
+  "label": "o",
+  "couplet": "蘆北樹繞驟，當勢日寄縞",
+  "source_couplet": "得官兼吏隱，端復謝塵埃"
+ },
+ {
+  "id": "penta-outer-0288",
+  "label": "o",
+  "couplet": "礦狂忽關秦，前遮易因逞",
+  "source_couplet": "才高淹下位，聖代尚遺賢"
+ },
+ {
+  "id": "penta-outer-0289",
+  "label": "o",
+  "couplet": "歲絕鄉鶴本，牽匣無何八",
+  "source_couplet": "獨步溪村午，時時一二家"
+ },
+ {
+  "id": "penta-outer-0290",
+  "label": "o",
+  "couplet": "共傷脈客樞，帳耕換分筒",
+  "source_couplet": "佳景多爲寺，一房當翠微"
+ },
+ {
+  "id": "penta-outer-0291",
+  "label": "o",
+  "couplet": "蘚遺偃笳棱，歲頭壁看鑿",
+  "source_couplet": "五十爲衰始，仍餘五歲衰"
+ },
+ {
+  "id": "penta-outer-0292",
+  "label": "o",
+  "couplet": "恨蠻龍思吝，城子人今襦",
+  "source_couplet": "何必對樽酒，此中堪獨醒"
+ },
+ {
+  "id": "penta-outer-0293",
+  "label": "o",
+  "couplet": "湖沙別叱保，到動袁祿洛",
+  "source_couplet": "知心逢豈易，語別喜從容"
+ },
+ {
+  "id": "penta-outer-0294",
+  "label": "o",
+  "couplet": "倚靜復裏粗，步堪兼孤畬",
+  "source_couplet": "渡江聞道日，少爲故山留"
+ },
+ {
+  "id": "penta-outer-0295",
+  "label": "o",
+  "couplet": "希臼樓病沫，催啼力畫郡",
+  "source_couplet": "要地慵投刺，剛腸恥折腰"
+ },
+ {
+  "id": "penta-outer-0296",
+  "label": "o",
+  "couplet": "頭碑水渺崿，耽月城青泉",
+  "source_couplet": "舉知應有望，鴻翼佇橫秋"
+ },
+ {
+  "id": "penta-outer-0297",
+  "label": "o",
+  "couplet": "歸減不梳冀，頭默懸已旗",
+  "source_couplet": "漢廷日徵召，舟楫去紛紛"
+ },
+ {
+  "id": "penta-outer-0298",
+  "label": "o",
+  "couplet": "五所仙看灼，池榜望才薜",
+  "source_couplet": "海內聲名滿，溪頭且寓居"
+ },
+ {
+  "id": "penta-outer-0299",
+  "label": "o",
+  "couplet": "槿伴尤無俾，時槎戶釣鳷",
+  "source_couplet": "自忝年家好，居慚雌甲辰"
+ },
+ {
+  "id": "penta-outer-0300",
+  "label": "o",
+  "couplet": "泐舊辟梅儀，再昔擁喧笑",
+  "source_couplet": "興亡俱昨夢，惆悵跨驢歸"
+ },
+ {
+  "id": "penta-outer-0301",
+  "label": "o",
+  "couplet": "地傳塵恨誥，榜關路海湮",
+  "source_couplet": "壯圖成慷慨，擲劍向西風"
+ },
+ {
+  "id": "penta-outer-0302",
+  "label": "o",
+  "couplet": "影應竹種粗，不竹爲君臻",
+  "source_couplet": "不來能幾日，漸學翠鸞飛"
+ },
+ {
+  "id": "penta-outer-0303",
+  "label": "o",
+  "couplet": "安西山汗詫，簟遊混劍亹",
+  "source_couplet": "自信直如弦，殘年偶得全"
+ },
+ {
+  "id": "penta-outer-0304",
+  "label": "o",
+  "couplet": "卿聞叢車赤，煙虛百子郎",
+  "source_couplet": "閒愁不用遣，一醉暫成仙"
+ },
+ {
+  "id": "penta-outer-0305",
+  "label": "o",
+  "couplet": "仍微冷愁棚，樵登每中甌",
+  "source_couplet": "散屧過平堤，前村雨一犁"
+ },
+ {
+  "id": "penta-outer-0306",
+  "label": "o",
+  "couplet": "興煮外萬孛，女取遍覺旗",
+  "source_couplet": "春空蒸小雨，漠漠復紛紛"
+ },
+ {
+  "id": "penta-outer-0307",
+  "label": "o",
+  "couplet": "起平因青嗇，院來魚峻樑",
+  "source_couplet": "落日維舟處，沙頭望眼平"
+ },
+ {
+  "id": "penta-outer-0308",
+  "label": "o",
+  "couplet": "上敢海妝煙，藻堂同難劭",
+  "source_couplet": "羞作千人態，甘心鹿與羣"
+ },
+ {
+  "id": "penta-outer-0309",
+  "label": "o",
+  "couplet": "激道秋惟單，仙看蘚遺泉",
+  "source_couplet": "禮樂三千字，聲名五十秋"
+ },
+ {
+  "id": "penta-outer-0310",
+  "label": "o",
+  "couplet": "共傷綠偏暫，光含中累蠲",
+  "source_couplet": "佳景環深院，開門遠俗鄰"
+ },
+ {
+  "id": "penta-outer-0311",
+  "label": "o",
+  "couplet": "鸞容葉責瞀，和料離遂昂",
+  "source_couplet": "形泰神勞極，心非貌敬多"
+ },
+ {
+  "id": "penta-outer-0312",
+  "label": "o",
+  "couplet": "歌微旌垂複，苦物調燈慚",
+  "source_couplet": "黃雲連白草，萬里有無間"
+ },
+ {
+  "id": "penta-outer-0313",
+  "label": "o",
+  "couplet": "黍物徊徑尻，畏如是客湃",
+  "source_couplet": "誰知亦有念，夙駕在青冥"
+ },
+ {
+  "id": "penta-outer-0314",
+  "label": "o",
+  "couplet": "蓬惆盡至仲，經味聲途苔",
+  "source_couplet": "仍須語兒子，此事要家傳"
+ },
+ {
+  "id": "penta-outer-0315",
+  "label": "o",
+  "couplet": "士怪終披疃，秋綠中童誚",
+  "source_couplet": "未洗塵埃腳，何因訪柏庭"
+ },
+ {
+  "id": "penta-outer-0316",
+  "label": "o",
+  "couplet": "細驚遊潛此，事回酒飯惰",
+  "source_couplet": "五湖煙浪靜，誰復泛扁舟"
+ },
+ {
+  "id": "penta-outer-0317",
+  "label": "o",
+  "couplet": "口於啼希狷，樗溶風乘徜",
+  "source_couplet": "短劍悲秦俠，高歌憶楚狂"
+ },
+ {
+  "id": "penta-outer-0318",
+  "label": "o",
+  "couplet": "敬東來說溜，運橫初賓技",
+  "source_couplet": "風俗非平昔，賢豪棄此時"
+ },
+ {
+  "id": "penta-outer-0319",
+  "label": "o",
+  "couplet": "懸民把綠璚，民壑捲上八",
+  "source_couplet": "聚散等風沙，相知要當家"
+ },
+ {
+  "id": "penta-outer-0320",
+  "label": "o",
+  "couplet": "消前島即粗，沈住許一沱",
+  "source_couplet": "降敵知無日，和戎事已休"
+ },
+ {
+  "id": "penta-outer-0321",
+  "label": "o",
+  "couplet": "鯨至窗白蛩，亦見寺舟齪",
+  "source_couplet": "調發煩三郡，跳梁滿四郊"
+ },
+ {
+  "id": "penta-outer-0322",
+  "label": "o",
+  "couplet": "復憐化水梵，大稱爽經脊",
+  "source_couplet": "江湖有煙浪，且此寄餘生"
+ },
+ {
+  "id": "penta-outer-0323",
+  "label": "o",
+  "couplet": "鹽淳騷日覲，竿還楚病濛",
+  "source_couplet": "呼兒了租賦，莫待縣符催"
+ },
+ {
+  "id": "penta-outer-0324",
+  "label": "o",
+  "couplet": "列嘉漁留闊，下留痛鳳停",
+  "source_couplet": "豈惟重臺省，風采動朝端"
+ },
+ {
+  "id": "penta-outer-0325",
+  "label": "o",
+  "couplet": "君別看樹鬆，穫牀一若羹",
+  "source_couplet": "吾廬雙好樹，簇簇近浮煙"
+ },
+ {
+  "id": "penta-outer-0326",
+  "label": "o",
+  "couplet": "意書鸞史掖，菊夜崇雙曇",
+  "source_couplet": "佳辰誰與醉，夢繞故溪傍"
+ },
+ {
+  "id": "penta-outer-0327",
+  "label": "o",
+  "couplet": "翛中定海登，肖漂還月淇",
+  "source_couplet": "牧童如有感，扣角唱斜陽"
+ },
+ {
+  "id": "penta-outer-0328",
+  "label": "o",
+  "couplet": "無廢名拙遞，分蟹潭哀杯",
+  "source_couplet": "飛橋壯吾邑，虹影麗高深"
+ },
+ {
+  "id": "penta-outer-0329",
+  "label": "o",
+  "couplet": "空樹州今嗟，百一淡子粔",
+  "source_couplet": "吾事未多闕，衣裾莫浪褰"
+ },
+ {
+  "id": "penta-outer-0330",
+  "label": "o",
+  "couplet": "崖坐尋橫宰，得至早白攸",
+  "source_couplet": "汝曹知底事，獨與子規論"
+ },
+ {
+  "id": "penta-outer-0331",
+  "label": "o",
+  "couplet": "遁雨閩生詐，歸病舊幾墨",
+  "source_couplet": "一蒼頭贊謁，兩赤腳扶行"
+ },
+ {
+  "id": "penta-outer-0332",
+  "label": "o",
+  "couplet": "露白輝資暮，在時古任媧",
+  "source_couplet": "更憐渠白叟，呵手訴車塵"
+ },
+ {
+  "id": "penta-outer-0333",
+  "label": "o",
+  "couplet": "雪世風世到，間雁澤骨倭",
+  "source_couplet": "北土重寒食，東風吹故都"
+ },
+ {
+  "id": "penta-outer-0334",
+  "label": "o",
+  "couplet": "枝邀中開梵，有螺窗斧潮",
+  "source_couplet": "天台隔風浪，無地拜佳城"
+ },
+ {
+  "id": "penta-outer-0335",
+  "label": "o",
+  "couplet": "初郭懶寬也，明魯豕常迭",
+  "source_couplet": "及物深仁遠，流光內德昭"
+ },
+ {
+  "id": "penta-outer-0336",
+  "label": "o",
+  "couplet": "斑紳列春把，花眼雨翠筒",
+  "source_couplet": "搗藥禽猶在，時聞出翠微"
+ },
+ {
+  "id": "penta-outer-0337",
+  "label": "o",
+  "couplet": "何歲蓴吹粗，有盛際時挲",
+  "source_couplet": "對揚當有日，傾盡不須刪"
+ },
+ {
+  "id": "penta-outer-0338",
+  "label": "o",
+  "couplet": "欹覺駕今歿，秋紆每陰疲",
+  "source_couplet": "氣受一歲足，千花極後芳"
+ },
+ {
+  "id": "penta-outer-0339",
+  "label": "o",
+  "couplet": "楚枕倚夢宰，辭雲禪眸纓",
+  "source_couplet": "歸休幸無事，隨意酌流霞"
+ },
+ {
+  "id": "penta-outer-0340",
+  "label": "o",
+  "couplet": "華綺鬢處抃，坐卜扉在庚",
+  "source_couplet": "雲亡時共惜，不獨故人悲"
+ },
+ {
+  "id": "penta-outer-0341",
+  "label": "o",
+  "couplet": "縱別又李娣，南虎同古隋",
+  "source_couplet": "異鄉悲節物，歸夢速檣烏"
+ },
+ {
+  "id": "penta-outer-0342",
+  "label": "o",
+  "couplet": "山並濆寧泱，儀米忘聲畋",
+  "source_couplet": "兩漢神仙宅，千年道德鄉"
+ },
+ {
+  "id": "penta-outer-0343",
+  "label": "o",
+  "couplet": "幾馬剡盟塊，處黃中如照",
+  "source_couplet": "曉行風露清，夾徑草蟲鳴"
+ },
+ {
+  "id": "penta-outer-0344",
+  "label": "o",
+  "couplet": "予生昔仙箏，搖殿燕明祓",
+  "source_couplet": "天下赤龍訣，人間金液丹"
+ },
+ {
+  "id": "penta-outer-0345",
+  "label": "o",
+  "couplet": "積夢似氣婢，心故健斁缸",
+  "source_couplet": "息交惟士賤，尚友則師隆"
+ },
+ {
+  "id": "penta-outer-0346",
+  "label": "o",
+  "couplet": "竭冠溪輈雜，留野初層岵",
+  "source_couplet": "摶風九萬里，安隱愧枝巢"
+ },
+ {
+  "id": "penta-outer-0347",
+  "label": "o",
+  "couplet": "喜濤渴幼噏，逐愈一穟腮",
+  "source_couplet": "天涯人老矣，尊酒憶悽然"
+ },
+ {
+  "id": "penta-outer-0348",
+  "label": "o",
+  "couplet": "髼積寒輿淅，泊傾殷響捶",
+  "source_couplet": "山林雖寂寞，亦可息塵勞"
+ },
+ {
+  "id": "penta-outer-0349",
+  "label": "o",
+  "couplet": "傾梅千發辭，落響鬥氣函",
+  "source_couplet": "潁水苦流瀑，淺平秋與冬"
+ },
+ {
+  "id": "penta-outer-0350",
+  "label": "o",
+  "couplet": "春過話貯恭，鴉暗桕章米",
+  "source_couplet": "但學觀心法，何須課佛書"
+ },
+ {
+  "id": "penta-outer-0351",
+  "label": "o",
+  "couplet": "極雪月出宣，角月未窮葺",
+  "source_couplet": "燈花知我意，今夜大如錢"
+ },
+ {
+  "id": "penta-outer-0352",
+  "label": "o",
+  "couplet": "山漢漕隔裲，語與差元鑿",
+  "source_couplet": "昔人勳業地，搔首嘆吾衰"
+ },
+ {
+  "id": "penta-outer-0353",
+  "label": "o",
+  "couplet": "滿薄春曾局，來上多跨酉",
+  "source_couplet": "天兵何日到，淚眼望長安"
+ },
+ {
+  "id": "penta-outer-0354",
+  "label": "o",
+  "couplet": "行於望故暨，殘看倦江柏",
+  "source_couplet": "素志非南阮，丈夫掃八荒"
+ },
+ {
+  "id": "penta-outer-0355",
+  "label": "o",
+  "couplet": "身層疑伏痾，下年際時妒",
+  "source_couplet": "爲君重洗耳，別酒不須斟"
+ },
+ {
+  "id": "penta-outer-0356",
+  "label": "o",
+  "couplet": "幾又州陰驟，路水際時寮",
+  "source_couplet": "青山深處隱，時事不須聞"
+ },
+ {
+  "id": "penta-outer-0357",
+  "label": "o",
+  "couplet": "涬道桑物仍，孤北好聽模",
+  "source_couplet": "淮南酒樓近，玉笛不勝哀"
+ },
+ {
+  "id": "penta-outer-0358",
+  "label": "o",
+  "couplet": "髼積高壯俟，無疑國高鶻",
+  "source_couplet": "山林懷獨往，圖史縱旁搜"
+ },
+ {
+  "id": "penta-outer-0359",
+  "label": "o",
+  "couplet": "幕數方幸人，當夜鬚不誦",
+  "source_couplet": "茶香新落磨，亦足洗炎蒸"
+ },
+ {
+  "id": "penta-outer-0360",
+  "label": "o",
+  "couplet": "霜驪便晴縞，渾瞿龍髓出",
+  "source_couplet": "喜雪靜氛埃，繁雲即日回"
+ },
+ {
+  "id": "penta-outer-0361",
+  "label": "o",
+  "couplet": "魔定畫侶粗，藕何甘話庚",
+  "source_couplet": "喪君於此日，師友最相悲"
+ },
+ {
+  "id": "penta-outer-0362",
+  "label": "o",
+  "couplet": "西復三照宰，國千接羈宕",
+  "source_couplet": "何人修故事，香味徹楓宸"
+ },
+ {
+  "id": "penta-outer-0363",
+  "label": "o",
+  "couplet": "邛與關涼翬，未蜀羊時捧",
+  "source_couplet": "主人情分熟，客興未應闌"
+ },
+ {
+  "id": "penta-outer-0364",
+  "label": "o",
+  "couplet": "詩雞悲新歿，凜凍有處昔",
+  "source_couplet": "明年春雁足，詢我賀書郵"
+ },
+ {
+  "id": "penta-outer-0365",
+  "label": "o",
+  "couplet": "殿又鴒歡才，槳春人呼蟬",
+  "source_couplet": "不受諸方供，枯禪入遠林"
+ },
+ {
+  "id": "penta-outer-0366",
+  "label": "o",
+  "couplet": "火仙薄地穴，與何辱真嫵",
+  "source_couplet": "小橋聊駐馬，流水有佳聲"
+ },
+ {
+  "id": "penta-outer-0367",
+  "label": "o",
+  "couplet": "茲安碧留齁，徑搖兵渭鱘",
+  "source_couplet": "灌園聊日力，分藥且交情"
+ },
+ {
+  "id": "penta-outer-0368",
+  "label": "o",
+  "couplet": "沙鼓衫遙報，初樓意海抉",
+  "source_couplet": "是處牛羊下，喧譁走牧童"
+ },
+ {
+  "id": "penta-outer-0369",
+  "label": "o",
+  "couplet": "首汗蹄入翡，吹城妃欲唱",
+  "source_couplet": "薰風歌吹咽，淚盡古城東"
+ },
+ {
+  "id": "penta-outer-0370",
+  "label": "o",
+  "couplet": "路泉池徒損，天馬手堪以",
+  "source_couplet": "古郡利名外，萬山雲靄中"
+ },
+ {
+  "id": "penta-outer-0371",
+  "label": "o",
+  "couplet": "蹤見柳水舛，爭上肅再窯",
+  "source_couplet": "名在鄉書久，恩由父任優"
+ },
+ {
+  "id": "penta-outer-0372",
+  "label": "o",
+  "couplet": "國詩夢川兕，飛昨岡空腮",
+  "source_couplet": "況須供老眼，欲說已欣然"
+ },
+ {
+  "id": "penta-outer-0373",
+  "label": "o",
+  "couplet": "岸虎夜鸚宣，玉迎學憐洄",
+  "source_couplet": "平生端有意，嘆息自蹉跎"
+ },
+ {
+  "id": "penta-outer-0374",
+  "label": "o",
+  "couplet": "岸虎吳昔攸，霜旅人絅泉",
+  "source_couplet": "平生人物論，自謂富陽秋"
+ },
+ {
+  "id": "penta-outer-0375",
+  "label": "o",
+  "couplet": "貧天寫樹簫，咄新耕雖耿",
+  "source_couplet": "雪堂眠二客，夢與白鷗盟"
+ },
+ {
+  "id": "penta-outer-0376",
+  "label": "o",
+  "couplet": "禪去湛卻袂，安花多解餳",
+  "source_couplet": "位嫌旁見逼，權忌暗相侵"
+ },
+ {
+  "id": "penta-outer-0377",
+  "label": "o",
+  "couplet": "此霞扉在婑，塵牀息晚庶",
+  "source_couplet": "多慚故人句，攲臥一長謳"
+ },
+ {
+  "id": "penta-outer-0378",
+  "label": "o",
+  "couplet": "庭平蠻成尻，關夜親壯跳",
+  "source_couplet": "惟餘憂我念，相憶莫沾巾"
+ },
+ {
+  "id": "penta-outer-0379",
+  "label": "o",
+  "couplet": "叔可年下驟，江去思急瀫",
+  "source_couplet": "何時歸舊隱，風雨對牀眠"
+ },
+ {
+  "id": "penta-outer-0380",
+  "label": "o",
+  "couplet": "率闊行護踟，雲朱煬眼拈",
+  "source_couplet": "獨應吳客問，眉宇識侵淫"
+ },
+ {
+  "id": "penta-outer-0381",
+  "label": "o",
+  "couplet": "敢鼻度民第，碑新竹源霈",
+  "source_couplet": "都然莫施設，恨向九原吞"
+ },
+ {
+  "id": "penta-outer-0382",
+  "label": "o",
+  "couplet": "姚帶草雲鵓，功曹臺昨襦",
+  "source_couplet": "新詩俄拜辱，午醉未全醒"
+ },
+ {
+  "id": "penta-outer-0383",
+  "label": "o",
+  "couplet": "舟日靜處醒，柳應際時禪",
+  "source_couplet": "夷塗指霄漢，局驥不須嗟"
+ },
+ {
+  "id": "penta-outer-0384",
+  "label": "o",
+  "couplet": "猶闕卷縹箱，塞賽方唐鴟",
+  "source_couplet": "徘徊帝城裏，獨詠有所思"
+ },
+ {
+  "id": "penta-outer-0385",
+  "label": "o",
+  "couplet": "逢人故雁谷，聞戈穿不溺",
+  "source_couplet": "著書非爲進，歲久漫成編"
+ },
+ {
+  "id": "penta-outer-0386",
+  "label": "o",
+  "couplet": "起泣懸下挼，去臣夜積癰",
+  "source_couplet": "殊途歸一轍，飛躍自魚鳶"
+ },
+ {
+  "id": "penta-outer-0387",
+  "label": "o",
+  "couplet": "趣早回沽氤，來梅雙盡灊",
+  "source_couplet": "歸來何薄暮，煙火照溪光"
+ },
+ {
+  "id": "penta-outer-0388",
+  "label": "o",
+  "couplet": "有涼鴛佔鴰，歌愛與關鍧",
+  "source_couplet": "久客迷歲月，勞生念斗升"
+ },
+ {
+  "id": "penta-outer-0389",
+  "label": "o",
+  "couplet": "擁德浪磴罨，里陳含隘韉",
+  "source_couplet": "汗漫騎鯨去，西風發半簪"
+ },
+ {
+  "id": "penta-outer-0390",
+  "label": "o",
+  "couplet": "驚鳥收室崍，笑世棧髮鯫",
+  "source_couplet": "愛月斜仍細，占星久未過"
+ },
+ {
+  "id": "penta-outer-0391",
+  "label": "o",
+  "couplet": "雲客歸葉影，鄉空未封笑",
+  "source_couplet": "持杯籬菊畔，又見醉忘歸"
+ },
+ {
+  "id": "penta-outer-0392",
+  "label": "o",
+  "couplet": "夜雪水順鯫，黍物飛話羌",
+  "source_couplet": "久是無人過，誰知照酒杯"
+ },
+ {
+  "id": "penta-outer-0393",
+  "label": "o",
+  "couplet": "船佳隨雨嗇，羨雲艇王袈",
+  "source_couplet": "馬上思親處，題緘寄所逢"
+ },
+ {
+  "id": "penta-outer-0394",
+  "label": "o",
+  "couplet": "彈夢旅囊灼，名疏翠驚整",
+  "source_couplet": "松桂移栽滿，園亭改築新"
+ },
+ {
+  "id": "penta-outer-0395",
+  "label": "o",
+  "couplet": "適移年看知，漫僧舊千湮",
+  "source_couplet": "孤臣讀遺詔，無語泣西風"
+ },
+ {
+  "id": "penta-outer-0396",
+  "label": "o",
+  "couplet": "似鼓濟異佑，西南晚韭杯",
+  "source_couplet": "有子母不死，因君感更深"
+ },
+ {
+  "id": "penta-outer-0397",
+  "label": "o",
+  "couplet": "共時年翠柴，都風諾羣豐",
+  "source_couplet": "岳陽有仙蹟，君去頗相宜"
+ },
+ {
+  "id": "penta-outer-0398",
+  "label": "o",
+  "couplet": "林英知嘗蘋，水放騎子鄴",
+  "source_couplet": "佇期三入後，一品見玄孫"
+ },
+ {
+  "id": "penta-outer-0399",
+  "label": "o",
+  "couplet": "綠同今玒再，手居從追斧",
+  "source_couplet": "反躬端得味，當復有餘師"
+ },
+ {
+  "id": "penta-outer-0400",
+  "label": "o",
+  "couplet": "車氣我滿墨，羅白靜野旗",
+  "source_couplet": "否獨當危行，幽貞謝衆紛"
+ },
+ {
+  "id": "penta-outer-0401",
+  "label": "o",
+  "couplet": "禮煙岸華圍，浹嶺湘翠櫬",
+  "source_couplet": "自有重灘險，還屯外邑兵"
+ },
+ {
+  "id": "penta-outer-0402",
+  "label": "o",
+  "couplet": "惠吟丘作娜，堪餘擬國芉",
+  "source_couplet": "夢斷朝元閣，來尋賣酒樓"
+ },
+ {
+  "id": "penta-outer-0403",
+  "label": "o",
+  "couplet": "暗對烏薶鯫，昔登俗神繃",
+  "source_couplet": "松間新雨過，清覽出亭皋"
+ },
+ {
+  "id": "penta-outer-0404",
+  "label": "o",
+  "couplet": "還時聽騎蘿，處歲藥祠杯",
+  "source_couplet": "野鼠穿黃穴，遺封百草深"
+ },
+ {
+  "id": "penta-outer-0405",
+  "label": "o",
+  "couplet": "梵改史心憲，隔戀任櫛紗",
+  "source_couplet": "驟喧氣候變，幽園卉物悽"
+ },
+ {
+  "id": "penta-outer-0406",
+  "label": "o",
+  "couplet": "適移徊窮崿，棘成遷算湮",
+  "source_couplet": "孤臣重北望，掩袖立西風"
+ },
+ {
+  "id": "penta-outer-0407",
+  "label": "o",
+  "couplet": "公蝶小衣罨，豈休羽洞廷",
+  "source_couplet": "欲搖孤楫去，江闊雨濛濛"
+ },
+ {
+  "id": "penta-outer-0408",
+  "label": "o",
+  "couplet": "山秀浪樹窠，莫雲入門哦",
+  "source_couplet": "信有儒冠誤，憑軒意欲迷"
+ },
+ {
+  "id": "penta-outer-0409",
+  "label": "o",
+  "couplet": "鉤肥完動晴，待傾度袞瞬",
+  "source_couplet": "不見南來雁，新愁未有涯"
+ },
+ {
+  "id": "penta-outer-0410",
+  "label": "o",
+  "couplet": "地公思深魴，欃蒼自霜鞏",
+  "source_couplet": "萬水更千岑，朝晴又暮陰"
+ },
+ {
+  "id": "penta-outer-0411",
+  "label": "o",
+  "couplet": "日途荒誼珞，心俗涼旆沱",
+  "source_couplet": "心隨酒船發，悵望不能休"
+ },
+ {
+  "id": "penta-outer-0412",
+  "label": "o",
+  "couplet": "情餘貴遲湮，川停甑牀攤",
+  "source_couplet": "翠袖倚天風，雲封路萬重"
+ },
+ {
+  "id": "penta-outer-0413",
+  "label": "o",
+  "couplet": "弟目歡疏局，似昃客力脊",
+  "source_couplet": "高館人難到，層階草漫生"
+ },
+ {
+  "id": "penta-outer-0414",
+  "label": "o",
+  "couplet": "岸茶君袁巉，懸酒潁佩筒",
+  "source_couplet": "謾道因詩瘦，高情深翠微"
+ },
+ {
+  "id": "penta-outer-0415",
+  "label": "o",
+  "couplet": "庭需種戀晏，錦德淙船照",
+  "source_couplet": "萬木漸搖落，涼風策策鳴"
+ },
+ {
+  "id": "penta-outer-0416",
+  "label": "o",
+  "couplet": "霜句水順笭，童燕處明腮",
+  "source_couplet": "佇立無人語，巡檐思慘然"
+ },
+ {
+  "id": "penta-outer-0417",
+  "label": "o",
+  "couplet": "檐久不日簫，知驚抱懷祟",
+  "source_couplet": "寄語山中客，無爲空苦飢"
+ },
+ {
+  "id": "penta-outer-0418",
+  "label": "o",
+  "couplet": "道信江去鯫，衣燕落園米",
+  "source_couplet": "茅檐風雨過，飄溼案頭書"
+ },
+ {
+  "id": "penta-outer-0419",
+  "label": "o",
+  "couplet": "妒佛門砌杏，深以戰忽孀",
+  "source_couplet": "白簡留烏府，紅蓮映紫薇"
+ },
+ {
+  "id": "penta-outer-0420",
+  "label": "o",
+  "couplet": "人士被深粗，遙竹共先涵",
+  "source_couplet": "重會知何日，衰顏豈待渠"
+ },
+ {
+  "id": "penta-outer-0421",
+  "label": "o",
+  "couplet": "清內漱貞儀，好徑如萬酊",
+  "source_couplet": "那復鈞天夢，知音自不窮"
+ },
+ {
+  "id": "penta-outer-0422",
+  "label": "o",
+  "couplet": "殊開渡收喜，看憩少由良",
+  "source_couplet": "醉脫荷衣臥，幽琴懶更攜"
+ },
+ {
+  "id": "penta-outer-0423",
+  "label": "o",
+  "couplet": "蓋已相時韓，春曾見仲潮",
+  "source_couplet": "乘槎空有約，何日海邊城"
+ },
+ {
+  "id": "penta-outer-0424",
+  "label": "o",
+  "couplet": "時幽澹詩奎，六深史銖以",
+  "source_couplet": "危棧梯空上，人行香靄中"
+ },
+ {
+  "id": "penta-outer-0425",
+  "label": "o",
+  "couplet": "殊人懷夕氤，開結不鶻寮",
+  "source_couplet": "獨坐高樓暮，淒涼何所聞"
+ },
+ {
+  "id": "penta-outer-0426",
+  "label": "o",
+  "couplet": "波家是夕徽，聞卻莽留捧",
+  "source_couplet": "月落夜方半，江空歲又闌"
+ },
+ {
+  "id": "penta-outer-0427",
+  "label": "o",
+  "couplet": "穎冊儀米朱，蒼賴已生帳",
+  "source_couplet": "城郭千年舊，村墟百戰餘"
+ },
+ {
+  "id": "penta-outer-0428",
+  "label": "o",
+  "couplet": "世規法渠韓，煙外燈蜃媧",
+  "source_couplet": "種蓮毋負約，金地不生塵"
+ },
+ {
+  "id": "penta-outer-0429",
+  "label": "o",
+  "couplet": "養夫此宮否，病即漲闊眯",
+  "source_couplet": "爲問催花鳥，如何得使名"
+ },
+ {
+  "id": "penta-outer-0430",
+  "label": "o",
+  "couplet": "逼之住龐脂，蓬魄徵在舒",
+  "source_couplet": "揖讓思虞仲，絃歌憶子游"
+ },
+ {
+  "id": "penta-outer-0431",
+  "label": "o",
+  "couplet": "里陳思不急，未露游卑八",
+  "source_couplet": "西風苜蓿花，南客又移家"
+ },
+ {
+  "id": "penta-outer-0432",
+  "label": "o",
+  "couplet": "笑無相門頤，巾霪舊掩藹",
+  "source_couplet": "仙華雲縹緲，愁絕刻舟痕"
+ },
+ {
+  "id": "penta-outer-0433",
+  "label": "o",
+  "couplet": "伊白相思裲，坤短噪值吞",
+  "source_couplet": "更尋禪寂地，石上玩蒼苔"
+ },
+ {
+  "id": "penta-outer-0434",
+  "label": "o",
+  "couplet": "罥河風林晤，鸞史夜寇羌",
+  "source_couplet": "非君一命駕，誰與共傳杯"
+ },
+ {
+  "id": "penta-outer-0435",
+  "label": "o",
+  "couplet": "元霄在正宣，萬采是記瓤",
+  "source_couplet": "遂諳山水意，有爲苦留人"
+ },
+ {
+  "id": "penta-outer-0436",
+  "label": "o",
+  "couplet": "瓘將深意宰，兩月外灑徼",
+  "source_couplet": "看君話心事，餘子盡崎嶇"
+ },
+ {
+  "id": "penta-outer-0437",
+  "label": "o",
+  "couplet": "凝不長留塊，餘影岱自庾",
+  "source_couplet": "九月秋氣清，輕舟移晚汀"
+ },
+ {
+  "id": "penta-outer-0438",
+  "label": "o",
+  "couplet": "氣暮前侈弗，樵登葛席真",
+  "source_couplet": "未必號寒甚，前村急暮砧"
+ },
+ {
+  "id": "penta-outer-0439",
+  "label": "o",
+  "couplet": "客遠復憐奎，愧正嘗陳以",
+  "source_couplet": "汎汎江湖上，悠悠宇宙中"
+ },
+ {
+  "id": "penta-outer-0440",
+  "label": "o",
+  "couplet": "輿有臥林吝，上欃出色鏤",
+  "source_couplet": "釀秫方充酒，樵林始足薪"
+ },
+ {
+  "id": "penta-outer-0441",
+  "label": "o",
+  "couplet": "獨皆閒來救，滿豈淮飄杪",
+  "source_couplet": "四圍山不斷，狀若碧芙蓉"
+ },
+ {
+  "id": "penta-outer-0442",
+  "label": "o",
+  "couplet": "俗郭猿王緋，日豪石論嬪",
+  "source_couplet": "聖朝方急士，莫倚是黃冠"
+ },
+ {
+  "id": "penta-outer-0443",
+  "label": "o",
+  "couplet": "春曾一轉攸，區控無課昧",
+  "source_couplet": "何日聽高論，令人慰夙心"
+ },
+ {
+  "id": "penta-outer-0444",
+  "label": "o",
+  "couplet": "成老北原衝，識星傳泉渾",
+  "source_couplet": "玉泉幾千仞，好在翠如傾"
+ },
+ {
+  "id": "penta-outer-0445",
+  "label": "o",
+  "couplet": "解畫虯谷簫，嗟中迷涼乖",
+  "source_couplet": "我亦吳頭客，年年念遠梅"
+ },
+ {
+  "id": "penta-outer-0446",
+  "label": "o",
+  "couplet": "大制有似穴，見息乘靜颼",
+  "source_couplet": "羣盜猶銅馬，將軍真虎牙"
+ },
+ {
+  "id": "penta-outer-0447",
+  "label": "o",
+  "couplet": "足嵐各几嗇，相明入載衢",
+  "source_couplet": "野岸相逢處，臨風共聽泉"
+ },
+ {
+  "id": "penta-outer-0448",
+  "label": "o",
+  "couplet": "世且崢塵家，燈雪徑殿援",
+  "source_couplet": "頻年多戰鬥，漸老更流離"
+ },
+ {
+  "id": "penta-outer-0449",
+  "label": "o",
+  "couplet": "攬正初起蚩，向葉才好殄",
+  "source_couplet": "牛山今昔異，感慨欲粘衣"
+ },
+ {
+  "id": "penta-outer-0450",
+  "label": "o",
+  "couplet": "牟自落勝宰，旅雲愁諸寮",
+  "source_couplet": "物情與人事，感嘆不堪聞"
+ },
+ {
+  "id": "penta-outer-0451",
+  "label": "o",
+  "couplet": "警海去星奎，事堂鏡溪炊",
+  "source_couplet": "聞說南溪上，亂餘春可憐"
+ },
+ {
+  "id": "penta-outer-0452",
+  "label": "o",
+  "couplet": "桐從擁及忤，寺覓利村皺",
+  "source_couplet": "撫卷懷先哲，題詩付後昆"
+ },
+ {
+  "id": "penta-outer-0453",
+  "label": "o",
+  "couplet": "外浣明低蘋，宜願仙閒昂",
+  "source_couplet": "長身一病後，生意苦無多"
+ },
+ {
+  "id": "penta-outer-0454",
+  "label": "o",
+  "couplet": "萍枉桔賦謦，壁隙屋得襤",
+  "source_couplet": "所思千里隔，十二碧峯高"
+ },
+ {
+  "id": "penta-outer-0455",
+  "label": "o",
+  "couplet": "豁逸生負冥，靜意情扶元",
+  "source_couplet": "不謂公家役，還爲壯歲遊"
+ },
+ {
+  "id": "penta-outer-0456",
+  "label": "o",
+  "couplet": "怯承居類宰，長悵醒窅燠",
+  "source_couplet": "天亦自多事，一春勞應酬"
+ },
+ {
+  "id": "penta-outer-0457",
+  "label": "o",
+  "couplet": "獵放湖沙襄，山月宵贈蕩",
+  "source_couplet": "賴有知心者，過門亦下車"
+ },
+ {
+  "id": "penta-outer-0458",
+  "label": "o",
+  "couplet": "刀耕俱雲簫，暗靡法經巴",
+  "source_couplet": "短簿祠前客，才華老更成"
+ },
+ {
+  "id": "penta-outer-0459",
+  "label": "o",
+  "couplet": "黑夜空正郢，刻螢暇節誚",
+  "source_couplet": "亂鴉棲已定，猶自步閒庭"
+ },
+ {
+  "id": "penta-outer-0460",
+  "label": "o",
+  "couplet": "師磯道潑罨，指曾起平及",
+  "source_couplet": "天末孤雲去，城頭落日沉"
+ },
+ {
+  "id": "penta-outer-0461",
+  "label": "o",
+  "couplet": "哀林使郊晏，青燼幾信杯",
+  "source_couplet": "敗葉落還落，北山深復深"
+ },
+ {
+  "id": "penta-outer-0462",
+  "label": "o",
+  "couplet": "承減花雖痾，氣霧亦憑氎",
+  "source_couplet": "亦欲依家耳，衡門斗極邊"
+ },
+ {
+  "id": "penta-outer-0463",
+  "label": "o",
+  "couplet": "動韡三琴麪，儘與光葉男",
+  "source_couplet": "匝地閭閻盛，緣江霧雨稠"
+ },
+ {
+  "id": "penta-outer-0464",
+  "label": "o",
+  "couplet": "頌從主春殄，昔候逝喜廉",
+  "source_couplet": "欲別又牽衣，傷心故舊稀"
+ },
+ {
+  "id": "penta-outer-0465",
+  "label": "o",
+  "couplet": "吞放洞山儀，憶隅勞何肩",
+  "source_couplet": "故園頻入夢，松菊想敷榮"
+ },
+ {
+  "id": "penta-outer-0466",
+  "label": "o",
+  "couplet": "翠樹回瑟仍，功獨監作斜",
+  "source_couplet": "興來雲榻近，杖履更何方"
+ },
+ {
+  "id": "penta-outer-0467",
+  "label": "o",
+  "couplet": "此滅化鄰塒，採林然鬟慚",
+  "source_couplet": "有客樂幽閒，棲遲濟岱間"
+ },
+ {
+  "id": "penta-outer-0468",
+  "label": "o",
+  "couplet": "氣本不肉裲，翻歸名門酉",
+  "source_couplet": "況爾西南地，疲民夜不安"
+ },
+ {
+  "id": "penta-outer-0469",
+  "label": "o",
+  "couplet": "佇我惜心慎，趣早日淚樑",
+  "source_couplet": "老去陶元亮，歸來向子平"
+ },
+ {
+  "id": "penta-outer-0470",
+  "label": "o",
+  "couplet": "舵半邊重散，故靜景金墾",
+  "source_couplet": "相從久寂莫，此別竟何如"
+ },
+ {
+  "id": "penta-outer-0471",
+  "label": "o",
+  "couplet": "鄰坐青須簫，暉雨承冢劭",
+  "source_couplet": "薊北文章客，風流迥不羣"
+ },
+ {
+  "id": "penta-outer-0472",
+  "label": "o",
+  "couplet": "養夫翮天簫，號子螭文牽",
+  "source_couplet": "爲問舟中客，何如澤畔吟"
+ },
+ {
+  "id": "penta-outer-0473",
+  "label": "o",
+  "couplet": "爲石鳥求悅，翁點巖擬卒",
+  "source_couplet": "迎送官僚習，長懷被眷私"
+ },
+ {
+  "id": "penta-outer-0474",
+  "label": "o",
+  "couplet": "何知吠連鬢，鰋同荒誼曆",
+  "source_couplet": "花藏溪上路，只許酒船來"
+ },
+ {
+  "id": "penta-outer-0475",
+  "label": "o",
+  "couplet": "流草絕歌醾，今潭厭真揀",
+  "source_couplet": "月明星露墜，慎莫倚闌干"
+ },
+ {
+  "id": "penta-outer-0476",
+  "label": "o",
+  "couplet": "忘朝不閣滎，讀愛雪遺然",
+  "source_couplet": "快雪真無價，豐年定有期"
+ },
+ {
+  "id": "penta-outer-0477",
+  "label": "o",
+  "couplet": "酒歌懾風白，煖度幽神薜",
+  "source_couplet": "雲竹澹相於，深宜靜者居"
+ },
+ {
+  "id": "penta-outer-0478",
+  "label": "o",
+  "couplet": "叔可豫秋修，逢路歉痛糗",
+  "source_couplet": "何時老鄉國，白髮照麒麟"
+ },
+ {
+  "id": "penta-outer-0479",
+  "label": "o",
+  "couplet": "岫風拂中醫，酣偃故養缺",
+  "source_couplet": "閣晚飆初歇，池萍水不漪"
+ },
+ {
+  "id": "penta-outer-0480",
+  "label": "o",
+  "couplet": "乘記德春珠，巫叔那來以",
+  "source_couplet": "向曉珠搖盪，時瀉玉盤中"
+ },
+ {
+  "id": "penta-outer-0481",
+  "label": "o",
+  "couplet": "終披夕徑病，光月罄歲殄",
+  "source_couplet": "塵埃方滿世，慎勿染荷衣"
+ },
+ {
+  "id": "penta-outer-0482",
+  "label": "o",
+  "couplet": "名江旱靜壤，君蕉遙陰鄴",
+  "source_couplet": "我老無生計，耕耘教子孫"
+ },
+ {
+  "id": "penta-outer-0483",
+  "label": "o",
+  "couplet": "虛護還待倘，石藉得豪哭",
+  "source_couplet": "何曾廢錢買，山果及溪魚"
+ },
+ {
+  "id": "penta-outer-0484",
+  "label": "o",
+  "couplet": "愚有落地奎，在兼飛袈薜",
+  "source_couplet": "日涉東園上，餘將卜此居"
+ },
+ {
+  "id": "penta-outer-0485",
+  "label": "o",
+  "couplet": "何留全來涎，商詩寄名紺",
+  "source_couplet": "漁歌何處起，倦客倚欄聽"
+ },
+ {
+  "id": "penta-outer-0486",
+  "label": "o",
+  "couplet": "夢腴海才吝，逐與詩菱嫵",
+  "source_couplet": "雞豚並社酒，處處是歡聲"
+ },
+ {
+  "id": "penta-outer-0487",
+  "label": "o",
+  "couplet": "幾公地村曆，高藏饗花鯫",
+  "source_couplet": "浮雲海上來，西橫太湖過"
+ },
+ {
+  "id": "penta-outer-0488",
+  "label": "o",
+  "couplet": "邊老雨鄉衽，惜望康悠巴",
+  "source_couplet": "徑轉山仍掩，沙移圃自成"
+ },
+ {
+  "id": "penta-outer-0489",
+  "label": "o",
+  "couplet": "買鴿膝吳笭，帙幸篇闊紋",
+  "source_couplet": "自與兒童語，從來耐歲寒"
+ },
+ {
+  "id": "penta-outer-0490",
+  "label": "o",
+  "couplet": "目車一想損，明芽駟館以",
+  "source_couplet": "相羊煙柳外，吟嘯夕陽中"
+ },
+ {
+  "id": "penta-outer-0491",
+  "label": "o",
+  "couplet": "直川老間府，開中天業鞏",
+  "source_couplet": "小洞綠雲合，空山碧雨陰"
+ },
+ {
+  "id": "penta-outer-0492",
+  "label": "o",
+  "couplet": "神恨鬢志判，華移廬因堞",
+  "source_couplet": "南雁歸應盡，攜書始問程"
+ },
+ {
+  "id": "penta-outer-0493",
+  "label": "o",
+  "couplet": "頻隅瑞如宰，留潔詩步鶴",
+  "source_couplet": "多憂亦何事，適意任天真"
+ },
+ {
+  "id": "penta-outer-0494",
+  "label": "o",
+  "couplet": "陽客祿饒曛，猶囂久孤踏",
+  "source_couplet": "聞爾去南溪，移船駐水西"
+ },
+ {
+  "id": "penta-outer-0495",
+  "label": "o",
+  "couplet": "雲北久充韻，髮苗勞蛇馱",
+  "source_couplet": "吾皇千萬壽，曾此駐金鑾"
+ },
+ {
+  "id": "penta-outer-0496",
+  "label": "o",
+  "couplet": "鴉暗益曦陌，時化小南字",
+  "source_couplet": "何須問勳業，名與爾翁齊"
+ },
+ {
+  "id": "penta-outer-0497",
+  "label": "o",
+  "couplet": "謝此惜心慎，岸虎禁分鶴",
+  "source_couplet": "晚節陶元亮，平生賀季真"
+ },
+ {
+  "id": "penta-outer-0498",
+  "label": "o",
+  "couplet": "交天外肯丱，曰水逐虛柏",
+  "source_couplet": "短景催殘歲，窮陰連大荒"
+ },
+ {
+  "id": "penta-outer-0499",
+  "label": "o",
+  "couplet": "待江壯胸祕，子流碧剡蟬",
+  "source_couplet": "一葦三江度，人皆識道林"
+ },
+ {
+  "id": "penta-outer-0500",
+  "label": "o",
+  "couplet": "深密見日張，雪土戀願牽",
+  "source_couplet": "秋風歌楚些，山雨應猿吟"
+ },
+ {
+  "id": "penta-outer-0501",
+  "label": "o",
+  "couplet": "扉在古長贛，江去春闌惰",
+  "source_couplet": "故人川上別，風雨送行舟"
+ },
+ {
+  "id": "penta-outer-0502",
+  "label": "o",
+  "couplet": "細鬚來飛蠲，陰三難魚雷",
+  "source_couplet": "野處迥無鄰，誰憐放逐臣"
+ },
+ {
+  "id": "penta-outer-0503",
+  "label": "o",
+  "couplet": "屋雁持爲暮，晏銷首狎曆",
+  "source_couplet": "祇應山下叟，常脫繡衣來"
+ },
+ {
+  "id": "penta-outer-0504",
+  "label": "o",
+  "couplet": "未空朽寡晤，同丘講足嬋",
+  "source_couplet": "日夜瞻鑾駕，生靈系聖躬"
+ },
+ {
+  "id": "penta-outer-0505",
+  "label": "o",
+  "couplet": "敢雲翳依雜，星水彩謝塊",
+  "source_couplet": "郡郭東十里，蒲塘秋水清"
+ },
+ {
+  "id": "penta-outer-0506",
+  "label": "o",
+  "couplet": "在洞隱見潼，漢忽始怨沭",
+  "source_couplet": "度關情浩蕩，關樹似相迎"
+ },
+ {
+  "id": "penta-outer-0507",
+  "label": "o",
+  "couplet": "扉在弟目仍，揚閈白何窪",
+  "source_couplet": "故人高館近，未覺旅魂銷"
+ },
+ {
+  "id": "penta-outer-0508",
+  "label": "o",
+  "couplet": "沃塘師搜隊，剛識對茫姜",
+  "source_couplet": "憂來那可得，揮淚欲沾裳"
+ },
+ {
+  "id": "penta-outer-0509",
+  "label": "o",
+  "couplet": "寧莫遠世趨，落斷散味炊",
+  "source_couplet": "黃鵠不重適，哀鳴常自憐"
+ },
+ {
+  "id": "penta-outer-0510",
+  "label": "o",
+  "couplet": "衰名倚服鶉，溪徐生閥苦",
+  "source_couplet": "永坐弦我詩，清風自南至"
+ },
+ {
+  "id": "penta-outer-0511",
+  "label": "o",
+  "couplet": "村得翁天曬，地醁蟾定跳",
+  "source_couplet": "曾聞舊徒說，懷德易沾巾"
+ },
+ {
+  "id": "penta-outer-0512",
+  "label": "o",
+  "couplet": "飛個梅斂也，語只潯雁哦",
+  "source_couplet": "汝壯身須遠，吾衰意轉迷"
+ },
+ {
+  "id": "penta-outer-0513",
+  "label": "o",
+  "couplet": "帙幸前招慘，村此越盼韉",
+  "source_couplet": "從來泉石趣，何待此投簪"
+ },
+ {
+  "id": "penta-outer-0514",
+  "label": "o",
+  "couplet": "寄寺全來罨，遊潛細驚脊",
+  "source_couplet": "避名何處去，煙浪五湖生"
+ },
+ {
+  "id": "penta-outer-0515",
+  "label": "o",
+  "couplet": "敢半尾馬拱，事舐平繡技",
+  "source_couplet": "桓州當孔道，城築自唐時"
+ },
+ {
+  "id": "penta-outer-0516",
+  "label": "o",
+  "couplet": "愁履生心嗇，海臥草路急",
+  "source_couplet": "近聞歸隱處，盡種碧桃花"
+ },
+ {
+  "id": "penta-outer-0517",
+  "label": "o",
+  "couplet": "獻日肉波胄，全來鳥不痍",
+  "source_couplet": "南遊有高興，何處是滄波"
+ },
+ {
+  "id": "penta-outer-0518",
+  "label": "o",
+  "couplet": "里看石頻傀，流寓鉤肥籲",
+  "source_couplet": "山頂白雲層，重來不見僧"
+ },
+ {
+  "id": "penta-outer-0519",
+  "label": "o",
+  "couplet": "幷無睇此蹊，身新擁德元",
+  "source_couplet": "清興正悠悠，偏欣汗漫遊"
+ },
+ {
+  "id": "penta-outer-0520",
+  "label": "o",
+  "couplet": "船射水界吝，饔劍鶯西鱘",
+  "source_couplet": "自酌壺中酒，無窮天地情"
+ },
+ {
+  "id": "penta-outer-0521",
+  "label": "o",
+  "couplet": "曹城事回甑，露音坼妻頌",
+  "source_couplet": "四賢誰復繼，千古意寥寥"
+ },
+ {
+  "id": "penta-outer-0522",
+  "label": "o",
+  "couplet": "諫思覺下珞，任寧兒車墨",
+  "source_couplet": "燕騎經旬發，吳船此日行"
+ },
+ {
+  "id": "penta-outer-0523",
+  "label": "o",
+  "couplet": "戰流邈犯疾，全來燈還戎",
+  "source_couplet": "關河阻南北，何處問通津"
+ },
+ {
+  "id": "penta-outer-0524",
+  "label": "o",
+  "couplet": "俗郭鄰長沬，是平遙媵瞬",
+  "source_couplet": "聖朝多雨露，不久在天涯"
+ },
+ {
+  "id": "penta-outer-0525",
+  "label": "o",
+  "couplet": "雁初欲樹照，駒功消蜒樑",
+  "source_couplet": "微羽感秋鳴，爭先似不平"
+ },
+ {
+  "id": "penta-outer-0526",
+  "label": "o",
+  "couplet": "濆寧承念鄉，籬失高影纓",
+  "source_couplet": "神仙豈無有，死後上煙霞"
+ },
+ {
+  "id": "penta-outer-0527",
+  "label": "o",
+  "couplet": "煮梵獨神屩，雲遊殘因開",
+  "source_couplet": "藤枝肯扶老，終扣月中門"
+ },
+ {
+  "id": "penta-outer-0528",
+  "label": "o",
+  "couplet": "並霧負章夥，凍送細驚泉",
+  "source_couplet": "絲綸三百尺，獨釣五湖秋"
+ },
+ {
+  "id": "penta-outer-0529",
+  "label": "o",
+  "couplet": "日喧眼排慚，西復前臣喜",
+  "source_couplet": "開窗綠樹間，何人讀書臥"
+ },
+ {
+  "id": "penta-outer-0530",
+  "label": "o",
+  "couplet": "槩一來夕弔，姓沒弱欲櫪",
+  "source_couplet": "懷賢坐長夜，斜月半窗明"
+ },
+ {
+  "id": "penta-outer-0531",
+  "label": "o",
+  "couplet": "麻節印者嫁，髮俗了地鍾",
+  "source_couplet": "六館真英傑，三朝舊典刑"
+ },
+ {
+  "id": "penta-outer-0532",
+  "label": "o",
+  "couplet": "泊努岸憐曼，摧色偶入陴",
+  "source_couplet": "雨水漸衣黑，雲砂際目黃"
+ },
+ {
+  "id": "penta-outer-0533",
+  "label": "o",
+  "couplet": "宜長士亭麪，叔可丘殘曹",
+  "source_couplet": "建木光華盛，何時共折攀"
+ },
+ {
+  "id": "penta-outer-0534",
+  "label": "o",
+  "couplet": "喫軍臺度讞，闕琰瞳石疲",
+  "source_couplet": "兒孫皆玉立，尤足繼遺芳"
+ },
+ {
+  "id": "penta-outer-0535",
+  "label": "o",
+  "couplet": "戶復忽泥睿，癖朝褒追陶",
+  "source_couplet": "畫圖憔悴色，猶足見憂天"
+ },
+ {
+  "id": "penta-outer-0536",
+  "label": "o",
+  "couplet": "細萬桔賦鴰，萬作地水髫",
+  "source_couplet": "祇愁千里月，少婦正悲啼"
+ },
+ {
+  "id": "penta-outer-0537",
+  "label": "o",
+  "couplet": "著冷展家緋，世難香月笑",
+  "source_couplet": "尚意陶徵士，柴車日暮歸"
+ },
+ {
+  "id": "penta-outer-0538",
+  "label": "o",
+  "couplet": "開中離報縠，霧入多翁櫪",
+  "source_couplet": "空山坐相憶，寒月到窗明"
+ },
+ {
+  "id": "penta-outer-0539",
+  "label": "o",
+  "couplet": "殿向泊枝軻，語與息晚牽",
+  "source_couplet": "君親恩未報，搔首一長吟"
+ },
+ {
+  "id": "penta-outer-0540",
+  "label": "o",
+  "couplet": "首去巢有旂，香月近前吭",
+  "source_couplet": "荒墟屬晚眺，日暮煙華消"
+ },
+ {
+  "id": "penta-outer-0541",
+  "label": "o",
+  "couplet": "江去垂芽換，欲鷺珊我瀫",
+  "source_couplet": "風雨忽如此，閉門方晝眠"
+ },
+ {
+  "id": "penta-outer-0542",
+  "label": "o",
+  "couplet": "色聽幾又縵，句海連山曆",
+  "source_couplet": "歷歷青山出，翩翩白雁來"
+ },
+ {
+  "id": "penta-outer-0543",
+  "label": "o",
+  "couplet": "嶽負舊多弔，費艇土世涇",
+  "source_couplet": "山神應夜夜，來禮佛燈前"
+ },
+ {
+  "id": "penta-outer-0544",
+  "label": "o",
+  "couplet": "獵放唯燈娣，看悟金金混",
+  "source_couplet": "賴有杯中物，愁來爲爾揮"
+ },
+ {
+  "id": "penta-outer-0545",
+  "label": "o",
+  "couplet": "讀屐情冷奎，政山家戒睢",
+  "source_couplet": "喜聞阿閣上，鳴鳳際春暉"
+ },
+ {
+  "id": "penta-outer-0546",
+  "label": "o",
+  "couplet": "伐舟亦色孛，老烽堂惟媧",
+  "source_couplet": "湖上冥冥雨，和愁細似塵"
+ },
+ {
+  "id": "penta-outer-0547",
+  "label": "o",
+  "couplet": "楚尋鋤坐台，賈在倚別睢",
+  "source_couplet": "長笛倚風吹，江村對夕暉"
+ },
+ {
+  "id": "penta-outer-0548",
+  "label": "o",
+  "couplet": "殘看嗟謾瀝，兒車養春朔",
+  "source_couplet": "丈夫無別淚，此日滿愁顏"
+ },
+ {
+  "id": "penta-outer-0549",
+  "label": "o",
+  "couplet": "駟館擊新否，鳳更竺山臻",
+  "source_couplet": "夕陽天際鳥，還向北林飛"
+ },
+ {
+  "id": "penta-outer-0550",
+  "label": "o",
+  "couplet": "碗臺功關朱，髼積石出惓",
+  "source_couplet": "塔寺前朝舊，山林宿業空"
+ },
+ {
+  "id": "penta-outer-0551",
+  "label": "o",
+  "couplet": "溜彌釣枕鈐，蝶西沱面葡",
+  "source_couplet": "歸心與潮水，常寄故鄉愁"
+ },
+ {
+  "id": "penta-outer-0552",
+  "label": "o",
+  "couplet": "非遲常南奎，繡臺藤已跳",
+  "source_couplet": "送君螺水上，嗚咽淚沾巾"
+ },
+ {
+  "id": "penta-outer-0553",
+  "label": "o",
+  "couplet": "雨灣暝望仍，詳闠樵家塊",
+  "source_couplet": "自無塵土近，況有柏風清"
+ },
+ {
+  "id": "penta-outer-0554",
+  "label": "o",
+  "couplet": "笛看掌河鴟，青巴遮門淩",
+  "source_couplet": "臣甫多愁思，長歌拜杜鵑"
+ },
+ {
+  "id": "penta-outer-0555",
+  "label": "o",
+  "couplet": "岸虎江長寰，尚莫夏離勇",
+  "source_couplet": "平生知己恨，下馬更踟躕"
+ },
+ {
+  "id": "penta-outer-0556",
+  "label": "o",
+  "couplet": "山永深客鬢，世且飢半自",
+  "source_couplet": "一棹琴川路，頻年此往還"
+ },
+ {
+  "id": "penta-outer-0557",
+  "label": "o",
+  "couplet": "得霓莫白八，中三竹淹眸",
+  "source_couplet": "山深獨置家，地帶竹林斜"
+ },
+ {
+  "id": "penta-outer-0558",
+  "label": "o",
+  "couplet": "異常屬月鬢，聲組林坐皆",
+  "source_couplet": "想像西湖路，梅花瘦幾分"
+ },
+ {
+  "id": "penta-outer-0559",
+  "label": "o",
+  "couplet": "客偏延嘯穠，自黯蒼約纓",
+  "source_couplet": "石氣陰才霧，嵐霏暖欲霞"
+ },
+ {
+  "id": "penta-outer-0560",
+  "label": "o",
+  "couplet": "千寺響本祜，才廬車長度",
+  "source_couplet": "不合三冬暖，長疑片雪無"
+ },
+ {
+  "id": "penta-outer-0561",
+  "label": "o",
+  "couplet": "江悲山淹憲，常霞名畔寮",
+  "source_couplet": "春來林木變，鶴唳不曾聞"
+ },
+ {
+  "id": "penta-outer-0562",
+  "label": "o",
+  "couplet": "從盤毯孤爲，緣落適詩乙",
+  "source_couplet": "六月三旬旱，炎威酷吏猶"
+ },
+ {
+  "id": "penta-outer-0563",
+  "label": "o",
+  "couplet": "仁支照巷鈐，俊大嬌歡鱘",
+  "source_couplet": "殷勤東注水，渺渺若爲情"
+ },
+ {
+  "id": "penta-outer-0564",
+  "label": "o",
+  "couplet": "近才禪未樞，向詎溪照筒",
+  "source_couplet": "暝投雲際寺，深殿一燈微"
+ },
+ {
+  "id": "penta-outer-0565",
+  "label": "o",
+  "couplet": "旱靜軀髮鎧，畫口瀉鬲菀",
+  "source_couplet": "無生差近理，欲究梵王言"
+ },
+ {
+  "id": "penta-outer-0566",
+  "label": "o",
+  "couplet": "茆事石慾韭，東手會欲開",
+  "source_couplet": "紛紛事醫術，李氏獨專門"
+ },
+ {
+  "id": "penta-outer-0567",
+  "label": "o",
+  "couplet": "酌揆引歸鶺，搖殿寒還元",
+  "source_couplet": "瀟灑寄巖邱，人間世外遊"
+ },
+ {
+  "id": "penta-outer-0568",
+  "label": "o",
+  "couplet": "家豫如萬此，鵝白徵矜沱",
+  "source_couplet": "擾擾自不靜，營營誰肯休"
+ },
+ {
+  "id": "penta-outer-0569",
+  "label": "o",
+  "couplet": "不日凡縱翬，儀里能寺渾",
+  "source_couplet": "山中歲酒熟，不飲竟須傾"
+ },
+ {
+  "id": "penta-outer-0570",
+  "label": "o",
+  "couplet": "懸暉細竹蛩，閒笠墾聲脊",
+  "source_couplet": "春日江南郡，懷人杜若生"
+ },
+ {
+  "id": "penta-outer-0571",
+  "label": "o",
+  "couplet": "扉在伴未誇，復敗同夜澹",
+  "source_couplet": "故人不可見，遠懷良未開"
+ },
+ {
+  "id": "penta-outer-0572",
+  "label": "o",
+  "couplet": "灌神湖閭瓈，灘泉碧道八",
+  "source_couplet": "伊昔延清賞，玉山仙子家"
+ },
+ {
+  "id": "penta-outer-0573",
+  "label": "o",
+  "couplet": "闌有關夜嗇，桔賦吾使僮",
+  "source_couplet": "懸知相憶處，千里共嬋娟"
+ },
+ {
+  "id": "penta-outer-0574",
+  "label": "o",
+  "couplet": "綏禪廊鶴縠，心千逢玉痌",
+  "source_couplet": "未始無相憶，經過奈禮何"
+ },
+ {
+  "id": "penta-outer-0575",
+  "label": "o",
+  "couplet": "全來石乾簫，扉在見嘗治",
+  "source_couplet": "何處尋狂客，故人王子猷"
+ },
+ {
+  "id": "penta-outer-0576",
+  "label": "o",
+  "couplet": "甸白開中箱，唯著隱成泉",
+  "source_couplet": "臥病空山裏，君來起素秋"
+ },
+ {
+  "id": "penta-outer-0577",
+  "label": "o",
+  "couplet": "昔候霞北私，欲鏡帖桃沸",
+  "source_couplet": "傷心庭外竹，清影漫扶疏"
+ },
+ {
+  "id": "penta-outer-0578",
+  "label": "o",
+  "couplet": "憶寺苦物尻，本穿近荒疲",
+  "source_couplet": "端居萬里念，蕙草惜微芳"
+ },
+ {
+  "id": "penta-outer-0579",
+  "label": "o",
+  "couplet": "聲組飲豈宣，邊見鴨侵揀",
+  "source_couplet": "梅花偏有意，開傍小闌干"
+ },
+ {
+  "id": "penta-outer-0580",
+  "label": "o",
+  "couplet": "橫即林雲嶇，破小潔乾顓",
+  "source_couplet": "四顧莽何際，威靈儼若臨"
+ },
+ {
+  "id": "penta-outer-0581",
+  "label": "o",
+  "couplet": "斬待塞笑映，南擒言荼曹",
+  "source_couplet": "稍晴湍瀨急，百丈費躋攀"
+ },
+ {
+  "id": "penta-outer-0582",
+  "label": "o",
+  "couplet": "醉可春滿睿，心俗松老掫",
+  "source_couplet": "九江遺秀色，悵望香爐峯"
+ },
+ {
+  "id": "penta-outer-0583",
+  "label": "o",
+  "couplet": "春闌相樂翊，廠雁合宿瓤",
+  "source_couplet": "送行何太頻，日日見行人"
+ },
+ {
+  "id": "penta-outer-0584",
+  "label": "o",
+  "couplet": "饗依檯人卌，漠去史能櫪",
+  "source_couplet": "愁夢不更續，寒天將欲明"
+ },
+ {
+  "id": "penta-outer-0585",
+  "label": "o",
+  "couplet": "文他三記惴，朡如湖對瀍",
+  "source_couplet": "皇天眷西顧，慎取一泥丸"
+ },
+ {
+  "id": "penta-outer-0586",
+  "label": "o",
+  "couplet": "垂傳北閣酉，排雪頂流闃",
+  "source_couplet": "月照小長安，風生大將壇"
+ },
+ {
+  "id": "penta-outer-0587",
+  "label": "o",
+  "couplet": "思不芳燭穴，村得爾馬襪",
+  "source_couplet": "苜蓿能肥馬，曾聞漢苑誇"
+ },
+ {
+  "id": "penta-outer-0588",
+  "label": "o",
+  "couplet": "雲晏公倚辯，因青長還趙",
+  "source_couplet": "江雨冷蕭蕭，維舟近畫橋"
+ },
+ {
+  "id": "penta-outer-0589",
+  "label": "o",
+  "couplet": "齋規溪榨修，題武千封惹",
+  "source_couplet": "不將身許國，何以樹功勳"
+ },
+ {
+  "id": "penta-outer-0590",
+  "label": "o",
+  "couplet": "暗籬舟圃奎，湖滄出埃遷",
+  "source_couplet": "十年滄海上，辛苦贊戎機"
+ },
+ {
+  "id": "penta-outer-0591",
+  "label": "o",
+  "couplet": "時爲陽故晶，憂南披疇翊",
+  "source_couplet": "頗得過從樂，相看莫厭頻"
+ },
+ {
+  "id": "penta-outer-0592",
+  "label": "o",
+  "couplet": "陲慰君試嗇，任邑片得霰",
+  "source_couplet": "遊樂有深處，豈知行路難"
+ },
+ {
+  "id": "penta-outer-0593",
+  "label": "o",
+  "couplet": "知研入遊鬢，疇臨中開羹",
+  "source_couplet": "尋常西郭路，思爾隔風煙"
+ },
+ {
+  "id": "penta-outer-0594",
+  "label": "o",
+  "couplet": "座氣待夢嗟，廉青語露椔",
+  "source_couplet": "昔日光明闕，昂然有此翁"
+ },
+ {
+  "id": "penta-outer-0595",
+  "label": "o",
+  "couplet": "門薪逢添鴟，鉤靜日消薜",
+  "source_couplet": "適遠多幽思，吾生愧獨居"
+ },
+ {
+  "id": "penta-outer-0596",
+  "label": "o",
+  "couplet": "滄除書風嶟，蕪極愛兵蔣",
+  "source_couplet": "池淨天容湛，窗虛水氣通"
+ },
+ {
+  "id": "penta-outer-0597",
+  "label": "o",
+  "couplet": "著頂流寧秤，階去婚曙杯",
+  "source_couplet": "草屋孤村迥，桃花一水深"
+ },
+ {
+  "id": "penta-outer-0598",
+  "label": "o",
+  "couplet": "飲渾帆跡弗，花俚仙閒巴",
+  "source_couplet": "年來疏懶甚，著述苦無成"
+ },
+ {
+  "id": "penta-outer-0599",
+  "label": "o",
+  "couplet": "接外蓮去也，神眼復獨思",
+  "source_couplet": "西蜀雲山遠，南陂水竹奇"
+ },
+ {
+  "id": "penta-outer-0600",
+  "label": "o",
+  "couplet": "燈社南已通，仍免髀老瑛",
+  "source_couplet": "小臣慚職守，隨例得叨陪"
+ },
+ {
+  "id": "penta-outer-0601",
+  "label": "o",
+  "couplet": "陰孤戰雲損，舊吟轉釭稼",
+  "source_couplet": "寥寥檐雀外，文史獨相親"
+ },
+ {
+  "id": "penta-outer-0602",
+  "label": "o",
+  "couplet": "郎歸行苔鴰，欲鏡劍祥薴",
+  "source_couplet": "千秋牛渚月，清影照袁郎"
+ },
+ {
+  "id": "penta-outer-0603",
+  "label": "o",
+  "couplet": "菊檄送作箱，中西人材涇",
+  "source_couplet": "休沐名園裏，飛觴細雨前"
+ },
+ {
+  "id": "penta-outer-0604",
+  "label": "o",
+  "couplet": "陰三蓴行簫，有墨年識適",
+  "source_couplet": "誰憐衆賓客，今日散平原"
+ },
+ {
+  "id": "penta-outer-0605",
+  "label": "o",
+  "couplet": "火日孤故郢，塍藜感君泉",
+  "source_couplet": "一雨人心定，涼生滿院秋"
+ },
+ {
+  "id": "penta-outer-0606",
+  "label": "o",
+  "couplet": "城子月鳥嗇，把只茗少踏",
+  "source_couplet": "此中堪隱處，應在響巖西"
+ },
+ {
+  "id": "penta-outer-0607",
+  "label": "o",
+  "couplet": "知松斬待樨，烏薶兔還迫",
+  "source_couplet": "微陽稍晴曙，新雨被山川"
+ },
+ {
+  "id": "penta-outer-0608",
+  "label": "o",
+  "couplet": "詩牀偕雪珍，開中兵知劭",
+  "source_couplet": "浮俗無知已，空山下鹿羣"
+ },
+ {
+  "id": "penta-outer-0609",
+  "label": "o",
+  "couplet": "那所極雪晏，轉斜九憂開",
+  "source_couplet": "長嘯燈花落，蕭蕭獨掩門"
+ },
+ {
+  "id": "penta-outer-0610",
+  "label": "o",
+  "couplet": "駟館然天涎，易唧江供陶",
+  "source_couplet": "夕陽鐘磬起，梵語出諸天"
+ },
+ {
+  "id": "penta-outer-0611",
+  "label": "o",
+  "couplet": "目漸何歸鴰，鉤肥暗籬帳",
+  "source_couplet": "五茸城外月，不見十年餘"
+ },
+ {
+  "id": "penta-outer-0612",
+  "label": "o",
+  "couplet": "霜隔然傳怦，遠遞意舍適",
+  "source_couplet": "閒居甘絕跡，疏雨對芳原"
+ },
+ {
+  "id": "penta-outer-0613",
+  "label": "o",
+  "couplet": "風盡持扇橋，無下借複鞍",
+  "source_couplet": "春風蘇病骨，紅日臥花梢"
+ },
+ {
+  "id": "penta-outer-0614",
+  "label": "o",
+  "couplet": "平州沾小鈐，春曾黯風技",
+  "source_couplet": "飛蓬逐流水，何日是休時"
+ },
+ {
+  "id": "penta-outer-0615",
+  "label": "o",
+  "couplet": "起平論多繚，事栽承十賈",
+  "source_couplet": "落日滿宣州，馬頭春事幽"
+ },
+ {
+  "id": "penta-outer-0616",
+  "label": "o",
+  "couplet": "幽歌在藝襄，知島音裹脊",
+  "source_couplet": "是中無厭者，幾個得長生"
+ },
+ {
+  "id": "penta-outer-0617",
+  "label": "o",
+  "couplet": "替餘嘆疲傍，華廬疊塵櫬",
+  "source_couplet": "真州非赤壁，風便一臨兵"
+ },
+ {
+  "id": "penta-outer-0618",
+  "label": "o",
+  "couplet": "在夔持爲諭，仰攜依北疼",
+  "source_couplet": "暝來山下宿，殘月二更遲"
+ },
+ {
+  "id": "penta-outer-0619",
+  "label": "o",
+  "couplet": "山讀華歸局，連老斷鳥榧",
+  "source_couplet": "便應騎馬到，一笑共清歡"
+ },
+ {
+  "id": "penta-outer-0620",
+  "label": "o",
+  "couplet": "聲終在舊交，鄉頗軀通碗",
+  "source_couplet": "偶來分半席，遽使世情忘"
+ },
+ {
+  "id": "penta-outer-0621",
+  "label": "o",
+  "couplet": "好去洲法蝸，且雲猶歸曆",
+  "source_couplet": "野外慚供給，臺端枉駕來"
+ },
+ {
+  "id": "penta-outer-0622",
+  "label": "o",
+  "couplet": "見息甲唯熟，總舍慳言儗",
+  "source_couplet": "將軍餘碧血，滴滴在金笳"
+ },
+ {
+  "id": "penta-outer-0623",
+  "label": "o",
+  "couplet": "酒泥牽匣洞，烏嗟逐與蔣",
+  "source_couplet": "古碣時時讀，長河處處通"
+ },
+ {
+  "id": "penta-outer-0624",
+  "label": "o",
+  "couplet": "靜孤壤稀贛，喜濤順年鈴",
+  "source_couplet": "故國三年別，天涯一望長"
+ },
+ {
+  "id": "penta-outer-0625",
+  "label": "o",
+  "couplet": "回團喪月楨，霜歌萬仙字",
+  "source_couplet": "花落已成蹊，村村綠葉齊"
+ },
+ {
+  "id": "penta-outer-0626",
+  "label": "o",
+  "couplet": "色諱澗常宰，墓來欲將縮",
+  "source_couplet": "兵資與農事，廊廟重爲謀"
+ },
+ {
+  "id": "penta-outer-0627",
+  "label": "o",
+  "couplet": "雪白感影又，節去甸有鉢",
+  "source_couplet": "道隱甘虛寂，松窗曾共棲"
+ },
+ {
+  "id": "penta-outer-0628",
+  "label": "o",
+  "couplet": "時劈遙觀把，枝老徑湧炊",
+  "source_couplet": "猶留兄弟在，中外幾人憐"
+ },
+ {
+  "id": "penta-outer-0629",
+  "label": "o",
+  "couplet": "莢煙誰都宣，笑三激道鱘",
+  "source_couplet": "尚有詩書意，寧無禮樂情"
+ },
+ {
+  "id": "penta-outer-0630",
+  "label": "o",
+  "couplet": "見屬嵐從儀，牽澗驚魚篚",
+  "source_couplet": "可憐中夜夢，躍馬尚能豪"
+ },
+ {
+  "id": "penta-outer-0631",
+  "label": "o",
+  "couplet": "尋握草重晶，人桃任賞怛",
+  "source_couplet": "多少歸田樂，相期頌達尊"
+ },
+ {
+  "id": "penta-outer-0632",
+  "label": "o",
+  "couplet": "病即說凝裲，慈志伴見籲",
+  "source_couplet": "如何當此地，亦得見名僧"
+ },
+ {
+  "id": "penta-outer-0633",
+  "label": "o",
+  "couplet": "還書峯車鴟，峽螭涼旆樑",
+  "source_couplet": "鄉心兼旅思，耿耿不能平"
+ },
+ {
+  "id": "penta-outer-0634",
+  "label": "o",
+  "couplet": "天見雖脫沬，青松船新餘",
+  "source_couplet": "泠泠風與露，吸飲病長捐"
+ },
+ {
+  "id": "penta-outer-0635",
+  "label": "o",
+  "couplet": "佇我山冉壤，江悲河兩杯",
+  "source_couplet": "老去滄洲計，春來湘水深"
+ },
+ {
+  "id": "penta-outer-0636",
+  "label": "o",
+  "couplet": "北嗟山然裲，趁釣破爲然",
+  "source_couplet": "孟夏遊茲地，登樓慰所期"
+ },
+ {
+  "id": "penta-outer-0637",
+  "label": "o",
+  "couplet": "世片會禪仲，暉雨心沙棠",
+  "source_couplet": "臨眺懷蘇子，風流孰似君"
+ },
+ {
+  "id": "penta-outer-0638",
+  "label": "o",
+  "couplet": "土照賤不轇，國暖抱從沸",
+  "source_couplet": "起疾多傳妙，慚予才自疏"
+ },
+ {
+  "id": "penta-outer-0639",
+  "label": "o",
+  "couplet": "城子塵難襄，清離道昆抄",
+  "source_couplet": "此中留憩者，半爲問津疲"
+ },
+ {
+  "id": "penta-outer-0640",
+  "label": "o",
+  "couplet": "露茫絃月簫，醜望期欲出",
+  "source_couplet": "廿載扁舟客，今年汎宅回"
+ },
+ {
+  "id": "penta-outer-0641",
+  "label": "o",
+  "couplet": "回處唯東蜉，回舊南開徂",
+  "source_couplet": "經心清獻墓，殘照下煙村"
+ },
+ {
+  "id": "penta-outer-0642",
+  "label": "o",
+  "couplet": "新秀全來源，開哭後店劭",
+  "source_couplet": "西堂何處所，知共惜離羣"
+ },
+ {
+  "id": "penta-outer-0643",
+  "label": "o",
+  "couplet": "壇犁幪同雜，何傲潺計癰",
+  "source_couplet": "海風猶萬里，安得駕飛鳶"
+ },
+ {
+  "id": "penta-outer-0644",
+  "label": "o",
+  "couplet": "全來蔥望俾，靜聲地村惲",
+  "source_couplet": "何處尋梅好，羅浮海上春"
+ },
+ {
+  "id": "penta-outer-0645",
+  "label": "o",
+  "couplet": "衣滄甕日顯，市上寒若核",
+  "source_couplet": "雅志愛疏豁，虛堂敞不遮"
+ },
+ {
+  "id": "penta-outer-0646",
+  "label": "o",
+  "couplet": "憶隅秋動訟，憐林冠律徂",
+  "source_couplet": "松菊陶公徑，蓬蒿仲蔚村"
+ },
+ {
+  "id": "penta-outer-0647",
+  "label": "o",
+  "couplet": "喔外辭語患，來福出依八",
+  "source_couplet": "城中一萬戶，歌舞是誰家"
+ },
+ {
+  "id": "penta-outer-0648",
+  "label": "o",
+  "couplet": "苦搖闊胡矉，塵別汝舟整",
+  "source_couplet": "至後回陽小，尊前發興新"
+ },
+ {
+  "id": "penta-outer-0649",
+  "label": "o",
+  "couplet": "宅王露滿嗇，來梅村中櫪",
+  "source_couplet": "蒼松最深處，煙火未分明"
+ },
+ {
+  "id": "penta-outer-0650",
+  "label": "o",
+  "couplet": "存詁樵辭鯿，怨貫生口涇",
+  "source_couplet": "如從習池飲，醉臥峴山前"
+ },
+ {
+  "id": "penta-outer-0651",
+  "label": "o",
+  "couplet": "更梅魂開苗，米電損疏耀",
+  "source_couplet": "九日逢秋霽，羣賢集酒徒"
+ },
+ {
+  "id": "penta-outer-0652",
+  "label": "o",
+  "couplet": "共寺五搖澌，寒楚遊弟榭",
+  "source_couplet": "觀日臨滄海，歸山臥白雲"
+ },
+ {
+  "id": "penta-outer-0653",
+  "label": "o",
+  "couplet": "雲土錦花步，三沙援遭怛",
+  "source_couplet": "製作仍匡輔，隆平業故尊"
+ },
+ {
+  "id": "penta-outer-0654",
+  "label": "o",
+  "couplet": "悄圍刻螢舍，征省日概埕",
+  "source_couplet": "非才猶自愧，難報郢人歌"
+ },
+ {
+  "id": "penta-outer-0655",
+  "label": "o",
+  "couplet": "魂並輕縱病，太日奇幽惰",
+  "source_couplet": "幸逢全盛世，此地弄扁舟"
+ },
+ {
+  "id": "penta-outer-0656",
+  "label": "o",
+  "couplet": "住不駕舊箱，萬親大護台",
+  "source_couplet": "少長深閨裏，面不識風吹"
+ },
+ {
+  "id": "penta-outer-0657",
+  "label": "o",
+  "couplet": "側秋元危鄉，吳茫鄉夕秣",
+  "source_couplet": "藩籬原不有，草木自成圍"
+ },
+ {
+  "id": "penta-outer-0658",
+  "label": "o",
+  "couplet": "里碧載苗珞，坦你供長氎",
+  "source_couplet": "畫角催明發，離情繫日邊"
+ },
+ {
+  "id": "penta-outer-0659",
+  "label": "o",
+  "couplet": "深俞月縫迫，有雲山愜黿",
+  "source_couplet": "春草遍三川，徵軺入蜀年"
+ },
+ {
+  "id": "penta-outer-0660",
+  "label": "o",
+  "couplet": "魁居芳雲襄，岸並光壁悶",
+  "source_couplet": "同時迎駕者，安定一軍雄"
+ },
+ {
+  "id": "penta-outer-0661",
+  "label": "o",
+  "couplet": "荒過對密陀，命髮載急設",
+  "source_couplet": "正月燕京雪，飛花落滿筵"
+ },
+ {
+  "id": "penta-outer-0662",
+  "label": "o",
+  "couplet": "楚言未兒篷，聲辰不肝八",
+  "source_couplet": "清香如不改，常傍美人家"
+ },
+ {
+  "id": "penta-outer-0663",
+  "label": "o",
+  "couplet": "暗籬歲至愚，馬官中平元",
+  "source_couplet": "十年頻結識，兩粵遍曾遊"
+ },
+ {
+  "id": "penta-outer-0664",
+  "label": "o",
+  "couplet": "查漫衆威已，中雲相徘灊",
+  "source_couplet": "微臣一何幸，留賞沐恩光"
+ },
+ {
+  "id": "penta-outer-0665",
+  "label": "o",
+  "couplet": "蓮史鏡宿瓈，歲口曲六墨",
+  "source_couplet": "勞役獲幽賞，炎荒慰此行"
+ },
+ {
+  "id": "penta-outer-0666",
+  "label": "o",
+  "couplet": "與鄉全來踟，海佳火於脊",
+  "source_couplet": "隋宮何處問，荊杞傍牆生"
+ },
+ {
+  "id": "penta-outer-0667",
+  "label": "o",
+  "couplet": "生回閒於罨，敧性過乍噓",
+  "source_couplet": "江流亦東去，懷主共如斯"
+ },
+ {
+  "id": "penta-outer-0668",
+  "label": "o",
+  "couplet": "艱幽尉熟笠，煙同舊父繚",
+  "source_couplet": "停舟問樵牧，猶是古中州"
+ },
+ {
+  "id": "penta-outer-0669",
+  "label": "o",
+  "couplet": "更飯里野蛩，剩州復成芉",
+  "source_couplet": "乍別酒泉郡，來登張掖樓"
+ },
+ {
+  "id": "penta-outer-0670",
+  "label": "o",
+  "couplet": "雲躇崚枉苔，釣箕綆充碗",
+  "source_couplet": "試誦雷陳傳，丹心永不忘"
+ },
+ {
+  "id": "penta-outer-0671",
+  "label": "o",
+  "couplet": "各几逢嵐藕，魚文定遺出",
+  "source_couplet": "相逢孟冬節，翹首待陽回"
+ },
+ {
+  "id": "penta-outer-0672",
+  "label": "o",
+  "couplet": "釣浦雲入儀，秋質觀逾礦",
+  "source_couplet": "久無軒冕夢，歲月任悠哉"
+ },
+ {
+  "id": "penta-outer-0673",
+  "label": "o",
+  "couplet": "老亂各几粗，林夢吾後稼",
+  "source_couplet": "旅邸相逢日，開樽尚自親"
+ },
+ {
+  "id": "penta-outer-0674",
+  "label": "o",
+  "couplet": "首山錦題奇，峯張似名權",
+  "source_couplet": "愁心似繭絲，短髮變玄素"
+ },
+ {
+  "id": "penta-outer-0675",
+  "label": "o",
+  "couplet": "鄉妨已徊圖，暗靡賢臺竮",
+  "source_couplet": "卓異南閩令，才華間世英"
+ },
+ {
+  "id": "penta-outer-0676",
+  "label": "o",
+  "couplet": "舵半鉢萊懸，燕印招色蟢",
+  "source_couplet": "相從渺何許，秋月見餘輝"
+ },
+ {
+  "id": "penta-outer-0677",
+  "label": "o",
+  "couplet": "鳥海柳隨弔，悵獵生閉昂",
+  "source_couplet": "車馬荒村夜，流螢水面多"
+ },
+ {
+  "id": "penta-outer-0678",
+  "label": "o",
+  "couplet": "黑承政呼櫻，後處引歌遷",
+  "source_couplet": "自知終有用，窮巷且藏機"
+ },
+ {
+  "id": "penta-outer-0679",
+  "label": "o",
+  "couplet": "誰仲易寒影，潦雲身過淟",
+  "source_couplet": "東城環壟畔，北柴傍湖濱"
+ },
+ {
+  "id": "penta-outer-0680",
+  "label": "o",
+  "couplet": "吞放有功泱，秋霜漸閒峯",
+  "source_couplet": "故園三畝宅，知已長蓬蒿"
+ },
+ {
+  "id": "penta-outer-0681",
+  "label": "o",
+  "couplet": "洲歸低勞裲，可匹來頂嬪",
+  "source_couplet": "十畝瓜園地，因之早掛冠"
+ },
+ {
+  "id": "penta-outer-0682",
+  "label": "o",
+  "couplet": "去歸雨河停，令曉紅宅酉",
+  "source_couplet": "治亂亦無端，興戎自晏安"
+ },
+ {
+  "id": "penta-outer-0683",
+  "label": "o",
+  "couplet": "趣早諫峯猊，乙處晝得鬅",
+  "source_couplet": "歸來看屐齒，猶帶落花薰"
+ },
+ {
+  "id": "penta-outer-0684",
+  "label": "o",
+  "couplet": "土高怪義諭，流寓人休僖",
+  "source_couplet": "曾向春山宿，重來似舊青"
+ },
+ {
+  "id": "penta-outer-0685",
+  "label": "o",
+  "couplet": "口率夢求宰，將此屋關榧",
+  "source_couplet": "閤眼從新事，關心爲古歡"
+ },
+ {
+  "id": "penta-outer-0686",
+  "label": "o",
+  "couplet": "螭文世陋韶，喜濤矰幾僶",
+  "source_couplet": "澤畔吟何苦，天涯有斷蓬"
+ },
+ {
+  "id": "penta-outer-0687",
+  "label": "o",
+  "couplet": "依陽病嶽徽，充雲馬得薜",
+  "source_couplet": "堪嗟二畝半，促促邑中居"
+ },
+ {
+  "id": "penta-outer-0688",
+  "label": "o",
+  "couplet": "在正翻清熱，入邊豪對墾",
+  "source_couplet": "山水連陽美，樓名畫不如"
+ },
+ {
+  "id": "penta-outer-0689",
+  "label": "o",
+  "couplet": "小訪吟輝贛，泠擁全來笑",
+  "source_couplet": "斗酒一爲別，攜琴何處歸"
+ },
+ {
+  "id": "penta-outer-0690",
+  "label": "o",
+  "couplet": "觀盥雁如怍，窗色柔跡鱘",
+  "source_couplet": "坐觀煙暝闊，徒有古今情"
+ },
+ {
+  "id": "penta-outer-0691",
+  "label": "o",
+  "couplet": "釣候睿檄遝，逆彥花衣砂",
+  "source_couplet": "新換南薰葉，曾移舊雨科"
+ },
+ {
+  "id": "penta-outer-0692",
+  "label": "o",
+  "couplet": "桐諸江去泡，謝晴勢覺謝",
+  "source_couplet": "悽悽風雨夕，蘆管爲誰忙"
+ },
+ {
+  "id": "penta-outer-0693",
+  "label": "o",
+  "couplet": "鉤肥海全汨，何留氣寫翊",
+  "source_couplet": "不見催租吏，漁歌聽自頻"
+ },
+ {
+  "id": "penta-outer-0694",
+  "label": "o",
+  "couplet": "淳喜籬策挑，具氣翛橫鸕",
+  "source_couplet": "終焉共攜手，採秀入桃源"
+ },
+ {
+  "id": "penta-outer-0695",
+  "label": "o",
+  "couplet": "國幾吟聽吁，冢動駟館踏",
+  "source_couplet": "窮歡猶未返，忽是夕陽西"
+ },
+ {
+  "id": "penta-outer-0696",
+  "label": "o",
+  "couplet": "種霜低樽評，清內扉在曆",
+  "source_couplet": "從今斷雞黍，那復故人來"
+ },
+ {
+  "id": "penta-outer-0697",
+  "label": "o",
+  "couplet": "苦物微侵鴰，碌甘爲靈高",
+  "source_couplet": "萬里關山月，吟詩獨自看"
+ },
+ {
+  "id": "penta-outer-0698",
+  "label": "o",
+  "couplet": "舄曉雨口嘒，水漓起相店",
+  "source_couplet": "人生各有志，而今得遂初"
+ },
+ {
+  "id": "penta-outer-0699",
+  "label": "o",
+  "couplet": "宦州店潮轕，壤稀熒真墾",
+  "source_couplet": "幸託同官契，三年一日如"
+ },
+ {
+  "id": "penta-outer-0700",
+  "label": "o",
+  "couplet": "復憐雲澄宣，江大且裏淇",
+  "source_couplet": "江湖無限意，延佇幾斜陽"
+ },
+ {
+  "id": "penta-outer-0701",
+  "label": "o",
+  "couplet": "逢路姬沙誇，釣箕山自茨",
+  "source_couplet": "白髮絲絲見，丹心寸寸傷"
+ },
+ {
+  "id": "penta-outer-0702",
+  "label": "o",
+  "couplet": "斷三愧飛隙，入別窮憶鯫",
+  "source_couplet": "樂事愁邊減，流年客裏過"
+ },
+ {
+  "id": "penta-outer-0703",
+  "label": "o",
+  "couplet": "變勳嶼對艫，隨柳影加塊",
+  "source_couplet": "孤兒正愁絕，原樹答悽清"
+ },
+ {
+  "id": "penta-outer-0704",
+  "label": "o",
+  "couplet": "民自看小損，鄧心娛盡昂",
+  "source_couplet": "不盡寒雲外，青峯落照多"
+ },
+ {
+  "id": "penta-outer-0705",
+  "label": "o",
+  "couplet": "貴隨斯缺夔，短底石頻恣",
+  "source_couplet": "雙峯最高頂，倚杖白雲扉"
+ },
+ {
+  "id": "penta-outer-0706",
+  "label": "o",
+  "couplet": "小勝淡人貅，螭文殷古牽",
+  "source_couplet": "百憂予共汝，澤畔未堪吟"
+ },
+ {
+  "id": "penta-outer-0707",
+  "label": "o",
+  "couplet": "春九面幾簏，當夜無健淇",
+  "source_couplet": "行年過八十，亦足傲淮陽"
+ },
+ {
+  "id": "penta-outer-0708",
+  "label": "o",
+  "couplet": "酒綸過葭孛，隱然暫紛瓤",
+  "source_couplet": "川雲將嶽雨，何者不供人"
+ },
+ {
+  "id": "penta-outer-0709",
+  "label": "o",
+  "couplet": "支殊雨口薤，然丘葉暗臻",
+  "source_couplet": "百鳥各有隊，孤鷹還自飛"
+ },
+ {
+  "id": "penta-outer-0710",
+  "label": "o",
+  "couplet": "有英餘山帝，到風兼紫蟲",
+  "source_couplet": "望氣開新麓，誅茅結草窩"
+ },
+ {
+  "id": "penta-outer-0711",
+  "label": "o",
+  "couplet": "池諧不詔把，無蒲萍澮禪",
+  "source_couplet": "白頭弟兄在，急難復何嗟"
+ },
+ {
+  "id": "penta-outer-0712",
+  "label": "o",
+  "couplet": "來第山酒櫻，碧計功雪劭",
+  "source_couplet": "猶期爲世用，且莫去人羣"
+ },
+ {
+  "id": "penta-outer-0713",
+  "label": "o",
+  "couplet": "百看陽墨簫，昏弱考啓元",
+  "source_couplet": "厭作悲秋客，歡逢賦雪遊"
+ },
+ {
+  "id": "penta-outer-0714",
+  "label": "o",
+  "couplet": "待然關換審，子倚爲鮮葭",
+  "source_couplet": "偶坐流花澗，聽泉岸白綸"
+ },
+ {
+  "id": "penta-outer-0715",
+  "label": "o",
+  "couplet": "叔可人士釦，逐愈香向騷",
+  "source_couplet": "何時重會晤，尊酒細論文"
+ },
+ {
+  "id": "penta-outer-0716",
+  "label": "o",
+  "couplet": "河近錢溪鴰，記生道亍援",
+  "source_couplet": "兒亡今一月，魂夢未曾離"
+ },
+ {
+  "id": "penta-outer-0717",
+  "label": "o",
+  "couplet": "人靜黃發汨，台一山再開",
+  "source_couplet": "何自徵科吏，猶然復到門"
+ },
+ {
+  "id": "penta-outer-0718",
+  "label": "o",
+  "couplet": "地刪千偏續，上餘疾到庶",
+  "source_couplet": "篙人真楚產，助力發蠻謳"
+ },
+ {
+  "id": "penta-outer-0719",
+  "label": "o",
+  "couplet": "還披歌焚判，易尊細江筒",
+  "source_couplet": "歲盡愁無盡，殘鍾客思微"
+ },
+ {
+  "id": "penta-outer-0720",
+  "label": "o",
+  "couplet": "淹邊鍾驛宰，破青雨哀葡",
+  "source_couplet": "夜深詢往事，忘話別離愁"
+ },
+ {
+  "id": "penta-outer-0721",
+  "label": "o",
+  "couplet": "代生掣盟鈐，城細恰道羹",
+  "source_couplet": "灣灣江上水，直直渡頭煙"
+ },
+ {
+  "id": "penta-outer-0722",
+  "label": "o",
+  "couplet": "枯前裏叩蔀，首汗湖西元",
+  "source_couplet": "新水豁空碧，薰風催舊遊"
+ },
+ {
+  "id": "penta-outer-0723",
+  "label": "o",
+  "couplet": "丹壽攜青晏，搜心多低臺",
+  "source_couplet": "物態工流落，時才負隱淪"
+ },
+ {
+  "id": "penta-outer-0724",
+  "label": "o",
+  "couplet": "顏深訪青鐮，喬儒教島鼪",
+  "source_couplet": "歲晚村翁會，比鄰酒任賒"
+ },
+ {
+  "id": "penta-outer-0725",
+  "label": "o",
+  "couplet": "鳥鬥不息儔，見埽聲飛紺",
+  "source_couplet": "聖德那能紀，風謠豈易聽"
+ },
+ {
+  "id": "penta-outer-0726",
+  "label": "o",
+  "couplet": "求溪少雨鬢，熱噪淹馣曛",
+  "source_couplet": "徐家莊上路，咫尺是西溪"
+ },
+ {
+  "id": "penta-outer-0727",
+  "label": "o",
+  "couplet": "養夫似含襄，西復朝萋碼",
+  "source_couplet": "爲問觀濤者，何人賦北溟"
+ },
+ {
+  "id": "penta-outer-0728",
+  "label": "o",
+  "couplet": "龍故婆里裲，靜鑑園臘芉",
+  "source_couplet": "何代迎仙地，高低復起樓"
+ },
+ {
+  "id": "penta-outer-0729",
+  "label": "o",
+  "couplet": "知淮濱必陰，對看白給寮",
+  "source_couplet": "曲終多苦調，不欲座中聞"
+ },
+ {
+  "id": "penta-outer-0730",
+  "label": "o",
+  "couplet": "回愁壤稀端，不息熒真碗",
+  "source_couplet": "得汝三年內，那能一日忘"
+ },
+ {
+  "id": "penta-outer-0731",
+  "label": "o",
+  "couplet": "時遲已全粗，作數留走馱",
+  "source_couplet": "準擬功成日，同歸謁禁鑾"
+ },
+ {
+  "id": "penta-outer-0732",
+  "label": "o",
+  "couplet": "宋君管百藕，侯髯荒罷墾",
+  "source_couplet": "他時看建節，何但漢相如"
+ },
+ {
+  "id": "penta-outer-0733",
+  "label": "o",
+  "couplet": "磊長伴未局，夢蓮眠多繚",
+  "source_couplet": "神山不可到，此亦鳳麟州"
+ },
+ {
+  "id": "penta-outer-0734",
+  "label": "o",
+  "couplet": "雪翠日厭佽，倦北室才稼",
+  "source_couplet": "旅館時相訪，憐君情最親"
+ },
+ {
+  "id": "penta-outer-0735",
+  "label": "o",
+  "couplet": "短歲岳遂就，真士遙鳳淋",
+  "source_couplet": "未須愁日暝，松月照庭虛"
+ },
+ {
+  "id": "penta-outer-0736",
+  "label": "o",
+  "couplet": "行家餘山苗，破重谷世炊",
+  "source_couplet": "巖壑開新霽，清容倍可憐"
+ },
+ {
+  "id": "penta-outer-0737",
+  "label": "o",
+  "couplet": "苦物路紹襄，香求喜夜礦",
+  "source_couplet": "萬里趨朝者，孤城保障哉"
+ },
+ {
+  "id": "penta-outer-0738",
+  "label": "o",
+  "couplet": "爲前比投櫸，一發暮上芸",
+  "source_couplet": "昔我壯遊學，同人多冠軍"
+ },
+ {
+  "id": "penta-outer-0739",
+  "label": "o",
+  "couplet": "汲靜漢樹刷，得霓亭春筒",
+  "source_couplet": "縹緲帶春霏，山深野寺微"
+ },
+ {
+  "id": "penta-outer-0740",
+  "label": "o",
+  "couplet": "昏且流寓胄，元夜加無慚",
+  "source_couplet": "別有重來興，溪陰莫雪間"
+ },
+ {
+  "id": "penta-outer-0741",
+  "label": "o",
+  "couplet": "繫性顧雨臭，未午歸頗殄",
+  "source_couplet": "君是鄴兒非，黃鬚短褐衣"
+ },
+ {
+  "id": "penta-outer-0742",
+  "label": "o",
+  "couplet": "石入香接縮，塵暫蕭度泉",
+  "source_couplet": "基構百年謀，依然四壁秋"
+ },
+ {
+  "id": "penta-outer-0743",
+  "label": "o",
+  "couplet": "是輸角天圍，淡爲青燼闠",
+  "source_couplet": "太行真地險，擬勒北山銘"
+ },
+ {
+  "id": "penta-outer-0744",
+  "label": "o",
+  "couplet": "句心愧闈病，木沒詔塵滷",
+  "source_couplet": "此身真隔世，地下倘相從"
+ },
+ {
+  "id": "penta-outer-0745",
+  "label": "o",
+  "couplet": "肥臣琴共闊，柳水釣如翊",
+  "source_couplet": "以此發深省，鄉書不厭頻"
+ },
+ {
+  "id": "penta-outer-0746",
+  "label": "o",
+  "couplet": "蘿伻惜楚奔，識直開聊榸",
+  "source_couplet": "憑將太史筆，磨石照蒼穹"
+ },
+ {
+  "id": "penta-outer-0747",
+  "label": "o",
+  "couplet": "梁孤付一罨，衣飛共兼劭",
+  "source_couplet": "穿林深淺去，驚起碧雞羣"
+ },
+ {
+  "id": "penta-outer-0748",
+  "label": "o",
+  "couplet": "落谷科春塗，蠻兵仍營級",
+  "source_couplet": "衰草荒山岸，宵分野燒紅"
+ },
+ {
+  "id": "penta-outer-0749",
+  "label": "o",
+  "couplet": "故目鶴迷再，國龐夢柱翊",
+  "source_couplet": "老僧知此味，好寄莫辭頻"
+ },
+ {
+  "id": "penta-outer-0750",
+  "label": "o",
+  "couplet": "空蠻仲勞判，眠人千發嫵",
+  "source_couplet": "客心傷已盡，黃鳥苦流聲"
+ },
+ {
+  "id": "penta-outer-0751",
+  "label": "o",
+  "couplet": "野誰皆松也，好隨無田跳",
+  "source_couplet": "歸舟今夕遠，西望獨沾巾"
+ },
+ {
+  "id": "penta-outer-0752",
+  "label": "o",
+  "couplet": "傾渾力用唱，各几煙虛擁",
+  "source_couplet": "幾載各西東，相逢一醉同"
+ },
+ {
+  "id": "penta-outer-0753",
+  "label": "o",
+  "couplet": "裁亦籟罾崿，背本尚沽逞",
+  "source_couplet": "德星長在望，分省別才賢"
+ },
+ {
+  "id": "penta-outer-0754",
+  "label": "o",
+  "couplet": "誅畫敲春漭，前來閫有右",
+  "source_couplet": "秋原草色殘，千騎擁雕鞍"
+ },
+ {
+  "id": "penta-outer-0755",
+  "label": "o",
+  "couplet": "今寸得蕭舛，秋壁只疏頻",
+  "source_couplet": "長公歸巳久，渡汝問行藏"
+ },
+ {
+  "id": "penta-outer-0756",
+  "label": "o",
+  "couplet": "暗籬竈遍寰，刻螢根王曛",
+  "source_couplet": "十年流浪恨，猶自咽前溪"
+ },
+ {
+  "id": "penta-outer-0757",
+  "label": "o",
+  "couplet": "圍移意門維，初人涼飄訛",
+  "source_couplet": "寧親承予告，秋盡理行裝"
+ },
+ {
+  "id": "penta-outer-0758",
+  "label": "o",
+  "couplet": "麻未方紛樞，暮宵太秋文",
+  "source_couplet": "六朝多古寺，乘興下金陵"
+ },
+ {
+  "id": "penta-outer-0759",
+  "label": "o",
+  "couplet": "地旅鹿南崿，故臨池綠臻",
+  "source_couplet": "散步郊南望，雛鴉款款飛"
+ },
+ {
+  "id": "penta-outer-0760",
+  "label": "o",
+  "couplet": "收老命遠桓，觸淚相旭鈴",
+  "source_couplet": "欲共臨歧送，春波兩岸長"
+ },
+ {
+  "id": "penta-outer-0761",
+  "label": "o",
+  "couplet": "開結秋霜軻，雨僧道幸葡",
+  "source_couplet": "淒涼知已報，舊事總堪愁"
+ },
+ {
+  "id": "penta-outer-0762",
+  "label": "o",
+  "couplet": "里口清濘也，漢淺夕若脊",
+  "source_couplet": "芳潤餘應遠，沾濡及衆生"
+ },
+ {
+  "id": "penta-outer-0763",
+  "label": "o",
+  "couplet": "春直期楚歿，落處來到帳",
+  "source_couplet": "取路非高足，入山力復餘"
+ },
+ {
+  "id": "penta-outer-0764",
+  "label": "o",
+  "couplet": "雀落千知鎧，祠長餐將祓",
+  "source_couplet": "悟得陰陽理，兼成卻病丹"
+ },
+ {
+  "id": "penta-outer-0765",
+  "label": "o",
+  "couplet": "氣穿忽在鬢，覺輿凝不陶",
+  "source_couplet": "窈窕澄溪路，蒼涼九月天"
+ },
+ {
+  "id": "penta-outer-0766",
+  "label": "o",
+  "couplet": "我爲擊新報，頭默樹自寮",
+  "source_couplet": "北風天際下，舟楫夜相聞"
+ },
+ {
+  "id": "penta-outer-0767",
+  "label": "o",
+  "couplet": "雜曾旋堂雜，意不迴堂蠲",
+  "source_couplet": "衣冠通德里，機杼孟家鄰"
+ },
+ {
+  "id": "penta-outer-0768",
+  "label": "o",
+  "couplet": "揚閈酒土克，透戰須日榆",
+  "source_couplet": "未覺吟身倦，呼奴更一觴"
+ },
+ {
+  "id": "penta-outer-0769",
+  "label": "o",
+  "couplet": "時夢工閣灰，法丹無艱畋",
+  "source_couplet": "北雁正南翔，書來自帝鄉"
+ },
+ {
+  "id": "penta-outer-0770",
+  "label": "o",
+  "couplet": "題多瓦不芳，醞旋留易臺",
+  "source_couplet": "委巷疏塵宇，空齋問隱淪"
+ },
+ {
+  "id": "penta-outer-0771",
+  "label": "o",
+  "couplet": "奕同解名判，女枯山淚菀",
+  "source_couplet": "亂離骨肉盡，腸斷向誰言"
+ },
+ {
+  "id": "penta-outer-0772",
+  "label": "o",
+  "couplet": "馴誇翠青儀，陣室烏移征",
+  "source_couplet": "幾歲還家夢，終成瘴海身"
+ },
+ {
+  "id": "penta-outer-0773",
+  "label": "o",
+  "couplet": "至州全來瞀，微歇越日元",
+  "source_couplet": "壯心何處極，聊此付春遊"
+ },
+ {
+  "id": "penta-outer-0774",
+  "label": "o",
+  "couplet": "賞首階啓冥，爲堂細江痌",
+  "source_couplet": "迢遞憐行役，其如客思何"
+ },
+ {
+  "id": "penta-outer-0775",
+  "label": "o",
+  "couplet": "清前雲輕佔，染初知石萋",
+  "source_couplet": "舊識張華劍，寒鋒起豫章"
+ },
+ {
+  "id": "penta-outer-0776",
+  "label": "o",
+  "couplet": "野嶺籟金矉，啓舊頻雲尨",
+  "source_couplet": "一葉休言小，乘春可共移"
+ },
+ {
+  "id": "penta-outer-0777",
+  "label": "o",
+  "couplet": "情扶千嗟杏，霧竹如萬劭",
+  "source_couplet": "壯歲登烏府，昂藏自不羣"
+ },
+ {
+  "id": "penta-outer-0778",
+  "label": "o",
+  "couplet": "氣霧菰情麒，平宇朱千鄴",
+  "source_couplet": "衡門欣聚首，父父子孫孫"
+ },
+ {
+  "id": "penta-outer-0779",
+  "label": "o",
+  "couplet": "瓶倦宇急瓈，山仍從射恣",
+  "source_couplet": "正愜芳園賞，中林漫掩扉"
+ },
+ {
+  "id": "penta-outer-0780",
+  "label": "o",
+  "couplet": "扉在蘿珠汨，高葉砧時秩",
+  "source_couplet": "故人兼故吏，忍使寸心孤"
+ },
+ {
+  "id": "penta-outer-0781",
+  "label": "o",
+  "couplet": "雪土江滄孫，草江從杪恣",
+  "source_couplet": "山雨連江白，涼飆動竹扉"
+ },
+ {
+  "id": "penta-outer-0782",
+  "label": "o",
+  "couplet": "平漢孺浸挼，星宵數局轄",
+  "source_couplet": "西署初迥轍，南天覆擁符"
+ },
+ {
+  "id": "penta-outer-0783",
+  "label": "o",
+  "couplet": "觸道清去嗇，滿報杖領澹",
+  "source_couplet": "馬嵬回首處，寂寞小桃開"
+ },
+ {
+  "id": "penta-outer-0784",
+  "label": "o",
+  "couplet": "繞崛正勳否，言質夢驚氎",
+  "source_couplet": "催歸松漠鳥，啼到相輪邊"
+ },
+ {
+  "id": "penta-outer-0785",
+  "label": "o",
+  "couplet": "應耕飽莊宰，斜爲驚鳥灊",
+  "source_couplet": "留宿非難事，歸途愛月光"
+ },
+ {
+  "id": "penta-outer-0786",
+  "label": "o",
+  "couplet": "闌有多塞宣，如軸兼孤孀",
+  "source_couplet": "懸知沾灑意，應長故山薇"
+ },
+ {
+  "id": "penta-outer-0787",
+  "label": "o",
+  "couplet": "前唱君尋構，樹鎖服暮委",
+  "source_couplet": "青雲曾及第，綠野更開堂"
+ },
+ {
+  "id": "penta-outer-0788",
+  "label": "o",
+  "couplet": "不知沓落欹，人驛晚留湮",
+  "source_couplet": "述志賦秋蟲，孤吟御遠風"
+ },
+ {
+  "id": "penta-outer-0789",
+  "label": "o",
+  "couplet": "川心饒翻睿，辰客投東屧",
+  "source_couplet": "高城延晚色，野眺俯林坰"
+ },
+ {
+  "id": "penta-outer-0790",
+  "label": "o",
+  "couplet": "旋溪里樹狂，裏杏苦物澹",
+  "source_couplet": "何地是蓬萊，雲煙萬里開"
+ },
+ {
+  "id": "penta-outer-0791",
+  "label": "o",
+  "couplet": "酒蕩角名把，不蓮含重子",
+  "source_couplet": "及此榮華在，佳期望二姚"
+ },
+ {
+  "id": "penta-outer-0792",
+  "label": "o",
+  "couplet": "必華馳孤報，收胥辭鄉蕖",
+  "source_couplet": "驛路高還下，肩輿側更攲"
+ },
+ {
+  "id": "penta-outer-0793",
+  "label": "o",
+  "couplet": "臺孫空豈襄，黃厭黃痕級",
+  "source_couplet": "寄言羲御者，願借一輪紅"
+ },
+ {
+  "id": "penta-outer-0794",
+  "label": "o",
+  "couplet": "掃雜浮舟簫，心今風杯媧",
+  "source_couplet": "古來文苑客，強半在風塵"
+ },
+ {
+  "id": "penta-outer-0795",
+  "label": "o",
+  "couplet": "亂開帥羣羔，吳公梧妃急",
+  "source_couplet": "一乖棠棣詠，幾欲罷看花"
+ },
+ {
+  "id": "penta-outer-0796",
+  "label": "o",
+  "couplet": "夕林敕終衣，浮事色嘯斜",
+  "source_couplet": "獨住水中央，言修不死方"
+ },
+ {
+  "id": "penta-outer-0797",
+  "label": "o",
+  "couplet": "全來屋皤攲，草隱爾唱奇",
+  "source_couplet": "何處袍堪染，南宮柳萬絲"
+ },
+ {
+  "id": "penta-outer-0798",
+  "label": "o",
+  "couplet": "公曾怪掩巔，暑食書祛巘",
+  "source_couplet": "抱拙從人笑，投閒得自由"
+ },
+ {
+  "id": "penta-outer-0799",
+  "label": "o",
+  "couplet": "可剩見息杏，俱朱途春流",
+  "source_couplet": "避暑將軍府，青青竹滿園"
+ },
+ {
+  "id": "penta-outer-0800",
+  "label": "o",
+  "couplet": "亦君每玦慣，歌春正紛照",
+  "source_couplet": "不眠時起舞，無意聽雞鳴"
+ },
+ {
+  "id": "penta-outer-0801",
+  "label": "o",
+  "couplet": "憶希衣久襄，潮宴落城莩",
+  "source_couplet": "汝亦驚弦者，來歸過我廬"
+ },
+ {
+  "id": "penta-outer-0802",
+  "label": "o",
+  "couplet": "母莫邀影陀，尺後親波衢",
+  "source_couplet": "越甌真漉雪，惠鼎勝烹泉"
+ },
+ {
+  "id": "penta-outer-0803",
+  "label": "o",
+  "couplet": "帳耕欹請建，先翳長節惲",
+  "source_couplet": "一房卻稱圃，四季可恆春"
+ },
+ {
+  "id": "penta-outer-0804",
+  "label": "o",
+  "couplet": "地驅方終泉，轉斜望已繚",
+  "source_couplet": "馬色渡河秋，蕭蕭向德州"
+ },
+ {
+  "id": "penta-outer-0805",
+  "label": "o",
+  "couplet": "秦趨今獻婑，此攀心愁睢",
+  "source_couplet": "幽思縈新句，奇情戀落暉"
+ },
+ {
+  "id": "penta-outer-0806",
+  "label": "o",
+  "couplet": "嶂稀民松已，巾霪海昧鶉",
+  "source_couplet": "江陵空望幸，愁絕侍臣詩"
+ },
+ {
+  "id": "penta-outer-0807",
+  "label": "o",
+  "couplet": "紅浪峙叱孳，春曾外陵齒",
+  "source_couplet": "思靈松竹茂，何日共探尋"
+ },
+ {
+  "id": "penta-outer-0808",
+  "label": "o",
+  "couplet": "荒染長命涎，光對蕭人庶",
+  "source_couplet": "少陵如可起，爲我聽吳謳"
+ },
+ {
+  "id": "penta-outer-0809",
+  "label": "o",
+  "couplet": "酌日海恤忘，步在來徑羹",
+  "source_couplet": "垂簾如洞壑，揮翰即雲煙"
+ },
+ {
+  "id": "penta-outer-0810",
+  "label": "o",
+  "couplet": "鄰盡山苦宰，佔明亦浮高",
+  "source_couplet": "廢興今古事，且作等閒看"
+ },
+ {
+  "id": "penta-outer-0811",
+  "label": "o",
+  "couplet": "雨衣岫見竟，酒期穠醉塊",
+  "source_couplet": "一雁下連營，長淮鼓角清"
+ },
+ {
+  "id": "penta-outer-0812",
+  "label": "o",
+  "couplet": "此回峯能複，會館水杳淇",
+  "source_couplet": "淺渚連秋草，平堤帶夕陽"
+ },
+ {
+  "id": "penta-outer-0813",
+  "label": "o",
+  "couplet": "後合魚泊鈐，沉年歌來哭",
+  "source_couplet": "日對東流水，曾無西上魚"
+ },
+ {
+  "id": "penta-outer-0814",
+  "label": "o",
+  "couplet": "勤客雨林滴，滿鄭斷鳥沸",
+  "source_couplet": "秋山日蒼翠，詩卷共清疏"
+ },
+ {
+  "id": "penta-outer-0815",
+  "label": "o",
+  "couplet": "秋又年下驟，微寄楚回蟬",
+  "source_couplet": "君將歸舊隱，相送出東林"
+ },
+ {
+  "id": "penta-outer-0816",
+  "label": "o",
+  "couplet": "墉花搖殿弔，憐處幽神昧",
+  "source_couplet": "亦是人間夜，能關靜者心"
+ },
+ {
+  "id": "penta-outer-0817",
+  "label": "o",
+  "couplet": "邊餐襟新戒，松華間傳鶉",
+  "source_couplet": "氣虛精力弱，怕詠四愁詩"
+ },
+ {
+  "id": "penta-outer-0818",
+  "label": "o",
+  "couplet": "簟兒桂合嗇，清去碑路朔",
+  "source_couplet": "往來憑眺處，回首已蒼顏"
+ },
+ {
+  "id": "penta-outer-0819",
+  "label": "o",
+  "couplet": "因片小疾撩，數石秫雄筠",
+  "source_couplet": "去國捐環佩，從亡護棣華"
+ },
+ {
+  "id": "penta-outer-0820",
+  "label": "o",
+  "couplet": "半飛子鮮郢，升事開歷焰",
+  "source_couplet": "定廬詩序定，誰共話酸辛"
+ },
+ {
+  "id": "penta-outer-0821",
+  "label": "o",
+  "couplet": "數曾長杓巉，聲組隆郎慚",
+  "source_couplet": "我憶山妻瘦，梅花伯仲間"
+ },
+ {
+  "id": "penta-outer-0822",
+  "label": "o",
+  "couplet": "儒溜江露陰，倦北盆隨袍",
+  "source_couplet": "鄉國誰同調，憐君頗似儂"
+ },
+ {
+  "id": "penta-outer-0823",
+  "label": "o",
+  "couplet": "寫春顯萬嶮，鸞史薰木霄",
+  "source_couplet": "熊螭今不少，誰與夢相應"
+ },
+ {
+  "id": "penta-outer-0824",
+  "label": "o",
+  "couplet": "知田亥悅苦，天見林在詫",
+  "source_couplet": "客有抱琴至，泠泠風入弦"
+ },
+ {
+  "id": "penta-outer-0825",
+  "label": "o",
+  "couplet": "蒼啼落蟄虞，看寒與諸難",
+  "source_couplet": "習靜非因懶，棲心不爲禪"
+ },
+ {
+  "id": "penta-outer-0826",
+  "label": "o",
+  "couplet": "勞水情躊璃，望戎今王技",
+  "source_couplet": "一夕連牀話，山鍾報曉時"
+ },
+ {
+  "id": "penta-outer-0827",
+  "label": "o",
+  "couplet": "市城穿事宣，漫僧庭甌踊",
+  "source_couplet": "更看霜雪意，無語若相知"
+ },
+ {
+  "id": "penta-outer-0828",
+  "label": "o",
+  "couplet": "縱成輒意崧，旋通藥抱因",
+  "source_couplet": "泉源丹嶠側，石壁玉河隈"
+ },
+ {
+  "id": "penta-outer-0829",
+  "label": "o",
+  "couplet": "最媚歸相娣，遲親政開蝴",
+  "source_couplet": "竹井收藏物，茶山絕妙詞"
+ },
+ {
+  "id": "penta-outer-0830",
+  "label": "o",
+  "couplet": "晚賦葉微麪，啼若肩食袈",
+  "source_couplet": "邇日炎方盛，遊山雨乍逢"
+ },
+ {
+  "id": "penta-outer-0831",
+  "label": "o",
+  "couplet": "州齒境山嵩，立冷祇遊鈕",
+  "source_couplet": "庭州多樂土，此縣獨清貧"
+ },
+ {
+  "id": "penta-outer-0832",
+  "label": "o",
+  "couplet": "草醉胡依玩，致雨甘話坪",
+  "source_couplet": "悶來誰慰藉，真意最相關"
+ },
+ {
+  "id": "penta-outer-0833",
+  "label": "o",
+  "couplet": "際時候貂惜，初試笳樂紋",
+  "source_couplet": "不須愁肺熱，先已飲冰寒"
+ },
+ {
+  "id": "penta-outer-0834",
+  "label": "o",
+  "couplet": "末縹真弄瞋，幽幬集人作",
+  "source_couplet": "學道思言偃，牛刀用豈違"
+ },
+ {
+  "id": "penta-outer-0835",
+  "label": "o",
+  "couplet": "太日茲慰衲，湖與根使午",
+  "source_couplet": "此地向旬宣，撫安遂晉遷"
+ },
+ {
+  "id": "penta-outer-0836",
+  "label": "o",
+  "couplet": "曲爲鉤肥瓤，易試此秦瑞",
+  "source_couplet": "獨立不見人，塵頭野風旋"
+ },
+ {
+  "id": "penta-outer-0837",
+  "label": "o",
+  "couplet": "天名處盤淘，氣新光急話",
+  "source_couplet": "傳芳休異種，五桂出同根"
+ },
+ {
+  "id": "penta-outer-0838",
+  "label": "o",
+  "couplet": "昭終影琴鬢，秀風未前收",
+  "source_couplet": "曙色東江路，無多百里遙"
+ },
+ {
+  "id": "penta-outer-0839",
+  "label": "o",
+  "couplet": "聽當翻面鍛，念香社側燃",
+  "source_couplet": "春似曾歸燕，人同泛水鳧"
+ },
+ {
+  "id": "penta-outer-0840",
+  "label": "o",
+  "couplet": "言霏顯萬誇，臘襟潮亭元",
+  "source_couplet": "後人今不見，應共憶斯遊"
+ },
+ {
+  "id": "penta-outer-0841",
+  "label": "o",
+  "couplet": "太日卻敵瑣，稻王幽遂謝",
+  "source_couplet": "此地忘炎夏，心清洗耳忙"
+ },
+ {
+  "id": "penta-outer-0842",
+  "label": "o",
+  "couplet": "新濆小訪宣，殘間字過高",
+  "source_couplet": "今朝斗酒意，來夕夢中看"
+ },
+ {
+  "id": "penta-outer-0843",
+  "label": "o",
+  "couplet": "發棄如空麈，令急流草澹",
+  "source_couplet": "前秋合歡扇，一傍月明開"
+ },
+ {
+  "id": "penta-outer-0844",
+  "label": "o",
+  "couplet": "當得定海宣，始世晝得涇",
+  "source_couplet": "啼鶯如有意，不斷落花前"
+ },
+ {
+  "id": "penta-outer-0845",
+  "label": "o",
+  "couplet": "鴉扇路歌隈，大出歸頗脊",
+  "source_couplet": "水國乍陰晴，秋從短褐生"
+ },
+ {
+  "id": "penta-outer-0846",
+  "label": "o",
+  "couplet": "水順復飛芎，聲苦舟牒蝴",
+  "source_couplet": "無人能作賊，贈策愧無詞"
+ },
+ {
+  "id": "penta-outer-0847",
+  "label": "o",
+  "couplet": "病即照白損，鉤肥眠沾塢",
+  "source_couplet": "如何村郭外，不見擁青蓑"
+ },
+ {
+  "id": "penta-outer-0848",
+  "label": "o",
+  "couplet": "宋君閩愁鈐，用凝登時衢",
+  "source_couplet": "他時此剩水，得姓可甘泉"
+ },
+ {
+  "id": "penta-outer-0849",
+  "label": "o",
+  "couplet": "往旗雙足泱，軒不反嗟自",
+  "source_couplet": "寂寂揚雄宅，惟君數往還"
+ },
+ {
+  "id": "penta-outer-0850",
+  "label": "o",
+  "couplet": "皇邊得人濟，郎歸明有苫",
+  "source_couplet": "階下松齡祝，千秋奉壽康"
+ },
+ {
+  "id": "penta-outer-0851",
+  "label": "o",
+  "couplet": "讓中方道局，石曉陰無涇",
+  "source_couplet": "計程明日到，情話北堂前"
+ },
+ {
+  "id": "penta-outer-0852",
+  "label": "o",
+  "couplet": "閒何嗚說班，亦真勢車葺",
+  "source_couplet": "小閣數叢菊，花時損俸錢"
+ },
+ {
+  "id": "penta-outer-0853",
+  "label": "o",
+  "couplet": "爾少夢子鈐，風此冽化櫱",
+  "source_couplet": "若渡錢塘水，雙魚慰好音"
+ },
+ {
+  "id": "penta-outer-0854",
+  "label": "o",
+  "couplet": "初葉遙酒宰，匆芳苦江腮",
+  "source_couplet": "報國儒臣事，君歸豈漫然"
+ },
+ {
+  "id": "penta-outer-0855",
+  "label": "o",
+  "couplet": "惜翁成澄報，只巖心上脊",
+  "source_couplet": "乘雲倘來下，我欲問長生"
+ },
+ {
+  "id": "penta-outer-0856",
+  "label": "o",
+  "couplet": "德蟬玉魚餥，荷夕韓世奕",
+  "source_couplet": "向夕微涼動，宜人理素琴"
+ },
+ {
+  "id": "penta-outer-0857",
+  "label": "o",
+  "couplet": "寒寥風序莘，霜蔽暢弟櫬",
+  "source_couplet": "太息豺狼窟，前年此設兵"
+ },
+ {
+  "id": "penta-outer-0858",
+  "label": "o",
+  "couplet": "舞松言壺鬢，叢平揚閈霰",
+  "source_couplet": "如此芳洲路，行行未覺難"
+ },
+ {
+  "id": "penta-outer-0859",
+  "label": "o",
+  "couplet": "敢占君別陂，多切晝秋塊",
+  "source_couplet": "高枕吾廬似，花香繞屋清"
+ },
+ {
+  "id": "penta-outer-0860",
+  "label": "o",
+  "couplet": "俗郭愛旬罪，滿仙杯老苔",
+  "source_couplet": "聖朝恩澤厚，藉與遠人傳"
+ },
+ {
+  "id": "penta-outer-0861",
+  "label": "o",
+  "couplet": "芝睯誰蕊嶇，沉年樹閘技",
+  "source_couplet": "卻憶艱難際，曾無偃息時"
+ },
+ {
+  "id": "penta-outer-0862",
+  "label": "o",
+  "couplet": "爽雲聊行曾，蓉江晴氣噴",
+  "source_couplet": "微吟休擁鼻，時覺墨花香"
+ },
+ {
+  "id": "penta-outer-0863",
+  "label": "o",
+  "couplet": "送遵祠眠獎，合庭盜市櫪",
+  "source_couplet": "山寒初斷靄，月曉不收明"
+ },
+ {
+  "id": "penta-outer-0864",
+  "label": "o",
+  "couplet": "莽代皆雪晏，雙玉窗濤曳",
+  "source_couplet": "晴痕掛籬落，十步望峯巔"
+ },
+ {
+  "id": "penta-outer-0865",
+  "label": "o",
+  "couplet": "暮先角月箱，寡爐酒隱賈",
+  "source_couplet": "送師今夜裏，遙憶玉潭幽"
+ },
+ {
+  "id": "penta-outer-0866",
+  "label": "o",
+  "couplet": "猶闕陂音報，識景野豈自",
+  "source_couplet": "徘徊九龍下，疑是戲珠還"
+ },
+ {
+  "id": "penta-outer-0867",
+  "label": "o",
+  "couplet": "海憶薰長窌，便響此傳攸",
+  "source_couplet": "業舉已芻狗，當時煩細論"
+ },
+ {
+  "id": "penta-outer-0868",
+  "label": "o",
+  "couplet": "峽泉無祀淦，金此花後霪",
+  "source_couplet": "不分承恩寵，何勞省畫圖"
+ },
+ {
+  "id": "penta-outer-0869",
+  "label": "o",
+  "couplet": "霞羞襄珍弱，娟將頭聞笑",
+  "source_couplet": "夕照催羣息，陽林見汝歸"
+ },
+ {
+  "id": "penta-outer-0870",
+  "label": "o",
+  "couplet": "來梅鬢界傅，閒須簡分腮",
+  "source_couplet": "煙火洞庭晚，近鄉思悄然"
+ },
+ {
+  "id": "penta-outer-0871",
+  "label": "o",
+  "couplet": "萍枉伴未鎧，逅向殘望朮",
+  "source_couplet": "所思不可理，永夕獨盤桓"
+ },
+ {
+  "id": "penta-outer-0872",
+  "label": "o",
+  "couplet": "夫趙早飄誇，虛春渠不鱘",
+  "source_couplet": "季鷹如得見，豈作憶鱸情"
+ },
+ {
+  "id": "penta-outer-0873",
+  "label": "o",
+  "couplet": "家波亭足棱，鷙常禪傳鯫",
+  "source_couplet": "素節新秋始，晚涼急雨過"
+ },
+ {
+  "id": "penta-outer-0874",
+  "label": "o",
+  "couplet": "見屬來福損，浮硯杯樓潢",
+  "source_couplet": "可憐歌舞外，茅屋有驚鴻"
+ },
+ {
+  "id": "penta-outer-0875",
+  "label": "o",
+  "couplet": "芳冷愁樾反，霜氣話極鯫",
+  "source_couplet": "望雪半冬歷，密雲三日過"
+ },
+ {
+  "id": "penta-outer-0876",
+  "label": "o",
+  "couplet": "麥孤身健簫，別高得險榭",
+  "source_couplet": "點易臺邊客，海天亭外雲"
+ },
+ {
+  "id": "penta-outer-0877",
+  "label": "o",
+  "couplet": "蕭深可戶貅，數岸砧時作",
+  "source_couplet": "營巢吾愧汝，飄泊寸心違"
+ },
+ {
+  "id": "penta-outer-0878",
+  "label": "o",
+  "couplet": "畢疏晚時胎，入朝元合技",
+  "source_couplet": "夏中秋以末，晴雨總宜時"
+ },
+ {
+  "id": "penta-outer-0879",
+  "label": "o",
+  "couplet": "並霧鳥公完，虎心歲臺鉢",
+  "source_couplet": "絲綸隨手結，莫笑此卑棲"
+ },
+ {
+  "id": "penta-outer-0880",
+  "label": "o",
+  "couplet": "明潭凍濁把，得化休同人",
+  "source_couplet": "默默殘編在，餘齡勉切磨"
+ },
+ {
+  "id": "penta-outer-0881",
+  "label": "o",
+  "couplet": "匣銷梅頭覲，驚書披水墾",
+  "source_couplet": "逐貧思作賦，才薄欲何如"
+ },
+ {
+  "id": "penta-outer-0882",
+  "label": "o",
+  "couplet": "重宿慷教厭，採林並代雊",
+  "source_couplet": "小墅慳三畝，棲遲僅自寬"
+ },
+ {
+  "id": "penta-outer-0883",
+  "label": "o",
+  "couplet": "無如不閣駘，復天樵老昧",
+  "source_couplet": "好樂真無射，惟斯足養心"
+ },
+ {
+  "id": "penta-outer-0884",
+  "label": "o",
+  "couplet": "未曾首華禮，搖殿承冢擁",
+  "source_couplet": "玉塞廣寒宮，人間迥不同"
+ },
+ {
+  "id": "penta-outer-0885",
+  "label": "o",
+  "couplet": "成雀竹火弔，佩官客耕昧",
+  "source_couplet": "記否中山夜，繩牀聽雨心"
+ },
+ {
+  "id": "penta-outer-0886",
+  "label": "o",
+  "couplet": "祖立千孤紀，陽針復獨薜",
+  "source_couplet": "爲厭囂塵雜，閒尋水竹居"
+ },
+ {
+  "id": "penta-outer-0887",
+  "label": "o",
+  "couplet": "飆昨境明誇，別問愧勞湮",
+  "source_couplet": "五載一相見，江邊落木風"
+ },
+ {
+  "id": "penta-outer-0888",
+  "label": "o",
+  "couplet": "相明渠砧金，堪隱碧別元",
+  "source_couplet": "臨風懷子晉，應跨鶴來遊"
+ },
+ {
+  "id": "penta-outer-0889",
+  "label": "o",
+  "couplet": "客漁帝渴暴，低欄疏海杯",
+  "source_couplet": "山徑盤盤曲，山城疊疊深"
+ },
+ {
+  "id": "penta-outer-0890",
+  "label": "o",
+  "couplet": "釣野論懸摶，聽種歡粗畬",
+  "source_couplet": "風塵雖未解，何敢竟淹留"
+ },
+ {
+  "id": "penta-outer-0891",
+  "label": "o",
+  "couplet": "月徒老峭薛，團人從塵治",
+  "source_couplet": "山莊臨上塞，皇祖具深猷"
+ },
+ {
+  "id": "penta-outer-0892",
+  "label": "o",
+  "couplet": "逡如秋求迴，溜江柱人吞",
+  "source_couplet": "僕馬須長避，休教蹋綠苔"
+ },
+ {
+  "id": "penta-outer-0893",
+  "label": "o",
+  "couplet": "欲伏流歸弱，籠冉明貢媧",
+  "source_couplet": "杏花將信息，應爲洗荒塵"
+ },
+ {
+  "id": "penta-outer-0894",
+  "label": "o",
+  "couplet": "貌我更寒宣，沙詠抱素魴",
+  "source_couplet": "好將蕭散意，和夢落湘岑"
+ },
+ {
+  "id": "penta-outer-0895",
+  "label": "o",
+  "couplet": "起軟開黃仍，貪韻積紅收",
+  "source_couplet": "去聖如斯近，紆鑾未至遙"
+ },
+ {
+  "id": "penta-outer-0896",
+  "label": "o",
+  "couplet": "多路無名踏，子避的志綾",
+  "source_couplet": "秋獵路由西，於焉駐馬蹄"
+ },
+ {
+  "id": "penta-outer-0897",
+  "label": "o",
+  "couplet": "濛械狹親滴，微妙朝重八",
+  "source_couplet": "艇接羣峯翠，飛煙落萬家"
+ },
+ {
+  "id": "penta-outer-0898",
+  "label": "o",
+  "couplet": "駢身空紗吁，架人不鶻典",
+  "source_couplet": "坐臥欲忘返，蕭然何所求"
+ },
+ {
+  "id": "penta-outer-0899",
+  "label": "o",
+  "couplet": "意昨招是瓏，解畫奕同征",
+  "source_couplet": "吟魂今在否，我亦亂離身"
+ },
+ {
+  "id": "penta-outer-0900",
+  "label": "o",
+  "couplet": "生茅光意映，太日戈更痍",
+  "source_couplet": "似聽雷雨急，此地惡風波"
+ },
+ {
+  "id": "penta-outer-0901",
+  "label": "o",
+  "couplet": "都得悅客端，寒耽像爾慚",
+  "source_couplet": "地在乾坤內，人居朔漠間"
+ },
+ {
+  "id": "penta-outer-0902",
+  "label": "o",
+  "couplet": "凜幢欲高翬，悲雨適表酉",
+  "source_couplet": "吾儕經計熟，心靜莫求安"
+ },
+ {
+  "id": "penta-outer-0903",
+  "label": "o",
+  "couplet": "幾我時五尻，手江來久牽",
+  "source_couplet": "聽蟲冥百念，終不斷高吟"
+ },
+ {
+  "id": "penta-outer-0904",
+  "label": "o",
+  "couplet": "易三詩鼾判，廷南時素蟢",
+  "source_couplet": "曉來雲散盡，高暴喜晶輝"
+ },
+ {
+  "id": "penta-outer-0905",
+  "label": "o",
+  "couplet": "軋宜傾止玫，霜觸晚爭蘀",
+  "source_couplet": "底誇航葦渡，彼岸卻成殊"
+ },
+ {
+  "id": "penta-outer-0906",
+  "label": "o",
+  "couplet": "雖輕放閣諭，行家固今攤",
+  "source_couplet": "言投山驛宿，巖壑暮陰重"
+ },
+ {
+  "id": "penta-outer-0907",
+  "label": "o",
+  "couplet": "起相槁限例，連過清報薜",
+  "source_couplet": "得遂還鄉愿，揚州又卜居"
+ },
+ {
+  "id": "penta-outer-0908",
+  "label": "o",
+  "couplet": "甫中深活漂，塘過亦湖旗",
+  "source_couplet": "忽看漁艇入，款乃聽紛紛"
+ },
+ {
+  "id": "penta-outer-0909",
+  "label": "o",
+  "couplet": "夜果寶鸚曳，待推淨不陶",
+  "source_couplet": "策杖陟層巔，凌虛望遠天"
+ },
+ {
+  "id": "penta-outer-0910",
+  "label": "o",
+  "couplet": "客競馬采淅，鏡今欲鷺薜",
+  "source_couplet": "君卿甘寂寞，長日閉門居"
+ },
+ {
+  "id": "penta-outer-0911",
+  "label": "o",
+  "couplet": "昨時幕今校，憶啼壺業魴",
+  "source_couplet": "履險不知止，搜奇到碧岑"
+ },
+ {
+  "id": "penta-outer-0912",
+  "label": "o",
+  "couplet": "萼風端嵰翼，事復卷湖巧",
+  "source_couplet": "欲挹仙人掌，閒階已露泠"
+ },
+ {
+  "id": "penta-outer-0913",
+  "label": "o",
+  "couplet": "閒青廿澗韻，席水人行字",
+  "source_couplet": "高峯稱萬壽，慈壽祝同齊"
+ },
+ {
+  "id": "penta-outer-0914",
+  "label": "o",
+  "couplet": "白朝逢語勵，軍月更出開",
+  "source_couplet": "遙知巒一束，兀翠向蓬門"
+ },
+ {
+  "id": "penta-outer-0915",
+  "label": "o",
+  "couplet": "年誰住看怦，結張涼旆菀",
+  "source_couplet": "邇來尋舊跡，愴恍不能言"
+ },
+ {
+  "id": "penta-outer-0916",
+  "label": "o",
+  "couplet": "海昧驅二蘋，南吟厭種流",
+  "source_couplet": "侍臣遷謫後，常憶泰陵園"
+ },
+ {
+  "id": "penta-outer-0917",
+  "label": "o",
+  "couplet": "釣如笑意放，石登衰文齒",
+  "source_couplet": "不厭風潮阻，頻爲淨院尋"
+ },
+ {
+  "id": "penta-outer-0918",
+  "label": "o",
+  "couplet": "脫芍更書叱，興符離不鶴",
+  "source_couplet": "醉醒俱不忌，始見兩情真"
+ },
+ {
+  "id": "penta-outer-0919",
+  "label": "o",
+  "couplet": "長留長雲饋，星蕩江去嫵",
+  "source_couplet": "秋氣漸蕭瑟，連宵風雨聲"
+ },
+ {
+  "id": "penta-outer-0920",
+  "label": "o",
+  "couplet": "細茶布呵鬢，盡長笑月徂",
+  "source_couplet": "言尋板橋路，喜過豆花村"
+ },
+ {
+  "id": "penta-outer-0921",
+  "label": "o",
+  "couplet": "同獨外沈雀，清里如岸元",
+  "source_couplet": "暖日照山郭，西郊緩步遊"
+ },
+ {
+  "id": "penta-outer-0922",
+  "label": "o",
+  "couplet": "旌同拾颺裲，郎歸著無然",
+  "source_couplet": "兩度遊歌地，千秋魚藻期"
+ },
+ {
+  "id": "penta-outer-0923",
+  "label": "o",
+  "couplet": "雲跡轉斜睿，急有虛一餳",
+  "source_couplet": "栽竹蕭蕭色，高齋涼暗侵"
+ },
+ {
+  "id": "penta-outer-0924",
+  "label": "o",
+  "couplet": "初出鬢界奎，人儀谷處僖",
+  "source_couplet": "卻思洞庭上，一十二峯青"
+ },
+ {
+  "id": "penta-outer-0925",
+  "label": "o",
+  "couplet": "蛭穿宮何踟，山層晚倍泉",
+  "source_couplet": "到頭天莫問，公自有千秋"
+ },
+ {
+  "id": "penta-outer-0926",
+  "label": "o",
+  "couplet": "能勞皆連嗇，相月雲壑纓",
+  "source_couplet": "回看高臥處，初日帶煙霞"
+ },
+ {
+  "id": "penta-outer-0927",
+  "label": "o",
+  "couplet": "江斜宜自晏，到寒一把加",
+  "source_couplet": "鐘聲天半落，麗剎佔岑隅"
+ },
+ {
+  "id": "penta-outer-0928",
+  "label": "o",
+  "couplet": "轉斜詩窗孛，赤誰浩過瞬",
+  "source_couplet": "蕭蕭聽暮雨，離思隔天涯"
+ },
+ {
+  "id": "penta-outer-0929",
+  "label": "o",
+  "couplet": "嬌歡閣芳病，貧滅廢相牽",
+  "source_couplet": "若爲能避世，八表一沈吟"
+ },
+ {
+  "id": "penta-outer-0930",
+  "label": "o",
+  "couplet": "蔬寧新滑裲，渡離漸閒忻",
+  "source_couplet": "門前輿馬地，春雨長蓬蘆"
+ },
+ {
+  "id": "penta-outer-0931",
+  "label": "o",
+  "couplet": "僧鄉澤偏俾，留塵高成黤",
+  "source_couplet": "晚風來更好，時帶野花馨"
+ },
+ {
+  "id": "penta-outer-0932",
+  "label": "o",
+  "couplet": "詩雪色雲鄉，搖殿殊負度",
+  "source_couplet": "明月幾時有，人間何事無"
+ },
+ {
+  "id": "penta-outer-0933",
+  "label": "o",
+  "couplet": "未惠題囀愚，人入稽影喀",
+  "source_couplet": "身世誰相識，孤舟晚自橫"
+ },
+ {
+  "id": "penta-outer-0934",
+  "label": "o",
+  "couplet": "山妙夜巖蚩，爲暫瞬喜賈",
+  "source_couplet": "已覺靈巖異，尤耽古剎幽"
+ },
+ {
+  "id": "penta-outer-0935",
+  "label": "o",
+  "couplet": "滌忍堪閒禮，當曉稅狀展",
+  "source_couplet": "復得叩神宮，深蒙帝澤崇"
+ },
+ {
+  "id": "penta-outer-0936",
+  "label": "o",
+  "couplet": "比涵柳任又，載幾年廬袍",
+  "source_couplet": "官齋倫寥寂，書札慰吳儂"
+ },
+ {
+  "id": "penta-outer-0937",
+  "label": "o",
+  "couplet": "謁沙花翠沐，我忝何以羹",
+  "source_couplet": "忠奸渾不辨，熱血灑寒煙"
+ },
+ {
+  "id": "penta-outer-0938",
+  "label": "o",
+  "couplet": "繼眩多關櫸，坐能後孤思",
+  "source_couplet": "我想卿謀學，飄然蓋世奇"
+ },
+ {
+  "id": "penta-outer-0939",
+  "label": "o",
+  "couplet": "遺麟入趺玫，樵登新未地",
+  "source_couplet": "杖策尋煙渡，前村尚曉鍾"
+ },
+ {
+  "id": "penta-outer-0940",
+  "label": "o",
+  "couplet": "起家兩耕孛，令紗事限巘",
+  "source_couplet": "一散陽臺雨，明知不自由"
+ },
+ {
+  "id": "penta-outer-0941",
+  "label": "o",
+  "couplet": "邪子髮關盱，影應得非畬",
+  "source_couplet": "來是慰蕭索，不來誰蹇留"
+ },
+ {
+  "id": "penta-outer-0942",
+  "label": "o",
+  "couplet": "華屋青故藕，病別出俗茨",
+  "source_couplet": "才過黃花節，蕭條滿目傷"
+ },
+ {
+  "id": "penta-outer-0943",
+  "label": "o",
+  "couplet": "閒道肩隱噏，晝須併舉繡",
+  "source_couplet": "破蒙三載矣，詩禮重庭趨"
+ },
+ {
+  "id": "penta-outer-0944",
+  "label": "o",
+  "couplet": "愁諸入天宰，寒限迷初腮",
+  "source_couplet": "不堪思往事，涕淚一潸然"
+ },
+ {
+  "id": "penta-outer-0945",
+  "label": "o",
+  "couplet": "虎尋持爲鈐，破醉春闌惰",
+  "source_couplet": "獨憐山下水，來往送行舟"
+ },
+ {
+  "id": "penta-outer-0946",
+  "label": "o",
+  "couplet": "寡爐時水疾，落醫內雲潮",
+  "source_couplet": "遙憶黃河北，霜寒古趙城"
+ },
+ {
+  "id": "penta-outer-0947",
+  "label": "o",
+  "couplet": "更淨陂荒再，最門來泣熄",
+  "source_couplet": "枕上回殘味，空文嚼四更"
+ },
+ {
+  "id": "penta-outer-0948",
+  "label": "o",
+  "couplet": "此邊居颱職，絹灩遊斑西",
+  "source_couplet": "蠻方慚久駐，豐歲喜頻仍"
+ },
+ {
+  "id": "penta-outer-0949",
+  "label": "o",
+  "couplet": "問杳莫點樞，舒貴居沃黿",
+  "source_couplet": "往問前山寺，飛來有幾年"
+ },
+ {
+  "id": "penta-outer-0950",
+  "label": "o",
+  "couplet": "隱珂花士誘，貴舉膏氣朔",
+  "source_couplet": "草堂差幸早，林下有朱顏"
+ },
+ {
+  "id": "penta-outer-0951",
+  "label": "o",
+  "couplet": "鞞濃客校簫，筆雲露樓綾",
+  "source_couplet": "便是桃源客，何心逐馬蹄"
+ },
+ {
+  "id": "penta-outer-0952",
+  "label": "o",
+  "couplet": "憶鳥全來誣，宮須聞耳滷",
+  "source_couplet": "人家何處是，可許結茅從"
+ },
+ {
+  "id": "penta-outer-0953",
+  "label": "o",
+  "couplet": "天見感藉孛，多庭驂味漭",
+  "source_couplet": "泠泠鰲背雨，蕭瑟似秋殘"
+ },
+ {
+  "id": "penta-outer-0954",
+  "label": "o",
+  "couplet": "端羅駐望頓，萍今試直榆",
+  "source_couplet": "閩南恆把袂，塞北又聯觴"
+ },
+ {
+  "id": "penta-outer-0955",
+  "label": "o",
+  "couplet": "共片朝狂羔，攜夫懷江賈",
+  "source_couplet": "共耽招隱詠，且喜卜居幽"
+ },
+ {
+  "id": "penta-outer-0956",
+  "label": "o",
+  "couplet": "知蠟鶯西怍，鄉空一聖級",
+  "source_couplet": "側身天地闊，又見曙光紅"
+ },
+ {
+  "id": "penta-outer-0957",
+  "label": "o",
+  "couplet": "趺香崖杕臣，波聞嘆滿米",
+  "source_couplet": "密雨喧苔砌，芸窗夜讀書"
+ },
+ {
+  "id": "penta-outer-0958",
+  "label": "o",
+  "couplet": "不肝親諸鴰，商此蘭近留",
+  "source_couplet": "美人遠於月，望月想蛾眉"
+ },
+ {
+  "id": "penta-outer-0959",
+  "label": "o",
+  "couplet": "觴加志將婑，息立書傍元",
+  "source_couplet": "不愛元郎句，嵇山記夙遊"
+ },
+ {
+  "id": "penta-outer-0960",
+  "label": "o",
+  "couplet": "春曾不日晝，不日雙重踊",
+  "source_couplet": "何日山中住，山中我舊知"
+ },
+ {
+  "id": "penta-outer-0961",
+  "label": "o",
+  "couplet": "騰地筆白胄，爐當用人氎",
+  "source_couplet": "長吟舒逸興，風月任無邊"
+ },
+ {
+  "id": "penta-outer-0962",
+  "label": "o",
+  "couplet": "春悵國天修，植誰急場榴",
+  "source_couplet": "明朝見鄉國，路近轉心驚"
+ },
+ {
+  "id": "penta-outer-0963",
+  "label": "o",
+  "couplet": "叔窗吟聽齊，且業貧高鱘",
+  "source_couplet": "玉蘭猶未放，小憶昔年情"
+ },
+ {
+  "id": "penta-outer-0964",
+  "label": "o",
+  "couplet": "煙丘中雪鬆，聲爭色耐攤",
+  "source_couplet": "趁晴倚嘉樹，殘滴韻重重"
+ },
+ {
+  "id": "penta-outer-0965",
+  "label": "o",
+  "couplet": "攜夫匆芳罨，匆芳青與畬",
+  "source_couplet": "且喜君歸去，君歸我自留"
+ },
+ {
+  "id": "penta-outer-0966",
+  "label": "o",
+  "couplet": "杓飛心仁睿，因名驚萬喀",
+  "source_couplet": "紙窗留月色，老樹一枝橫"
+ },
+ {
+  "id": "penta-outer-0967",
+  "label": "o",
+  "couplet": "不日四鬧嗇，川喚山楚塊",
+  "source_couplet": "山中最幽處，玉乳一泓清"
+ },
+ {
+  "id": "penta-outer-0968",
+  "label": "o",
+  "couplet": "魯像桃皇攸，間來客失技",
+  "source_couplet": "王霸今非論，華夷此一時"
+ },
+ {
+  "id": "penta-outer-0969",
+  "label": "o",
+  "couplet": "叢平此文氤，詩雪一動迫",
+  "source_couplet": "行行日已暮，明月照前川"
+ },
+ {
+  "id": "penta-outer-0970",
+  "label": "o",
+  "couplet": "莎雲去杉秩，皇石秋巋霪",
+  "source_couplet": "雲霽一亭孤，人來入畫圖"
+ },
+ {
+  "id": "penta-outer-0971",
+  "label": "o",
+  "couplet": "白然環雲廨，膺回孰言毅",
+  "source_couplet": "敢復言忠孝，酸心撫白楊"
+ },
+ {
+  "id": "penta-outer-0972",
+  "label": "o",
+  "couplet": "象初歌時儀，壤稀紛時疼",
+  "source_couplet": "曾入相思夢，三年問訊遲"
+ },
+ {
+  "id": "penta-outer-0973",
+  "label": "o",
+  "couplet": "侵已身歸遝，滿倍空蠻模",
+  "source_couplet": "鳴蟬與落葉，並使客心哀"
+ },
+ {
+  "id": "penta-outer-0974",
+  "label": "o",
+  "couplet": "雁久有墨泗，舟忽容翩嬪",
+  "source_couplet": "墓門今日誓，生死一儒冠"
+ },
+ {
+  "id": "penta-outer-0975",
+  "label": "o",
+  "couplet": "有涼幾又報，歌時淪流欻",
+  "source_couplet": "久客青山下，相思有定蹤"
+ },
+ {
+  "id": "penta-outer-0976",
+  "label": "o",
+  "couplet": "柔跡極皁苟，重常惟落坪",
+  "source_couplet": "古今時俯仰，人事太間關"
+ },
+ {
+  "id": "penta-outer-0977",
+  "label": "o",
+  "couplet": "幕今正又暮，酒關披水鶬",
+  "source_couplet": "不知三兩叟，攜杖欲何之"
+ },
+ {
+  "id": "penta-outer-0978",
+  "label": "o",
+  "couplet": "起平闊那仍，鐘再痛人酉",
+  "source_couplet": "落日石門近，離懷苦未安"
+ },
+ {
+  "id": "penta-outer-0979",
+  "label": "o",
+  "couplet": "隔南江去罨，只巖身日奕",
+  "source_couplet": "一帆風雨去，我欲廢瑤琴"
+ },
+ {
+  "id": "penta-outer-0980",
+  "label": "o",
+  "couplet": "他石艱相紺，逢藏梅不嫵",
+  "source_couplet": "水樂滿清聽，無須絲竹聲"
+ },
+ {
+  "id": "penta-outer-0981",
+  "label": "o",
+  "couplet": "成傳此智嗇，謀如自貧顓",
+  "source_couplet": "好尋望鄉處，健步一登臨"
+ },
+ {
+  "id": "penta-outer-0982",
+  "label": "o",
+  "couplet": "親去簞九孟，家波愁琴眼",
+  "source_couplet": "宣毫及江硯，素節詠從頭"
+ },
+ {
+  "id": "penta-outer-0983",
+  "label": "o",
+  "couplet": "明類住之映，簫問衣枕杯",
+  "source_couplet": "蛩怨先秋急，花寒逐夜深"
+ },
+ {
+  "id": "penta-outer-0984",
+  "label": "o",
+  "couplet": "不肝偕秋誇，心俗郊爲陶",
+  "source_couplet": "美人不相見，悵望隔遙天"
+ },
+ {
+  "id": "penta-outer-0985",
+  "label": "o",
+  "couplet": "事竹秋極嗇，淡閒從追鴟",
+  "source_couplet": "園林遊步處，復魄有餘思"
+ },
+ {
+  "id": "penta-outer-0986",
+  "label": "o",
+  "couplet": "使雪愛雲載，同石慶同注",
+  "source_couplet": "早稱沾五寸，復報尺將盈"
+ },
+ {
+  "id": "penta-outer-0987",
+  "label": "o",
+  "couplet": "思酸華欄隊，恨蠻每襟惰",
+  "source_couplet": "民情鹹自得，何必泛龍舟"
+ },
+ {
+  "id": "penta-outer-0988",
+  "label": "o",
+  "couplet": "翮窮魚泊罨，坦你額妻杯",
+  "source_couplet": "此水東流去，離情幾許深"
+ },
+ {
+  "id": "penta-outer-0989",
+  "label": "o",
+  "couplet": "酒童總窗孫，遠澐利回隳",
+  "source_couplet": "古稱照夜白，馬裏泰山韓"
+ },
+ {
+  "id": "penta-outer-0990",
+  "label": "o",
+  "couplet": "仰攜燈合陀，楚絲雲田蕩",
+  "source_couplet": "殘月渾殘雪，奔車竟覆車"
+ },
+ {
+  "id": "penta-outer-0991",
+  "label": "o",
+  "couplet": "尼塵正水蘋，高背客予以",
+  "source_couplet": "形骸百鍊後，心事五更中"
+ },
+ {
+  "id": "penta-outer-0992",
+  "label": "o",
+  "couplet": "陳勵供因八，蹊重飛南邑",
+  "source_couplet": "成匹落誰家，詎忍栽衾枕"
+ },
+ {
+  "id": "penta-outer-0993",
+  "label": "o",
+  "couplet": "憶穿卓登嗇，春曾卷意巴",
+  "source_couplet": "最憐釜底處，何日奏平成"
+ },
+ {
+  "id": "penta-outer-0994",
+  "label": "o",
+  "couplet": "欲鷺才八蕞，長松一擬嘗",
+  "source_couplet": "閉門無剝啄，芳草上階除"
+ },
+ {
+  "id": "penta-outer-0995",
+  "label": "o",
+  "couplet": "氣霧聲兼簫，是名況晴疼",
+  "source_couplet": "衡門原待客，相與共棲遲"
+ },
+ {
+  "id": "penta-outer-0996",
+  "label": "o",
+  "couplet": "壑少切勢產，展遊醇月鈴",
+  "source_couplet": "終曰得思義，原同戒義長"
+ },
+ {
+  "id": "penta-outer-0997",
+  "label": "o",
+  "couplet": "每落日影孛，過翠宴頂禦",
+  "source_couplet": "三更作微雨，一寸未成泥"
+ },
+ {
+  "id": "penta-outer-0998",
+  "label": "o",
+  "couplet": "肌有因何損，何留今就刻",
+  "source_couplet": "愛聽斜陽外，漁歌起渺漫"
+ },
+ {
+  "id": "penta-outer-0999",
+  "label": "o",
+  "couplet": "及秋欲徊粗，說不歸平荒",
+  "source_couplet": "恭聞籌運日，御鬢爲添星"
+ }
+]

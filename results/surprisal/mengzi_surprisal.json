@@ -1,0 +1,396 @@
+{
+  "metadata": {
+    "created_at": "2026-10-28T05:36:19.589364+00:00",
+    "input": "data/mengzi_surprisal.txt",
+    "model": "hsc748NLP/GujiGPT_fan",
+    "device": "mps",
+    "metric": "next-token surprisal in nats: -ln p(x_t | x_<t)",
+    "entropy": "entropy in nats of the next-token distribution p(. | x_<t)",
+    "first_token": "unscored because no preceding token is provided",
+    "output_png": "results/surprisal/mengzi_surprisal.png",
+    "title": null
+  },
+  "text": "魚，我所欲也；熊掌，亦我所欲也。二者不可得兼，舍魚而取熊掌者也。生，亦我所欲也；義，亦我所欲也。二者不可得兼，舍生而取義者也。",
+  "mean_surprisal_nats": 1.7369315599677182,
+  "mean_entropy_nats": 2.434732242216987,
+  "points": [
+    {
+      "position": 1,
+      "token": "魚",
+      "surprisal_nats": null,
+      "entropy_nats": null
+    },
+    {
+      "position": 2,
+      "token": "，",
+      "surprisal_nats": 3.9615767002105713,
+      "entropy_nats": 7.027043342590332
+    },
+    {
+      "position": 3,
+      "token": "我",
+      "surprisal_nats": 5.756686687469482,
+      "entropy_nats": 7.126151084899902
+    },
+    {
+      "position": 4,
+      "token": "所",
+      "surprisal_nats": 5.598020553588867,
+      "entropy_nats": 5.91109037399292
+    },
+    {
+      "position": 5,
+      "token": "欲",
+      "surprisal_nats": 3.168050527572632,
+      "entropy_nats": 5.524786472320557
+    },
+    {
+      "position": 6,
+      "token": "也",
+      "surprisal_nats": 1.2009978294372559,
+      "entropy_nats": 3.7456765174865723
+    },
+    {
+      "position": 7,
+      "token": "；",
+      "surprisal_nats": 2.6647260189056396,
+      "entropy_nats": 1.1408636569976807
+    },
+    {
+      "position": 8,
+      "token": "熊",
+      "surprisal_nats": 9.11091423034668,
+      "entropy_nats": 6.442994117736816
+    },
+    {
+      "position": 9,
+      "token": "掌",
+      "surprisal_nats": 3.0204267501831055,
+      "entropy_nats": 4.26970911026001
+    },
+    {
+      "position": 10,
+      "token": "，",
+      "surprisal_nats": 2.4346935749053955,
+      "entropy_nats": 5.788322448730469
+    },
+    {
+      "position": 11,
+      "token": "亦",
+      "surprisal_nats": 5.165372848510742,
+      "entropy_nats": 2.869234561920166
+    },
+    {
+      "position": 12,
+      "token": "我",
+      "surprisal_nats": 2.2598876953125,
+      "entropy_nats": 4.519355297088623
+    },
+    {
+      "position": 13,
+      "token": "所",
+      "surprisal_nats": 0.12051158398389816,
+      "entropy_nats": 0.9064050912857056
+    },
+    {
+      "position": 14,
+      "token": "欲",
+      "surprisal_nats": 0.18432655930519104,
+      "entropy_nats": 1.1726717948913574
+    },
+    {
+      "position": 15,
+      "token": "也",
+      "surprisal_nats": 0.049999985843896866,
+      "entropy_nats": 0.3519641160964966
+    },
+    {
+      "position": 16,
+      "token": "。",
+      "surprisal_nats": 0.3868938088417053,
+      "entropy_nats": 0.8278164863586426
+    },
+    {
+      "position": 17,
+      "token": "二",
+      "surprisal_nats": 5.217040061950684,
+      "entropy_nats": 5.773874759674072
+    },
+    {
+      "position": 18,
+      "token": "者",
+      "surprisal_nats": 1.0472394227981567,
+      "entropy_nats": 3.67989444732666
+    },
+    {
+      "position": 19,
+      "token": "不",
+      "surprisal_nats": 2.5454177856445312,
+      "entropy_nats": 4.521106243133545
+    },
+    {
+      "position": 20,
+      "token": "可",
+      "surprisal_nats": 0.8320698142051697,
+      "entropy_nats": 3.2262866497039795
+    },
+    {
+      "position": 21,
+      "token": "得",
+      "surprisal_nats": 1.778815746307373,
+      "entropy_nats": 4.070385932922363
+    },
+    {
+      "position": 22,
+      "token": "兼",
+      "surprisal_nats": 1.5317957401275635,
+      "entropy_nats": 2.281405210494995
+    },
+    {
+      "position": 23,
+      "token": "，",
+      "surprisal_nats": 0.3973352611064911,
+      "entropy_nats": 1.8870038986206055
+    },
+    {
+      "position": 24,
+      "token": "舍",
+      "surprisal_nats": 5.719181060791016,
+      "entropy_nats": 4.80928897857666
+    },
+    {
+      "position": 25,
+      "token": "魚",
+      "surprisal_nats": 6.748978137969971,
+      "entropy_nats": 3.971165895462036
+    },
+    {
+      "position": 26,
+      "token": "而",
+      "surprisal_nats": 1.1734400987625122,
+      "entropy_nats": 3.745738983154297
+    },
+    {
+      "position": 27,
+      "token": "取",
+      "surprisal_nats": 0.23315519094467163,
+      "entropy_nats": 1.427111268043518
+    },
+    {
+      "position": 28,
+      "token": "熊",
+      "surprisal_nats": 0.2547837197780609,
+      "entropy_nats": 1.5544615983963013
+    },
+    {
+      "position": 29,
+      "token": "掌",
+      "surprisal_nats": 0.14721934497356415,
+      "entropy_nats": 0.708695650100708
+    },
+    {
+      "position": 30,
+      "token": "者",
+      "surprisal_nats": 2.320634365081787,
+      "entropy_nats": 1.918694019317627
+    },
+    {
+      "position": 31,
+      "token": "也",
+      "surprisal_nats": 2.868957996368408,
+      "entropy_nats": 1.4830224514007568
+    },
+    {
+      "position": 32,
+      "token": "。",
+      "surprisal_nats": 0.2701508402824402,
+      "entropy_nats": 0.7587193250656128
+    },
+    {
+      "position": 33,
+      "token": "生",
+      "surprisal_nats": 7.266479015350342,
+      "entropy_nats": 4.729984283447266
+    },
+    {
+      "position": 34,
+      "token": "，",
+      "surprisal_nats": 3.205758571624756,
+      "entropy_nats": 4.614042282104492
+    },
+    {
+      "position": 35,
+      "token": "亦",
+      "surprisal_nats": 4.23738956451416,
+      "entropy_nats": 5.7321672439575195
+    },
+    {
+      "position": 36,
+      "token": "我",
+      "surprisal_nats": 1.504319667816162,
+      "entropy_nats": 4.036133766174316
+    },
+    {
+      "position": 37,
+      "token": "所",
+      "surprisal_nats": 0.21558251976966858,
+      "entropy_nats": 1.033609390258789
+    },
+    {
+      "position": 38,
+      "token": "欲",
+      "surprisal_nats": 0.03215474262833595,
+      "entropy_nats": 0.2523110806941986
+    },
+    {
+      "position": 39,
+      "token": "也",
+      "surprisal_nats": 0.29098638892173767,
+      "entropy_nats": 1.1114611625671387
+    },
+    {
+      "position": 40,
+      "token": "；",
+      "surprisal_nats": 0.1901441216468811,
+      "entropy_nats": 0.5737940073013306
+    },
+    {
+      "position": 41,
+      "token": "義",
+      "surprisal_nats": 5.3287224769592285,
+      "entropy_nats": 3.1577863693237305
+    },
+    {
+      "position": 42,
+      "token": "，",
+      "surprisal_nats": 0.06073008477687836,
+      "entropy_nats": 0.4838995337486267
+    },
+    {
+      "position": 43,
+      "token": "亦",
+      "surprisal_nats": 0.040419045835733414,
+      "entropy_nats": 0.3289807140827179
+    },
+    {
+      "position": 44,
+      "token": "我",
+      "surprisal_nats": 0.014959299005568027,
+      "entropy_nats": 0.13822242617607117
+    },
+    {
+      "position": 45,
+      "token": "所",
+      "surprisal_nats": 0.005168766248971224,
+      "entropy_nats": 0.04483155906200409
+    },
+    {
+      "position": 46,
+      "token": "欲",
+      "surprisal_nats": 0.023015392944216728,
+      "entropy_nats": 0.18923541903495789
+    },
+    {
+      "position": 47,
+      "token": "也",
+      "surprisal_nats": 0.006093377247452736,
+      "entropy_nats": 0.05420691519975662
+    },
+    {
+      "position": 48,
+      "token": "。",
+      "surprisal_nats": 0.4539491534233093,
+      "entropy_nats": 0.7676553726196289
+    },
+    {
+      "position": 49,
+      "token": "二",
+      "surprisal_nats": 3.042613983154297,
+      "entropy_nats": 5.412167549133301
+    },
+    {
+      "position": 50,
+      "token": "者",
+      "surprisal_nats": 0.05871129408478737,
+      "entropy_nats": 0.47875434160232544
+    },
+    {
+      "position": 51,
+      "token": "不",
+      "surprisal_nats": 0.647688090801239,
+      "entropy_nats": 2.9270811080932617
+    },
+    {
+      "position": 52,
+      "token": "可",
+      "surprisal_nats": 0.03603455424308777,
+      "entropy_nats": 0.29184502363204956
+    },
+    {
+      "position": 53,
+      "token": "得",
+      "surprisal_nats": 0.13323286175727844,
+      "entropy_nats": 0.9420161247253418
+    },
+    {
+      "position": 54,
+      "token": "兼",
+      "surprisal_nats": 0.13090527057647705,
+      "entropy_nats": 0.8938479423522949
+    },
+    {
+      "position": 55,
+      "token": "，",
+      "surprisal_nats": 0.028164444491267204,
+      "entropy_nats": 0.2214762568473816
+    },
+    {
+      "position": 56,
+      "token": "舍",
+      "surprisal_nats": 0.3747934401035309,
+      "entropy_nats": 1.764554500579834
+    },
+    {
+      "position": 57,
+      "token": "生",
+      "surprisal_nats": 1.7029386758804321,
+      "entropy_nats": 4.561034202575684
+    },
+    {
+      "position": 58,
+      "token": "而",
+      "surprisal_nats": 0.0313304141163826,
+      "entropy_nats": 0.21634188294410706
+    },
+    {
+      "position": 59,
+      "token": "取",
+      "surprisal_nats": 0.06034700945019722,
+      "entropy_nats": 0.4120101034641266
+    },
+    {
+      "position": 60,
+      "token": "義",
+      "surprisal_nats": 0.2223610281944275,
+      "entropy_nats": 1.236419439315796
+    },
+    {
+      "position": 61,
+      "token": "者",
+      "surprisal_nats": 0.11138207465410233,
+      "entropy_nats": 0.599297285079956
+    },
+    {
+      "position": 62,
+      "token": "也",
+      "surprisal_nats": 0.003477242775261402,
+      "entropy_nats": 0.03127434104681015
+    },
+    {
+      "position": 63,
+      "token": "。",
+      "surprisal_nats": 0.06060420349240303,
+      "entropy_nats": 0.27601760625839233
+    }
+  ]
+}

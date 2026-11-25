@@ -1,0 +1,214 @@
+{
+  "slots": {
+    "57": [
+      33,
+      1
+    ],
+    "60": [
+      41,
+      8
+    ]
+  },
+  "rows": [
+    {
+      "model": "GujiGPT_fan",
+      "condition": "mengzi",
+      "slot": 57,
+      "n": 1,
+      "surprisal_new": 1.7029386758804321,
+      "surprisal_copied": 2.708761692047119,
+      "top_new": 1.0,
+      "top_copied": 0.0
+    },
+    {
+      "model": "GujiGPT_fan",
+      "condition": "mengzi",
+      "slot": 60,
+      "n": 1,
+      "surprisal_new": 0.2223610281944275,
+      "surprisal_copied": 3.5523228645324707,
+      "top_new": 1.0,
+      "top_copied": 0.0
+    },
+    {
+      "model": "GujiGPT_fan",
+      "condition": "composed",
+      "slot": 57,
+      "n": 100,
+      "surprisal_new": 7.166332309246063,
+      "surprisal_copied": 1.232247017044574,
+      "top_new": 0.0,
+      "top_copied": 0.86
+    },
+    {
+      "model": "GujiGPT_fan",
+      "condition": "composed",
+      "slot": 60,
+      "n": 100,
+      "surprisal_new": 2.3473439745046196,
+      "surprisal_copied": 1.6406703907996416,
+      "top_new": 0.34,
+      "top_copied": 0.58
+    },
+    {
+      "model": "GujiGPT_fan",
+      "condition": "nonsense (items random, composed frame)",
+      "slot": 57,
+      "n": 100,
+      "surprisal_new": 8.668671388626098,
+      "surprisal_copied": 1.3769376521743835,
+      "top_new": 0.0,
+      "top_copied": 0.82
+    },
+    {
+      "model": "GujiGPT_fan",
+      "condition": "nonsense (items random, composed frame)",
+      "slot": 60,
+      "n": 100,
+      "surprisal_new": 3.6870551027357577,
+      "surprisal_copied": 2.3432210828363895,
+      "top_new": 0.33,
+      "top_copied": 0.45
+    },
+    {
+      "model": "GujiGPT_fan",
+      "condition": "items random, Mengzi frame",
+      "slot": 57,
+      "n": 100,
+      "surprisal_new": 6.2931533265113835,
+      "surprisal_copied": 1.5371073178946972,
+      "top_new": 0.02,
+      "top_copied": 0.77
+    },
+    {
+      "model": "GujiGPT_fan",
+      "condition": "items random, Mengzi frame",
+      "slot": 60,
+      "n": 100,
+      "surprisal_new": 4.431438753195107,
+      "surprisal_copied": 2.3148570255562664,
+      "top_new": 0.23,
+      "top_copied": 0.49
+    },
+    {
+      "model": "GujiGPT_fan",
+      "condition": "frame and items random",
+      "slot": 57,
+      "n": 100,
+      "surprisal_new": 8.078929686546326,
+      "surprisal_copied": 0.581856397530064,
+      "top_new": 0.0,
+      "top_copied": 0.97
+    },
+    {
+      "model": "GujiGPT_fan",
+      "condition": "frame and items random",
+      "slot": 60,
+      "n": 100,
+      "surprisal_new": 5.081862538009882,
+      "surprisal_copied": 2.0327921113790945,
+      "top_new": 0.11,
+      "top_copied": 0.61
+    },
+    {
+      "model": "Qwen3-8B",
+      "condition": "mengzi",
+      "slot": 57,
+      "n": 1,
+      "surprisal_new": 0.0054143453016877174,
+      "surprisal_copied": 7.57638692855835,
+      "top_new": 1.0,
+      "top_copied": 0.0
+    },
+    {
+      "model": "Qwen3-8B",
+      "condition": "mengzi",
+      "slot": 60,
+      "n": 1,
+      "surprisal_new": 0.001995002618059516,
+      "surprisal_copied": 15.149328231811523,
+      "top_new": 1.0,
+      "top_copied": 0.0
+    },
+    {
+      "model": "Qwen3-8B",
+      "condition": "composed",
+      "slot": 57,
+      "n": 100,
+      "surprisal_new": 0.39862841330468657,
+      "surprisal_copied": 9.282881603240966,
+      "top_new": 0.83,
+      "top_copied": 0.0
+    },
+    {
+      "model": "Qwen3-8B",
+      "condition": "composed",
+      "slot": 60,
+      "n": 100,
+      "surprisal_new": 0.03815167484164703,
+      "surprisal_copied": 10.35773440361023,
+      "top_new": 1.0,
+      "top_copied": 0.0
+    },
+    {
+      "model": "Qwen3-8B",
+      "condition": "nonsense (items random, composed frame)",
+      "slot": 57,
+      "n": 100,
+      "surprisal_new": 0.6409433063492179,
+      "surprisal_copied": 9.07642439365387,
+      "top_new": 0.74,
+      "top_copied": 0.0
+    },
+    {
+      "model": "Qwen3-8B",
+      "condition": "nonsense (items random, composed frame)",
+      "slot": 60,
+      "n": 100,
+      "surprisal_new": 0.050830666651017965,
+      "surprisal_copied": 9.679319648742675,
+      "top_new": 0.99,
+      "top_copied": 0.0
+    },
+    {
+      "model": "Qwen3-8B",
+      "condition": "items random, Mengzi frame",
+      "slot": 57,
+      "n": 100,
+      "surprisal_new": 0.35450933963060377,
+      "surprisal_copied": 7.992095308303833,
+      "top_new": 0.95,
+      "top_copied": 0.0
+    },
+    {
+      "model": "Qwen3-8B",
+      "condition": "items random, Mengzi frame",
+      "slot": 60,
+      "n": 100,
+      "surprisal_new": 0.09643423121422529,
+      "surprisal_copied": 8.621494443416596,
+      "top_new": 0.98,
+      "top_copied": 0.0
+    },
+    {
+      "model": "Qwen3-8B",
+      "condition": "frame and items random",
+      "slot": 57,
+      "n": 100,
+      "surprisal_new": 5.319774013161659,
+      "surprisal_copied": 0.30811467725783587,
+      "top_new": 0.03,
+      "top_copied": 0.96
+    },
+    {
+      "model": "Qwen3-8B",
+      "condition": "frame and items random",
+      "slot": 60,
+      "n": 100,
+      "surprisal_new": 0.9912644480541348,
+      "surprisal_copied": 1.8487136080116033,
+      "top_new": 0.61,
+      "top_copied": 0.38
+    }
+  ]
+}

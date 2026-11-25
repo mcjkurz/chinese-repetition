@@ -1,0 +1,65 @@
+{
+  "metric": "Exact second-line recall under greedy decoding from the first line, plus teacher-forced mean loss of the true second line.",
+  "model_path": "models/cipher_finetune/model_penta_cipher_epoch1",
+  "run_name": "nonsense epoch 1",
+  "max_samples": 10000,
+  "meters": {
+    "penta": {
+      "split_check": {
+        "split_unit": "poem",
+        "train_poems": 25000,
+        "test_poems": 2500,
+        "shared_poems": 0,
+        "shared_couplets": 0,
+        "shared_lines": 0
+      },
+      "test": {
+        "matched": {
+          "n": 9999,
+          "exact_match_rate": 0.0,
+          "mean_loss": 5.610267141706683,
+          "mean_char_accuracy": 0.03572357235723483,
+          "by_label": {
+            "i": {
+              "n": 4999,
+              "exact_match_rate": 0.0,
+              "mean_loss": 5.479979399386709
+            },
+            "o": {
+              "n": 5000,
+              "exact_match_rate": 0.0,
+              "mean_loss": 5.740528826478158
+            }
+          },
+          "by_dynasty": {
+            "元": {
+              "n": 2000,
+              "exact_match_rate": 0.0,
+              "mean_loss": 5.386351624359163
+            },
+            "唐": {
+              "n": 2000,
+              "exact_match_rate": 0.0,
+              "mean_loss": 5.512310645285071
+            },
+            "宋": {
+              "n": 2000,
+              "exact_match_rate": 0.0,
+              "mean_loss": 5.7321502897927274
+            },
+            "明": {
+              "n": 2000,
+              "exact_match_rate": 0.0,
+              "mean_loss": 5.567091348759225
+            },
+            "清": {
+              "n": 1999,
+              "exact_match_rate": 0.0,
+              "mean_loss": 5.853553443487988
+            }
+          }
+        }
+      }
+    }
+  }
+}

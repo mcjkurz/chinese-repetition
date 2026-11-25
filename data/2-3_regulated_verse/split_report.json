@@ -1,0 +1,68 @@
+{
+  "split_unit": "poem",
+  "definition": "A poem is the meter plus the normalized full text. Every couplet of a poem is assigned to the same split. Test poems share no poem id, couplet string, or line with the training poems.",
+  "train_couplets_requested": 100000,
+  "test_couplets_requested": 10000,
+  "meters": {
+    "penta": {
+      "train_path": "data/couplets_penta_train.json",
+      "test_path": "data/couplets_penta_test.json",
+      "available_poems": 142515,
+      "train_poems": 25000,
+      "test_poems": 2500,
+      "train_couplets": 100000,
+      "test_couplets": 10000,
+      "train_poems_by_dynasty": {
+        "唐": 5000,
+        "宋": 5000,
+        "元": 5000,
+        "明": 5000,
+        "清": 5000
+      },
+      "test_poems_by_dynasty": {
+        "唐": 500,
+        "宋": 500,
+        "元": 500,
+        "明": 500,
+        "清": 500
+      },
+      "poems_rejected_for_overlap_with_test": 919,
+      "poems_rejected_while_building_test": 11,
+      "dynasty_shortages_train": {},
+      "dynasty_shortages_test": {},
+      "shared_poem_ids": 0,
+      "shared_couplets": 0,
+      "shared_lines": 0
+    },
+    "hepta": {
+      "train_path": "data/couplets_hepta_train.json",
+      "test_path": "data/couplets_hepta_test.json",
+      "available_poems": 210384,
+      "train_poems": 25000,
+      "test_poems": 2500,
+      "train_couplets": 100000,
+      "test_couplets": 10000,
+      "train_poems_by_dynasty": {
+        "唐": 5000,
+        "宋": 5000,
+        "元": 5000,
+        "明": 5000,
+        "清": 5000
+      },
+      "test_poems_by_dynasty": {
+        "唐": 500,
+        "宋": 500,
+        "元": 500,
+        "明": 500,
+        "清": 500
+      },
+      "poems_rejected_for_overlap_with_test": 200,
+      "poems_rejected_while_building_test": 1,
+      "dynasty_shortages_train": {},
+      "dynasty_shortages_test": {},
+      "shared_poem_ids": 0,
+      "shared_couplets": 0,
+      "shared_lines": 0
+    }
+  }
+}

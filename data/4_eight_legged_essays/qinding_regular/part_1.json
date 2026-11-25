@@ -1,0 +1,633 @@
+{
+ "essays": {
+  "0": {
+   "regular": false,
+   "reason": "three pairs; the short parallel before them is inside the 起講"
+  },
+  "1": {
+   "regular": false,
+   "reason": "three pairs (忿懥/恐懼, 好樂/憂患, 未來/既徃); parallel in 起講 aside"
+  },
+  "2": {
+   "regular": false,
+   "reason": "continuous prose following the stages of life; no leg pairs"
+  },
+  "3": {
+   "regular": false,
+   "reason": "two long legs (學/思) and a short closing pair; not four pairs"
+  },
+  "4": {
+   "regular": false,
+   "reason": "continuous prose; no leg pairs"
+  },
+  "5": {
+   "regular": false,
+   "reason": "one pair (儉/知禮) only"
+  },
+  "6": {
+   "regular": false,
+   "reason": "continuous narrative prose; no leg pairs"
+  },
+  "7": {
+   "regular": false,
+   "reason": "two blocks (盡美/盡善) of prose with internal parallels; not four pairs"
+  },
+  "8": {
+   "regular": false,
+   "reason": "two long legs (好仁/惡不仁); one pair"
+  },
+  "9": {
+   "regular": false,
+   "reason": "narrative prose with a single pair near the end"
+  },
+  "10": {
+   "regular": false,
+   "reason": "prose with scattered short parallels; no four-pair body"
+  },
+  "11": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "沉潜於日用之間，但覺其㫖趣之深長也，雖欲自己，不可得而已焉",
+     "b": "體騐於行事之際，但覺其意味之眞切也，雖欲自止，不可得而止焉"
+    },
+    [
+     "鈎深致逺而致其博者",
+     "吾知之所能矣",
+     "克己反躬而歸之約者",
+     "吾力之所至矣"
+    ],
+    {
+     "a": "向之所謂髙者，始得以見其大原，如有象焉，卓然而立乎吾前也",
+     "b": "向之所謂妙者，乃得以識其定體，若有形焉，卓然而在乎吾目也"
+    },
+    [
+     "將勇徃以從之",
+     "又何所施其功乎",
+     "將畢力以赴之",
+     "又何所用其力乎"
+    ]
+   ]
+  },
+  "12": {
+   "regular": false,
+   "reason": "three parallel sections (食/腥/生) and a triple summary; not paired"
+  },
+  "13": {
+   "regular": false,
+   "reason": "two long legs (出門/使民) and a short closing pair"
+  },
+  "14": {
+   "regular": false,
+   "reason": "six short pairs in sequence (徹/征, 民力/民財, 閭閻/田野, 藏/蓄, 取/用, 犧牲/饔飱); no clear four-pair division"
+  },
+  "15": {
+   "regular": false,
+   "reason": "five pairs"
+  },
+  "16": {
+   "regular": false,
+   "reason": "two main pairs (世道/朝綱, 言/行) with prose; not four pairs"
+  },
+  "17": {
+   "regular": false,
+   "reason": "two pairs only"
+  },
+  "18": {
+   "regular": false,
+   "reason": "five pairs (志士/仁人, 禍患/變故, 理欲/心迹, 國家/顚沛, 吾心/存心)"
+  },
+  "19": {
+   "regular": false,
+   "reason": "argumentative prose with triple series; no four-pair body"
+  },
+  "20": {
+   "regular": false,
+   "reason": "sequence of five naming cases (夫人/小童/君夫人/寡小君/君夫人); not four pairs"
+  },
+  "21": {
+   "regular": false,
+   "reason": "two long legs (事父/事君); one pair"
+  },
+  "22": {
+   "regular": false,
+   "reason": "expository prose through 性/道/教, 中/和, 位/育; no four-pair body"
+  },
+  "23": {
+   "regular": false,
+   "reason": "two long legs (不睹/不聞); one pair"
+  },
+  "24": {
+   "regular": false,
+   "reason": "three pairs (中/和, 心/氣, 天地/萬物) followed by prose"
+  },
+  "25": {
+   "regular": false,
+   "reason": "prose with short parallels; no clear four-pair body"
+  },
+  "26": {
+   "regular": false,
+   "reason": "two long legs (武王/周公); one pair"
+  },
+  "27": {
+   "regular": false,
+   "reason": "continuous prose; no leg pairs"
+  },
+  "28": {
+   "regular": false,
+   "reason": "two long legs (葬祭/喪服); one pair"
+  },
+  "29": {
+   "regular": false,
+   "reason": "two pairs (天/地, 山/水)"
+  },
+  "30": {
+   "regular": false,
+   "reason": "three pairs (三王/天地, 鬼神/後聖, 質鬼神/俟聖人)"
+  },
+  "31": {
+   "regular": false,
+   "reason": "two long legs (天地/鬼神) and a short closing parallel"
+  },
+  "32": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "待帛而煖，待肉而飽，老者之所願，未易遂也，今也，常産立而蠶桑畜養之有制，則杼柚其盈而五十者咸得以衣帛，孕字日蕃而七十者咸得以食肉，非惟一人為然，而舉國之老者皆有以老之矣",
+     "b": "無食則飢，無衣則寒，黎民之所患，未易免也，今也，常産立而耕耘收穫之以時，則食雖不肉而亦可以無飢，衣雖不帛而亦可以無寒，非惟一民為然，而舉國之幼者皆有以幼之矣"
+    },
+    [
+     "庠序之教",
+     "由是而立",
+     "孝弟之風",
+     "由是而行"
+    ],
+    [
+     "老者旣老",
+     "莫不有盍歸之願",
+     "幼者旣幼",
+     "莫不有受廛之心"
+    ],
+    [
+     "甲兵不必試也",
+     "孰敢有不臣者乎",
+     "權謀不必用也",
+     "孰敢有自外者乎"
+    ]
+   ]
+  },
+  "33": {
+   "regular": false,
+   "reason": "two long legs (巡狩/述職); one pair"
+  },
+  "34": {
+   "regular": false,
+   "reason": "three pairs (尊卑/疎戚, 左右/大夫, 去邪/天討)"
+  },
+  "35": {
+   "regular": false,
+   "reason": "continuous prose; no leg pairs"
+  },
+  "36": {
+   "regular": false,
+   "reason": "prose with scattered short parallels; no four-pair body"
+  },
+  "37": {
+   "regular": false,
+   "reason": "two main pairs (助法/學校, 養民/教民) and short parallels"
+  },
+  "38": {
+   "regular": false,
+   "reason": "series of the five relations; not paired legs"
+  },
+  "39": {
+   "regular": false,
+   "reason": "two long legs (無君則弔/出疆載贄); one pair"
+  },
+  "40": {
+   "regular": false,
+   "reason": "three pairs (天下害/中國患, 兼/驅, 旣兼/旣驅)"
+  },
+  "41": {
+   "regular": false,
+   "reason": "three pairs (夷狄/鳥獸, 既除/既息, 天冠/上恬) then digression"
+  },
+  "42": {
+   "regular": false,
+   "reason": "series of five sages (禹/湯/文/武/周公); not paired"
+  },
+  "43": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "景前聖之烈光，毅然欲以身統其盛，曠百世而相感，固不限于分位之難齊",
+     "b": "瞻庭闈之遺矩，慨然欲以巳㑹其全，幸再傳之未冺時，自責以心力所可繼"
+    },
+    {
+     "a": "夏而王者，禹也，商而王者，湯也，公而如禹如湯，亦可巳矣，而尚不㤀乎有賢父兄之樂，逺稽未滿其志，參之以近守焉，㑹衆美而歸之，身固所願也",
+     "b": "始王周者，文也，繼王周者，武也，公而如文如武，亦可已矣，而猶不廢乎古先哲王之求，見知未厭其心，益之以聞知焉，集四聖而為大成，蓋有期也"
+    },
+    {
+     "a": "撫往事而興則效之思，將以行于古者而行于今，典則具在，冀追踐而不遺",
+     "b": "即往行而勵進脩之念，將以敷于前者而敷于後，謨烈相承，期作求而無斁"
+    },
+    {
+     "a": "於禹而欲施其好善惡酒之事，于湯而欲施其執中立賢之事，成功未見于躬行，而奮發已形于意氣，彼謂古今之不相及而畫焉以自處者，豈公之志哉",
+     "b": "于文而欲施其愛民求道之事，于武而欲施其不泄不忘之事，大效未彰于踐履，而感激己動于精神，彼謂君相之不同道而陋焉以自居者，豈公之心哉"
+    }
+   ]
+  },
+  "44": {
+   "regular": false,
+   "reason": "expository prose with short parallels; no four-pair body"
+  },
+  "45": {
+   "regular": false,
+   "reason": "five pairs (four only if the 然予身之生/孔子之澤 hinge is taken as 過接); doubtful"
+  },
+  "46": {
+   "regular": false,
+   "reason": "argumentative prose with many short parallels; no clear four-pair body"
+  },
+  "47": {
+   "regular": false,
+   "reason": "five pairs, two of them within single sentences; no clear four-pair division"
+  },
+  "48": {
+   "regular": false,
+   "reason": "three parallel sections (大國/次國/小國); not paired"
+  },
+  "49": {
+   "regular": false,
+   "reason": "series of six examples (舜/傅說/膠鬲/管夷吾/孫叔敖/百里奚); not four pairs"
+  },
+  "50": {
+   "regular": false,
+   "reason": "two long legs (登山/觀海) and short parallels; not four pairs"
+  },
+  "51": {
+   "regular": false,
+   "reason": "argumentative prose; no four-pair body"
+  },
+  "52": {
+   "regular": false,
+   "reason": "argumentative prose with short parallels; no four-pair body"
+  },
+  "53": {
+   "regular": false,
+   "reason": "two long legs (古之關/今之關); one pair"
+  },
+  "54": {
+   "regular": true,
+   "pairs": [
+    [
+     "不越乎彞倫日用之間",
+     "所謂經也",
+     "不為索隱行怪之事",
+     "所謂正也"
+    ],
+    {
+     "a": "君子既有以正是經之綱紀，而不偏不陂，則為之民者，莫不觀感興起，而蕩蕩乎㑹極歸極之風，求一人之弗興於善者，無有焉",
+     "b": "既有以正是經之準則，而不側不欹，則為之民者，莫不感慕奮發，而熙熙乎遵義遵道之俗，求一人之弗起於善者，無有焉"
+    },
+    {
+     "a": "民既興於其善，而是非坦然其明白，則彼以是為非之邪慝，斯不得以簧鼓斯民之聰明",
+     "b": "民既興於其善，而曲直判乎其昭彰，則彼閹然媚世之邪說，自不得以惑斯民之心志"
+    },
+    {
+     "a": "向嘗溺於其說，而非之無舉矣，今則人人皆能舉其非，雖有之而不為害也，他如為我之害義者，又非吾正經之義而自息乎",
+     "b": "向嘗惑於其邪，而刺之無刺矣，今則人人皆能刺其惡，雖有之而不為累也，他若兼愛之害仁者，又非吾正經之仁而自止乎"
+    }
+   ]
+  },
+  "55": {
+   "regular": false,
+   "reason": "series of three five-hundred-year periods and the present; not paired"
+  },
+  "56": {
+   "regular": false,
+   "reason": "series of three five-hundred-year periods; not paired"
+  },
+  "57": {
+   "regular": false,
+   "reason": "three parallel sections (明德/新民/止至善); not paired"
+  },
+  "58": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "功深於研極之乆，而德業之㑹歸者，有以洞晰而無遺",
+     "b": "理得於深造之餘，而人已之詣極者，有以周知而不是"
+    },
+    {
+     "a": "知之所在，志亦趨焉，以精而擇者，將以一而守也，而定固因於知矣",
+     "b": "志之所至，心與俱焉，有主而虛者，將無欲而静也，而静又因於定矣"
+    },
+    {
+     "a": "静則安從生焉，私累忘而道心自裕，其萬感俱寂者，即其萬境不遷者也",
+     "b": "安則慮從生焉，泰宇寧而天光自發，其百遇皆順者，即其百物皆通者也"
+    },
+    {
+     "a": "反之身心性情之微，而明德之至善，於是而得止也",
+     "b": "推之家國天下之廣，而新民之至善，於是乎得止也"
+    }
+   ]
+  },
+  "59": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "君子之生財也，有道焉，固不必損下以益上，而經制得宜，自有以裕於國也",
+     "b": "其於道也，又甚大焉，固不必損上以益下，而公私兩利，亦有以裕於民也"
+    },
+    {
+     "a": "驅天下之民而歸諸農，其生之也，既無遺利矣，又且汰冗員裁冗費，不使有浮食焉",
+     "b": "盡三時之勤以服乎耕，其為之也，既無遺力矣，又且量所入為所出，不使有侈用焉"
+    },
+    {
+     "a": "勤以務本，而財之入也無窮",
+     "b": "儉以制用，而財之出也有限"
+    },
+    {
+     "a": "下常給而上常餘，雖國有大事，而内府外府之儲，自將取之而不匱矣",
+     "b": "百姓足而君亦足，雖年或大祲，而三年九年之蓄，自可恃之以無恐矣"
+    }
+   ]
+  },
+  "60": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "率天下之人以生天下之財，自三農生九榖，以至於閒民轉移執事，莫非興事造業之徒，而欲為浮民，不可得也，至於朝廷之論官，則又以功詔禄，以能詔事，以久奠食而濫設之弊去矣，濫設之弊去，而供億之繁省矣",
+     "b": "生天下之財而勤天下之力，自七月流火，以至於十月納禾稼，莫非震動恪恭之時，而欲為惰遊，不可得也，至於公帑之支調，則又以貢致用，以賦斂財，以式均財而無藝之費去矣，無藝之費去，而耗竭之患亡矣"
+    },
+    {
+     "a": "曰生之為之，凡以生財而使之有者，則欲其衆以疾",
+     "b": "曰食之用之，凡以耗財而使之無者，則欲其寡以舒"
+    },
+    {
+     "a": "財之大源有所濬，而日見其有餘",
+     "b": "財之末流有所幅，而不至乎坐耗"
+    },
+    {
+     "a": "言乎其財，則天下之財，而非一家之財一國之財也",
+     "b": "言乎其計，則萬世之計，而非一時之計不終日之計也"
+    }
+   ]
+  },
+  "61": {
+   "regular": false,
+   "reason": "two long legs (事/財) followed by prose; not four pairs"
+  },
+  "62": {
+   "regular": false,
+   "reason": "prose built on the two speakers (子禽/子貢); not four pairs"
+  },
+  "63": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "其所以周旋裼襲，而為是隆殺之等者，非吾之所不樂也，中有所欲，而假物以自將，則縁飾之用斯著，凡以逹吾之情而巳矣",
+     "b": "其所以升降俯仰，而為是繁縟之制者，非吾之所本無也，仁有所體，而因事以生敬，則文明之賁斯章，要亦情之所樂而巳矣"
+    },
+    {
+     "a": "使禮而不和，則先王不制之矣",
+     "b": "使先王不和而制禮，則天下將尤之矣"
+    },
+    {
+     "a": "制法興王，出於一時之擬議，而和以悅心，不至乎驅廹天下，以合吾之矩矱，則雖欲瑕疵聖人之禮，而輕訾之，而有所不敢",
+     "b": "建中立極，出於一代之損益，而和以洽愛，不至乎强率天下，以入吾之範圍，則雖欲决裂聖人之禮，而背去之，而有所不忍"
+    },
+    {
+     "a": "自后王君公以至於輿皂之賤，莫不安之而不可厭，非有愛於吾之禮也，愛吾之和也，天下不能不和而不能外先王之禮也，明矣",
+     "b": "自朝㑹䘮紀以至於揖讓之微，莫不油然而不可巳，非以其為先王之禮也，以為吾之情也，天下不能無情而不能廢先王之禮也，審矣"
+    }
+   ]
+  },
+  "64": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "采詩以垂訓包括旁羅，期無遺也，而貫通倫類，必有所以為詩之㫖",
+     "b": "渉獵旁博，宜不廢也，而綱維藴奥，必有所以為説詩之本"
+    },
+    {
+     "a": "其所以發於咨嗟咏歎之餘者，比物連類，其㫖不可一而槩之也，然而觀者得於哦吟上下之際，所以㑹其意而一之者，要以觸發其本眞，而使之約於中耳",
+     "b": "其所以自然於音響節族而不能巳者，宣志達情，其意不可泥而拘之也，然而觀者得於咏歌慨歎之間，所以迎其意而通之者，要以和平其心意，而俾之離於僻耳"
+    },
+    {
+     "a": "詩之有善，非徒詩之善也，是勸之而歸於無邪也",
+     "b": "詩之有惡，非徒詩之惡也，是懲之而歸於無邪也"
+    },
+    {
+     "a": "以吾之天而觸彼之天，則事前而機動，不獨盛世遺音可以宣化，而治亂賢否所感之不同，而其歸同矣",
+     "b": "以彼之天而契我之天，則世隔而心通，不獨朝廟歌聲可以平心，而賢人君子憫時病俗之所為，而其致一矣"
+    }
+   ]
+  },
+  "65": {
+   "regular": false,
+   "reason": "three pairs following the stages of life (十五/三十, 四十/五十, 六十/七十)"
+  },
+  "66": {
+   "regular": true,
+   "pairs": [
+    [
+     "至敎所示",
+     "兩端而無遺",
+     "微言所及",
+     "終日而不倦"
+    ],
+    [
+     "精粗所陳",
+     "愚而不能疑也",
+     "始終悉備",
+     "愚而不能問也"
+    ],
+    [
+     "藏修㳺息",
+     "所從事者乎",
+     "動静語黙",
+     "不違於燕居者乎"
+    ],
+    [
+     "不迷於所徃者",
+     "力行之若此也",
+     "不習而無不利者",
+     "身體之若此也"
+    ]
+   ]
+  },
+  "67": {
+   "regular": false,
+   "reason": "two long legs (言/行); one pair"
+  },
+  "68": {
+   "regular": false,
+   "reason": "two long legs (夏禮/殷禮); one pair"
+  },
+  "69": {
+   "regular": false,
+   "reason": "three pairs (愿慤/朴畧, 典刑/謨烈, 慮自外/求無悖); the last parallel belongs to the 收結"
+  },
+  "70": {
+   "regular": false,
+   "reason": "three pairs (夏/殷, 監夏/監商, 聖人/帝王)"
+  },
+  "71": {
+   "regular": false,
+   "reason": "short parallels of uneven weight within prose; no clean four-pair division"
+  },
+  "72": {
+   "regular": false,
+   "reason": "five pairs (大亂/聖人之德, 下民/厚德, 厚民/厚夫子, 明王/聖人, 治亂/遇合)"
+  },
+  "73": {
+   "regular": false,
+   "reason": "prose with uneven parallels (忠/恕 passages); no clean four-pair body"
+  },
+  "74": {
+   "regular": false,
+   "reason": "two long legs (君子/小人); one pair"
+  },
+  "75": {
+   "regular": false,
+   "reason": "argumentative prose with short parallels; no four-pair body"
+  },
+  "76": {
+   "regular": false,
+   "reason": "two long legs (三巳/告新令尹); one pair"
+  },
+  "77": {
+   "regular": true,
+   "pairs": [
+    [
+     "秉禮立教",
+     "猶知所重也",
+     "惇信明義",
+     "猶知所崇也"
+    ],
+    {
+     "a": "因先王之所遺而思其垂創之心，將見不必紛更之擾也，偏者補之，敝者救之，而一振舉之下，百度為之自貞",
+     "b": "因今日之所乘而興其紹述之念，將見不俟改革之繁也，廢者修之，墜者舉之，而一轉移之間，衆正為之畢舉"
+    },
+    {
+     "a": "言乎禮敎，不特重之而巳，秉之立之而昭布於上下者，洋洋乎一如其舊",
+     "b": "言乎信義，不特崇之而巳，惇之明之而顯設於民物者，駸駸乎盡復其初"
+    },
+    {
+     "a": "禄之去公室者，自是可復，而爵賞一出於上，今日之魯，殆周公之魯，而非隱桓以來之魯矣",
+     "b": "政之逮大夫者，自是可還，而政柄不移於下，今日之魯，殆伯禽之魯，而非成襄以降之魯矣"
+    }
+   ]
+  },
+  "78": {
+   "regular": false,
+   "reason": "narrative and argumentative prose; no four-pair body"
+  },
+  "79": {
+   "regular": false,
+   "reason": "prose with one short pair (聖人/善人); no four-pair body"
+  },
+  "80": {
+   "regular": false,
+   "reason": "series of the five ministers (禹/稷/契/臯陶/伯益); not four pairs"
+  },
+  "81": {
+   "regular": false,
+   "reason": "five pairs of uneven weight (求/見, 博文/約禮, 未聞/既聞, 竭盡/卓立, 神/化)"
+  },
+  "82": {
+   "regular": false,
+   "reason": "three pairs (入門/在廟, 恭肅/斯須, 致敬於始/因賓至)"
+  },
+  "83": {
+   "regular": false,
+   "reason": "sequential narrative of the stages of entering court; not paired"
+  },
+  "84": {
+   "regular": true,
+   "pairs": [
+    [
+     "不敢羣少長",
+     "時其起居而不離",
+     "亦不敢唯酒食",
+     "時其動静而不違"
+    ],
+    {
+     "a": "方杖者之獻酬，為歡而未出也，惟見其與之傴僂也，與之左右也，為酒無算，葢不敢乘之以跛倚之私，而孑然而先矣",
+     "b": "及長者之宴，卒成禮而既出也，惟見其與之盤辟也，與之携持也，舉足不忘，亦不敢任之以流湎之情，而跇然而後矣"
+    },
+    [
+     "始之旅而進也",
+     "所以習齒讓於始也",
+     "繼之旅而退也",
+     "所以謹齒讓於終也"
+    ],
+    [
+     "其侍食也",
+     "不敢不敬共矣",
+     "其辭而去也",
+     "不敢不肩隨矣"
+    ]
+   ]
+  },
+  "85": {
+   "regular": false,
+   "reason": "three parallel sections (食/腥/生) and a triple summary; not paired"
+  },
+  "86": {
+   "regular": false,
+   "reason": "three pairs (先進/後進, 養徳/維風, 求實/求厚)"
+  },
+  "87": {
+   "regular": false,
+   "reason": "three main pairs (先進/後進, 規摹/憲章, 禮/樂); short parallels in linking and conclusion; doubtful"
+  },
+  "88": {
+   "regular": false,
+   "reason": "two long legs (事鬼神/知死); one pair"
+  },
+  "89": {
+   "regular": false,
+   "reason": "six pairs of uneven length (窮/達, 佐辟/股肱, 可否/非之, 用/不用, 忠言/道德, 可/不可); no clear four-pair division"
+  },
+  "90": {
+   "regular": false,
+   "reason": "two main pairs (視聽/言動, 至明/至健) and a short closing parallel"
+  },
+  "91": {
+   "regular": false,
+   "reason": "two pairs (浸潤/膚受, 明/遠 as two long legs)"
+  },
+  "92": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "有其名之，不徒名而已也，名之則必可言之，其揆諸義也協，其宣諸辭也順，稱之於朝，稱之於國，稱之於天下，葢萬口同然而無得以矯其非者，斯名焉，不可言者，不以名也",
+     "b": "有其言之，不徒言而已也，言之則必可行之，其措諸躬也安，其施於事也達，在家宜之，在國宜之，在天下宜之，將百世無弊而莫或有窒於行者，斯言焉，不可行者，不以言也"
+    },
+    {
+     "a": "名之必其可言，故名之正與不正，乃言之順逆所由始",
+     "b": "言之必其可行，故言之順與不順，乃行之善敗所由基"
+    },
+    {
+     "a": "非曰朝廷之上，惟言莫違，可茍焉而出乎身也，别嫌明微，必稽於天理人倫之至，而凛凛乎思以植天下之大防",
+     "b": "亦非曰位號之間，惟命是從，可茍焉而施於國也，慎終慮始，必要於人情事變之歸，而兢兢乎思以存兩間之大義"
+    },
+    {
+     "a": "由是則君君臣臣，父父子子，而朝廷之上無慚德也",
+     "b": "由是禮行樂興，刑淸政舉，而邦國之間無茍動也"
+    }
+   ]
+  },
+  "93": {
+   "regular": false,
+   "reason": "two long legs (狂/狷); one pair"
+  },
+  "94": {
+   "regular": false,
+   "reason": "two pairs (克伐/怨欲, 横流/暴著); parallel in 起講 aside"
+  }
+ }
+}

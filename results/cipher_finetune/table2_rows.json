@@ -1,0 +1,122 @@
+[
+ {
+  "label": "real (sanity)",
+  "meter": "penta",
+  "model": "models/gujigpt-io-finetuned-penta",
+  "test_file": "data/couplets_penta_test.json",
+  "n": {
+   "i": 5000,
+   "o": 5000
+  },
+  "mean_loss": {
+   "i/i": 4.070582108,
+   "i/o": 4.829730448,
+   "o/i": 4.355851548,
+   "o/o": 4.565820572
+  },
+  "ppl_inner": 58.59105899120342,
+  "ppl_outer": 96.1414526415909,
+  "prompt_effect_inner": -0.28526944000000043,
+  "prompt_effect_outer": -0.2639098760000005
+ },
+ {
+  "label": "real (sanity)",
+  "meter": "hepta",
+  "model": "models/gujigpt-io-finetuned-hepta",
+  "test_file": "data/couplets_hepta_test.json",
+  "n": {
+   "i": 5000,
+   "o": 5000
+  },
+  "mean_loss": {
+   "i/i": 3.991037937142857,
+   "i/o": 4.836704025714286,
+   "o/i": 4.421870551428571,
+   "o/o": 4.525642471428571
+  },
+  "ppl_inner": 54.11102406785768,
+  "ppl_outer": 92.35524237652959,
+  "prompt_effect_inner": -0.4308326142857144,
+  "prompt_effect_outer": -0.3110615542857147
+ },
+ {
+  "label": "nonsense epoch 1",
+  "meter": "penta",
+  "model": "models/cipher_finetune/model_penta_cipher_epoch1",
+  "test_file": "data/cipher/penta_charcipher_test.json",
+  "n": {
+   "i": 5000,
+   "o": 5000
+  },
+  "mean_loss": {
+   "i/i": 5.480099896,
+   "i/o": 6.111638728,
+   "o/i": 5.772364247999999,
+   "o/o": 5.740528815999999
+  },
+  "ppl_inner": 239.8706682977153,
+  "ppl_outer": 311.22895032063343,
+  "prompt_effect_inner": -0.29226435199999923,
+  "prompt_effect_outer": -0.37110991200000054
+ },
+ {
+  "label": "nonsense epoch 1",
+  "meter": "hepta",
+  "model": "models/cipher_finetune/model_hepta_cipher_epoch1",
+  "test_file": "data/cipher/hepta_charcipher_test.json",
+  "n": {
+   "i": 5000,
+   "o": 5000
+  },
+  "mean_loss": {
+   "i/i": 5.348434848571428,
+   "i/o": 6.275696562857142,
+   "o/i": 5.859341525714286,
+   "o/o": 5.687366274285714
+  },
+  "ppl_inner": 210.2789218173358,
+  "ppl_outer": 295.1153433374602,
+  "prompt_effect_inner": -0.5109066771428576,
+  "prompt_effect_outer": -0.5883302885714281
+ },
+ {
+  "label": "nonsense epoch 4",
+  "meter": "penta",
+  "model": "models/cipher_finetune/model_penta_cipher_epoch4",
+  "test_file": "data/cipher/penta_charcipher_test.json",
+  "n": {
+   "i": 5000,
+   "o": 5000
+  },
+  "mean_loss": {
+   "i/i": 4.953363576,
+   "i/o": 5.983427644,
+   "o/i": 5.401145856,
+   "o/o": 5.393456551999999
+  },
+  "ppl_inner": 141.65061613967018,
+  "ppl_outer": 219.96238445859447,
+  "prompt_effect_inner": -0.4477822800000002,
+  "prompt_effect_outer": -0.5899710920000008
+ },
+ {
+  "label": "nonsense epoch 4",
+  "meter": "hepta",
+  "model": "models/cipher_finetune/model_hepta_cipher_epoch4",
+  "test_file": "data/cipher/hepta_charcipher_test.json",
+  "n": {
+   "i": 5000,
+   "o": 5000
+  },
+  "mean_loss": {
+   "i/i": 4.8383489399999995,
+   "i/o": 6.317930294285714,
+   "o/i": 5.530478614285714,
+   "o/o": 5.35195022
+  },
+  "ppl_inner": 126.2607155250887,
+  "ppl_outer": 211.01943115120983,
+  "prompt_effect_inner": -0.6921296742857148,
+  "prompt_effect_outer": -0.9659800742857136
+ }
+]

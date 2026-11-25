@@ -1,0 +1,725 @@
+{
+ "essays": {
+  "191": {
+   "regular": false,
+   "reason": "three clear pairs (四十/五十, 上達/下學, 時/以後); opening body continuous prose"
+  },
+  "192": {
+   "regular": false,
+   "reason": "five short pairs after 起股/中股; cannot be divided into four with confidence"
+  },
+  "193": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "自末流漸遠，於是有先進之禮樂焉，彼以誠慤之真，而飭人文之賁，蓋誠獨得其中者矣，而時之人昧於制作之本，乃反目之以為野人，野人云者，謂其不足以侈天下之觀聽也",
+     "b": "自先制既隳，於是有後進之禮樂焉，彼以文物之華，而掩忠信之實，蓋誠至於失中者矣，而時之人於侈靡之習，乃反目之以為君子，君子云者，謂其有以新天下之耳目也"
+    },
+    [
+     "然文質彬彬然",
+     "不敢以必從也",
+     "質勝其文然後",
+     "不敢以不從也"
+    ],
+    {
+     "a": "用之為己，則以之治躬，以之治心，所願為從周之民者，此也，雖舉世非之，亦不願也",
+     "b": "用之治人，則以之定志，以之平情，所願為東周之治者，此也，將與世反之，而不辭也"
+    },
+    [
+     "寜有野人之議",
+     "使實意之漸微",
+     "寜無君子之名",
+     "使繁文之日勝"
+    ]
+   ]
+  },
+  "194": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "自物之感於心也，而所謂視聽言動者，縁心而起矣，是心之所不能無也",
+     "b": "自心之涉於感也，而所謂非禮者，縁視聽言動而起矣，是心之所不可有也"
+    },
+    [
+     "心之神常聚於",
+     "其所以視者也",
+     "心之虛常通於",
+     "其所以聽者也"
+    ],
+    [
+     "天下未有言而",
+     "與禮俱斯已矣",
+     "天下未有動而",
+     "與禮協斯已矣"
+    ],
+    [
+     "天下之物日與",
+     "物至而心不累",
+     "吾之心日與天",
+     "物化而理自融"
+    ]
+   ]
+  },
+  "195": {
+   "regular": false,
+   "reason": "three clear pairs (問仁/問知, 舜/湯, 知人/愛人); 舉錯 section prose"
+  },
+  "196": {
+   "regular": false,
+   "reason": "five pairs (品式/聲氣, 禮序/樂和, 整齊/蕩滌, 獄條/獄情, 禮/樂)"
+  },
+  "197": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "誼非不親也，而所孚者道，于情不貴茍而合",
+     "b": "交非不篤也，而所協者義，于物不容詭而隨"
+    },
+    {
+     "a": "同寅協恭，非以樹黨也，天下國家之事，本非一人之意見，所得附和而强同者，惟平其心以待之而已矣，和出于平，而又何比焉",
+     "b": "合志同方，非以植私也，天下萬世之道，本非一己之私心，所能任情而强和者，惟公其心以應之而已矣，和生于公，而又何徇焉"
+    },
+    {
+     "a": "内不見己，故于人無所乖，而不必在人者，有以同乎己",
+     "b": "外不見人，故于己無所戾，而不必在我者，有以同于人"
+    },
+    {
+     "a": "非其道也，獨見獨行，舉世非之而不顧，雖或不諧于衆，實則相濟以為和耳，此君子之所以不同也，其心與迹，易知也",
+     "b": "如其道也，公是公非，與衆共之而不違，即使自混于俗，不過順應以為和耳，此君子之所以和而不同也，其心與迹，難知也"
+    }
+   ]
+  },
+  "198": {
+   "regular": false,
+   "reason": "triple legs (不言/不笑/不取) followed by two pairs; not four pairs"
+  },
+  "199": {
+   "regular": false,
+   "reason": "three pairs only (邇/逺, 億兆/千百年, 天行/卒來)"
+  },
+  "200": {
+   "regular": false,
+   "reason": "three pairs only (毁/譽, 賞/罰, 三代/吾今); middle prose"
+  },
+  "201": {
+   "regular": false,
+   "reason": "one full pair (朝廷/閭巷); other parallels are short clauses within prose"
+  },
+  "202": {
+   "regular": false,
+   "reason": "three pairs only (史/馬, 任其意見/逞其文采, 文武/周公)"
+  },
+  "203": {
+   "regular": false,
+   "reason": "three pairs; final 束股 leg (專事於儀文) has no partner"
+  },
+  "204": {
+   "regular": false,
+   "reason": "two pairs plus a four-member series (天子/諸侯/大夫/陪臣)"
+  },
+  "205": {
+   "regular": false,
+   "reason": "two pairs (孤竹/周王, 齊之民/魯之民); rest prose"
+  },
+  "206": {
+   "regular": true,
+   "pairs": [
+    [
+     "直道則以道為",
+     "于人為何如者",
+     "枉道則以人為",
+     "于人為何如者"
+    ],
+    [
+     "欲免于三黜而",
+     "所患在直道耳",
+     "求容身之地而",
+     "特患不枉道耳"
+    ],
+    {
+     "a": "如其直道而事人乎，今之人情已可見矣，黜則皆黜，父母之邦固黜也，他邦亦黜也，雖使迹遍天下難乎免矣，吾栖栖將安之",
+     "b": "而枉道而事人乎，今之人情不甚相遠也，容則皆容，他邦固容也，父母之邦亦容也，向也一為士師人其舍諸，又何必望望然去之"
+    },
+    {
+     "a": "本為黜也而去，而持之以必黜之道，何如勿去，寜于父母之邦黜爾",
+     "b": "以為一去也而必不黜，而投之以必不黜之道，何煩于去，亦即于父母之邦不黜爾"
+    }
+   ]
+  },
+  "207": {
+   "regular": false,
+   "reason": "two long pairs (國族/邦家, 故舊/人才) and a four-member conclusion"
+  },
+  "208": {
+   "regular": true,
+   "pairs": [
+    [
+     "至舜所授於禹",
+     "下也其責同也",
+     "舜可以中而治",
+     "下也其理同也"
+    ],
+    [
+     "為天下計則不",
+     "之而有所不私",
+     "為禹之治天下",
+     "之而有所不變"
+    ],
+    {
+     "a": "人心道心之命，似乎堯之所未發，而要之言人心，以言中之雜乎形氣者也，言道心，以言中之純乎義理者也，當堯命舜之時，危微之㫖，已隱然於允執厥中之内，舜特為之闡其秘而已矣",
+     "b": "惟精惟一之命，似乎堯之所未及，而要之言惟精，以言中之無所於蔽也，言惟一，以言中之無所於淆也，當堯命舜之時，精一之理，已昭然於允執厥中之内，舜特為之洩其藴而已矣"
+    },
+    {
+     "a": "上以天禄而畀之，則亦并其所以凝承天禄者而命之，蓋紀綱之舉廢，其隨時而易者，誠不能以預定，而惟此中之原於天，固亙萬古而不磨者也，安得而加益也，少有益焉，則為太過矣，夫太過何以治天下哉",
+     "b": "下以四海而畀之，則亦并其所以撫安四海者而命之，蓋制度之沿革，其與世而更者，誠不能以預擬，而惟此中之具於人，固俟後聖而不易者也，安得而加損也，少有損焉，則為不及矣，夫不及何以治天下哉"
+    }
+   ]
+  },
+  "209": {
+   "regular": false,
+   "reason": "three pairs only (衆寡/大小, 匹夫/細務, 敬/無所不敬)"
+  },
+  "210": {
+   "regular": false,
+   "reason": "two long legs (天地位/萬物育) with internal parallels; not four pairs"
+  },
+  "211": {
+   "regular": false,
+   "reason": "five pairs (知/能, 天文/地理, 有形/無形, 仁知/賢聖, 吾心/吾身)"
+  },
+  "212": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "溺於虛無者，不可以言鬼神，凡日星之所以著，江河之所以流，昭然於俯仰之際者，皆是也",
+     "b": "渉於怪異者，不可以言鬼神，凡萬類之變蕃，一事之作止，紛然於日用之間者，皆是也"
+    },
+    {
+     "a": "原其德之體，則根乎天地隂陽之性存焉，陽之氣一至而生育長養者，不知其所以然，隂之氣一至而斂藏退息者，不知其所以然，蓋至健至順之性，有自然而不容强者，夫是以無為而成化也",
+     "b": "究其德之用，則感於屈伸動静之機乘焉，當其氣之伸而富有日新者，其發不可窮，及其氣之屈而空虛無用者，其積不可竭，蓋一徃一來之機，有相推而不能已者，夫是以錯出而有常也"
+    },
+    {
+     "a": "使天地間一息無鬼神，則所為鼓其出鼓其入者，孰効其功，而覆載生成，何以無偏而不舉之處",
+     "b": "使人事中一息無鬼神，則所謂迭而起循而生者，孰為之宰，而廢興成毁，何以有動而必應之機"
+    },
+    {
+     "a": "焄蒿悽愴，其偶出為靈奇者，在衆人皆見為非常，而不知止此理之發著",
+     "b": "震動恪恭，以致嚴於屋漏者，在聖人實見其情狀，而無時非天命之流行"
+    }
+   ]
+  },
+  "213": {
+   "regular": false,
+   "reason": "continuous prose with short parallel clauses; no leg pairs"
+  },
+  "214": {
+   "regular": false,
+   "reason": "continuous prose with short parallel clauses; no clear four-pair structure"
+  },
+  "215": {
+   "regular": false,
+   "reason": "two long halves (大夫/士) with nested pairs; not four pairs"
+  },
+  "216": {
+   "regular": false,
+   "reason": "three pairs only (郊社/禘嘗 sacrifices, 郊社/禘嘗 meaning, 南面/北面)"
+  },
+  "217": {
+   "regular": false,
+   "reason": "five pairs (己性/人物性, 有常/有聲, 忽/俄, 至治/茂對, 動/變)"
+  },
+  "218": {
+   "regular": false,
+   "reason": "more than four short pairs (形/道, 未動/有動, 愚不肖/賢知, 官/氣, 静/動)"
+  },
+  "219": {
+   "regular": false,
+   "reason": "short pairs embedded in prose; cannot divide into four pairs with confidence"
+  },
+  "220": {
+   "regular": false,
+   "reason": "mostly continuous prose; only short parallels"
+  },
+  "221": {
+   "regular": false,
+   "reason": "two long halves (位/德) each with nested pairs; not four pairs"
+  },
+  "222": {
+   "regular": false,
+   "reason": "body of short paired clauses without clear leg boundaries; cannot divide into four pairs"
+  },
+  "223": {
+   "regular": false,
+   "reason": "three pairs only (商周/岐越, 文/武, 日斃/日苦)"
+  },
+  "224": {
+   "regular": false,
+   "reason": "two long halves (大事小 仁者 / 小事大 智者); not four pairs"
+  },
+  "225": {
+   "regular": false,
+   "reason": "two long halves (太王/句踐); not four pairs"
+  },
+  "226": {
+   "regular": false,
+   "reason": "continuous prose narrative; no leg pairs"
+  },
+  "227": {
+   "regular": false,
+   "reason": "three clear pairs (舉爾所知/論所及知, 卑/疎, 寧使/寧知); opening prose"
+  },
+  "228": {
+   "regular": true,
+   "pairs": [
+    [
+     "在湯也師有所",
+     "所徐及者勢也",
+     "在民也唯以其",
+     "後爲怨者情也"
+    ],
+    {
+     "a": "若將懟心於人之我先，而以爲己歉也，曰中國之有至仁，而念彼置此，何其偏也",
+     "b": "若將觖望於己之獨後，而以爲湯尤也，曰聖人之無遺澤，而先彼後此，獨何異也"
+    },
+    [
+     "湯師旦夕先至",
+     "足動後時之感",
+     "湯師一日未至",
+     "不勝遙企之思"
+    ],
+    {
+     "a": "以聖武之布昭，豈不亦終歸宇下，然業知之而猶以爲疑者，誠望之也，望之切，則疑之深，延頸舉踵，如將旦暮遇焉，而須臾之德化未霑，能自慰耶",
+     "b": "以萬邦之表正，豈不亦卒荷帡幪，然明知之而猶以爲憂者，誠望之也，其望殷，則其憂迫，傾耳注目，惟恐俄頃緩焉，而一時之聽睹未親，能自安耶"
+    }
+   ]
+  },
+  "229": {
+   "regular": false,
+   "reason": "more than four short pairs (施徳/尊生, 土地/室家, 在上/一失, 羈絏/荆棘, 求利/趨仁)"
+  },
+  "230": {
+   "regular": false,
+   "reason": "five or more short pairs in irregular prose; cannot divide into four"
+  },
+  "231": {
+   "regular": true,
+   "pairs": [
+    [
+     "非其心之無所",
+     "求於心而已矣",
+     "又非其心之得",
+     "求於氣而已矣"
+    ],
+    [
+     "以心之故而舍",
+     "吾猶以為可焉",
+     "以言之故而舍",
+     "尚得為可乎哉"
+    ],
+    [
+     "試觀吾心之氣",
+     "乎而志其至矣",
+     "試觀吾心之志",
+     "乎而氣其㳄矣"
+    ],
+    {
+     "a": "形神相資以成能，而宰於中者，與輔於外者均所重",
+     "b": "敬義交修以為功，而直乎内者，與方乎外者兼所急"
+    }
+   ]
+  },
+  "232": {
+   "regular": false,
+   "reason": "pairs interleaved and uneven (守之/養之 with 欽承/涵養 in one sentence); cannot divide into four with confidence"
+  },
+  "233": {
+   "regular": false,
+   "reason": "five pairs (集/生, 内省/礪行, 充/未充, 真積/持循, 有事/有心)"
+  },
+  "234": {
+   "regular": false,
+   "reason": "continuous prose; no leg pairs"
+  },
+  "235": {
+   "regular": true,
+   "pairs": [
+    [
+     "計産而耕之則",
+     "民且受其弊矣",
+     "計産而賦之則",
+     "上亦受其弊矣"
+    ],
+    {
+     "a": "無恒産而驅之善，能得之凡民乎",
+     "b": "無恒産而隨之刑，將得為仁人乎"
+    },
+    {
+     "a": "賢君則必恭，恭者之於臣僚也，且將有殊禮焉，而忍使其奉養薄耶，獨計常祿皆民脂，而吾謀其入，不得不慮及於出者矣",
+     "b": "賢君則必儉，儉者之於財用也，且有常經焉，而何至取民多耶，獨計常賦皆民力，而吾責之出，不得不預圖其入者矣"
+    },
+    [
+     "敎化未興刑罰",
+     "唯曰何以重農",
+     "賦税未定世祿",
+     "唯曰何以授産"
+    ]
+   ]
+  },
+  "236": {
+   "regular": false,
+   "reason": "triple members (田不井 x3, 庠/校/序 x3) in prose; not four pairs"
+  },
+  "237": {
+   "regular": false,
+   "reason": "six pairs (治/人, 仰承/俯念, 益/稷, 害/利, 堯無舜 x2, 君道/相道)"
+  },
+  "238": {
+   "regular": false,
+   "reason": "three pairs (益/稷, 民害/民利, 堯憂/舜憂) plus a transitional couplet"
+  },
+  "239": {
+   "regular": true,
+   "pairs": [
+    [
+     "崇侯奄君之屬",
+     "閉闗而不朝耳",
+     "飛㢘惡來之輩",
+     "負嵎以相抗耳"
+    ],
+    [
+     "無論非周之臣",
+     "藉口於不屈乎",
+     "無論其不為周",
+     "托名於殉國乎"
+    ],
+    {
+     "a": "蒼蒼之表，黙啟武王若曰，爾其討獨夫紂，而先討其蠱惑此獨夫者",
+     "b": "元元之衆，又環向武王若曰，爾其誅無道商，而先誅其相與為無道者"
+    },
+    [
+     "惟天地間從未",
+     "脅服人心之計",
+     "惟宇宙中必不",
+     "翦除勝國之餘"
+    ]
+   ]
+  },
+  "240": {
+   "regular": false,
+   "reason": "one long pair (商之君子/商之小人) and two short closing pairs; not four pairs"
+  },
+  "241": {
+   "regular": false,
+   "reason": "three long pairs mixed with several short ones (縮/靦, 無/有); cannot divide into four with confidence"
+  },
+  "242": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "逆行汎濫之勢，本闔闢以來，未有所歸宿而然也，堯則視之，以為上天譴責之故",
+     "b": "懷山襄陵之變，本氣化所遺，未得所宣洩而然也，堯則引之，以為一已感召之由"
+    },
+    {
+     "a": "九重之惕厲方殷矣，天子不可以自為之也，而岳牧咸薦，不能不望夫行所無事之禹也",
+     "b": "九載之績用弗成矣，崇伯不可以復任之也，而司空是寄，不能不付於克蓋前愆之禹也"
+    },
+    {
+     "a": "承帝之命，典父之官，既知其有不容逭之責",
+     "b": "觀水之性，相地之宜，又知其有不可逆之機"
+    },
+    {
+     "a": "酌天地之盈而佐之以虚者，其勢不得不分，掘地者，固所以分之也",
+     "b": "酌天地之虚而佐之以盈者，其勢不得不合，注諸海者，固所以合之也"
+    }
+   ]
+  },
+  "243": {
+   "regular": false,
+   "reason": "triple legs (邪説/詖行/淫辭) and fewer than four pairs"
+  },
+  "244": {
+   "regular": false,
+   "reason": "triple legs (禹/周公/孔子) and fewer than four pairs"
+  },
+  "245": {
+   "regular": false,
+   "reason": "three pairs only (室/粟, 伯夷/盜跖, 所築/所樹); rest prose"
+  },
+  "246": {
+   "regular": false,
+   "reason": "more than four pairs (下/壙, 兩仁/兩不仁, 叢/淵, 鸇獺/淵叢, 情/勢)"
+  },
+  "247": {
+   "regular": false,
+   "reason": "mostly continuous prose; only scattered short parallels"
+  },
+  "248": {
+   "regular": false,
+   "reason": "many short parallel clauses in prose (太丁/仲壬, 始/繼, 元祀/三年, 商/尹); no four-pair structure"
+  },
+  "249": {
+   "regular": false,
+   "reason": "five short-to-medium pairs (機/道, 身/迹, 遇湯/樂道, 疎逖/畎畝 etc.); cannot divide into four with confidence"
+  },
+  "250": {
+   "regular": false,
+   "reason": "more than four pairs of uneven weight (巖廊/清修, 近/去, 左右/阿衡, 湯不得尹 x2, 感/要, 行/道)"
+  },
+  "251": {
+   "regular": false,
+   "reason": "continuous prose exposition; no leg pairs"
+  },
+  "252": {
+   "regular": false,
+   "reason": "continuous argument with scattered pairs (道/禮, 靈公/孝公); no four-pair structure"
+  },
+  "253": {
+   "regular": false,
+   "reason": "continuous prose argument; no clear leg pairs"
+  },
+  "254": {
+   "regular": false,
+   "reason": "three parallel legs (行可/際可/公養) rather than pairs"
+  },
+  "255": {
+   "regular": false,
+   "reason": "six short pairs (侈/苟, 祿/位, 委吏/乘田, 盡言/行道, 責/鄙, 卑貧/尊富)"
+  },
+  "256": {
+   "regular": false,
+   "reason": "prose argument with one main pair (惻隱/甘食) and narrative; not four pairs"
+  },
+  "257": {
+   "regular": false,
+   "reason": "seven short pairs (杳然/紛然, 初動/未彰, 居仁/守禮, 不思/不求, 情善/性不善, 有生/無秉彜, 詩/孔子)"
+  },
+  "258": {
+   "regular": false,
+   "reason": "five pairs (不盡/易盡, 至虛/至靈, 畀/受, 渾然/燦然, 心/天)"
+  },
+  "259": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "必此心銷除既盡，然後同然之欲見，而直順其欲，可以日休",
+     "b": "若此心遏抑既久，將併不欲之良，亦冺而盡化為欲，遂以莫挽"
+    },
+    {
+     "a": "吾願學者於夜氣中，偶得一不欲貪昧之實，則不但視為人心之退，直當視為道心之復，而堅意就之，無至旦晝而又欲之，不欲一念猶屬夜氣，而無欲一念即屬操存也",
+     "b": "吾願學者於乍見時，偶懷一不欲隱忍之機，則不止視為幾希之緒，直當視為全體之呈，而迎機導之，無至物交而又欲之，不欲一念猶屬乍見，而無欲一念即屬擴充也"
+    },
+    {
+     "a": "思不欲從何生，必吾心先有一欲，與本來之天拂，而後不欲之心始出也，不欲已居後矣，常人之良，毎俟妄窮而見，則辨真妄之闗者，必以後念為真",
+     "b": "思不欲從何轉，必吾心復有一欲，與先起之念争，而後不欲之心始改也，不欲已居前矣，常人之心，以遂初心而快，則權順逆之數者，必以前念為順"
+    },
+    {
+     "a": "欲者便於形，不欲便於性，奈何矯性以適形乎",
+     "b": "欲者是吾情，不欲亦吾情，奈何屈情以伸情乎"
+    }
+   ]
+  },
+  "260": {
+   "regular": false,
+   "reason": "five pairs (生財/制用, 得宜/失策, 末作/膏脂, 恣出/缺前, 修舉/廢弛)"
+  },
+  "261": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "世有升降，遇有汚隆，而相從於氣化者，未能盡如聖人之心",
+     "b": "時有常變，氣有厚薄，而輾轉於時事者，未能盡協惟皇之極"
+    },
+    {
+     "a": "精一執中，揖讓而治，堯舜之於天道，則然也，降而如湯如武，則天道同，而與堯舜不盡同也",
+     "b": "兼三王之四事，集羣聖之大成，周孔之於天道，則然也，下而如夷如惠，則天道同，而與周孔不盡同也"
+    },
+    [
+     "出焉而為綱常",
+     "先天後天之異",
+     "入焉而完性命",
+     "全體一體之殊"
+    ],
+    [
+     "其仁之至皆合",
+     "則各一其道也",
+     "其禮之卑皆合",
+     "則各一其道也"
+    ]
+   ]
+  },
+  "262": {
+   "regular": false,
+   "reason": "opens with a triple (布縷/粟米/力役); remaining pairs uneven"
+  },
+  "263": {
+   "regular": true,
+   "pairs": [
+    [
+     "人之証不忍也",
+     "所忍無兩人也",
+     "人之証皆有不",
+     "所忍無兩心也"
+    ],
+    {
+     "a": "惟其無兩人，故一人而忍不忍異狀，可當體而逹也",
+     "b": "惟其無兩心，故一心而忍不忍同宅，可當念而逹也"
+    },
+    {
+     "a": "逹非執不忍以塞忍也，有可塞者，必有源，而當其不忍，忍何因而生，及其有忍，不忍何因而滅，則所忍之原非有源也，無源者還之妄，而不忍之真，有沛然其流鬯者矣",
+     "b": "逹亦非破忍以疏不忍也，有可疏者，必有閼，而當其忍時，不忍何所往，及其忍滅，不忍何所來，則不忍之原非有閼也，無閼者濬其真，而所忍之妄，有索然其立竭者矣"
+    },
+    {
+     "a": "驗惻怛之良者，毎不於習見而於乍見，乍見之不忍，即習見之所忍也，但使時時如乍見，而仁人之運天下保四海者，豈更煩轉念焉",
+     "b": "驗幾希之統者，毎不於旦晝而於平旦，平旦之不忍，即旦晝之所忍也，但使在在如平旦，而仁人之𢎞胞與大立逹者，豈更煩易念焉"
+    }
+   ]
+  },
+  "264": {
+   "regular": false,
+   "reason": "six pairs of uneven weight (精神/遺風, 五世/千里, 哲人/中國, 私淑/願學, 道之終/道之逺, 往事/今日)"
+  },
+  "265": {
+   "regular": false,
+   "reason": "two body pairs (賢不肖/愛惡, 和/嚴); other parallels in 起講 and conclusion"
+  },
+  "266": {
+   "regular": false,
+   "reason": "two long halves (正心/誠意) with nested parallels; not four pairs"
+  },
+  "267": {
+   "regular": false,
+   "reason": "continuous prose with scattered short parallels; no four-pair structure"
+  },
+  "268": {
+   "regular": false,
+   "reason": "three pairs (共成/明爭, 好/惡, 父子/閨門) in prose"
+  },
+  "269": {
+   "regular": false,
+   "reason": "three pairs (能如是/實如是, 身/言, 蓋不能喻/抑不能喻)"
+  },
+  "270": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "屈萬乘之尊，下而為億兆人之顧復，此其名原不甚竒",
+     "b": "裁經世之畧，俯而循匹夫婦之恩勤，此其道亦非甚難"
+    },
+    {
+     "a": "人情於不甚切已之處，皆能為甘美以慰人，獨至於好惡，而我有所便，遂不暇顧人之病矣，我有所不便，遂不暇顧人之利矣，夫此顧己而不顧人之意，皆疇昔不相習者，所用以逞其凌爍排擠之力，而豈所語於父母與子之間也",
+     "b": "人情於所以明民之處，亦或能屈已私以從衆，獨至於好惡，而計民所利，乃不得不顧己之便矣，計民所病，乃不得不顧己之不便矣，夫此顧人而復顧己之意，亦情意不甚切者，所借以行其蹰踟審顧之心，而豈所語於父母待子之情也"
+    },
+    {
+     "a": "惟是得民之好，得民之惡者乎，赤子之愛憎，皆能一一自喻，而必不能明言以告於人，有其不待告而喻焉，而天下之歌靡怙而嘆靡恃者，不已寡與",
+     "b": "惟是民好好之，民惡惡之者乎，赤子之笑啼，亦能明以告人，而必不能邀人以從於已，有其不待邀而從焉，而天下之誦屬毛而慶離裏者，寧有既與"
+    },
+    {
+     "a": "不如此，則作好作惡，而民之敝命以從者，不可言矣，厲一毫為君之色，去父母之途日以遥",
+     "b": "不如此，則吝好吝惡，而民之嗷嗷以待者，又不可言矣，擇一為父母之時，視愛子之衷則已邈"
+    }
+   ]
+  },
+  "271": {
+   "regular": false,
+   "reason": "prose with four-member series (可知/不可知/可言/不可言) and scattered pairs; not four pairs"
+  },
+  "272": {
+   "regular": false,
+   "reason": "continuous prose argument; scattered pairs only"
+  },
+  "273": {
+   "regular": false,
+   "reason": "two long halves (為之者疾/用之者舒) with nested parallels; not four pairs"
+  },
+  "274": {
+   "regular": false,
+   "reason": "three pairs (時久/時漸, 天下行能/天下旁見, 久者/漸者) after 起講"
+  },
+  "275": {
+   "regular": true,
+   "pairs": [
+    [
+     "其理有所兼非",
+     "非一節之行也",
+     "其推之可逺非",
+     "非庭除之守也"
+    ],
+    [
+     "本者人之所當",
+     "子之所務者乎",
+     "道者本之所能",
+     "其能生道者乎"
+    ],
+    {
+     "a": "凡人之情，用之他人，則易僞難真，用之父母兄弟，則易真難僞，求用情而于其易僞者，此必竭之勢也，必將于其能真者而導之，而真者可篤也，易僞者，亦可因以厚也，此本末相及之致也",
+     "b": "凡人之情，用之他人，則易不足，用之父母兄弟，則至有餘，求用情而先于其不足者，此亦必竭之勢也，必將于其有餘者而導之，而有餘者可分也，不足者，即有所待其流也，此亦本末相及之致也"
+    },
+    {
+     "a": "天下有孝弟之人，而與論仁者之心，則頓全之體矣，有其至愛者，而知其全心為愛，有其至敬者，而知其全心為敬，固不待附益而足者也",
+     "b": "天下有孝弟之人，而與論仁者之事，則亦漸及之用矣，有其至愛，而由以無所不愛，有其至敬，而由以無所不敬，亦可以相推而至者也"
+    }
+   ]
+  },
+  "276": {
+   "regular": false,
+   "reason": "three pairs (防限/寛厚, 節/愛 long halves, 相須/相反)"
+  },
+  "277": {
+   "regular": true,
+   "pairs": [
+    {
+     "a": "天下之震驚夫子，而以爲異人，非一日也，初不料其意象乃在若近若逺之間，及身親之，而始忘其為聖人也，㤀則其心夷",
+     "b": "天下之想望夫子，而各以私度，非一人也，實不知其精神迥出於言思擬議之外，比目接之，而始見有眞聖人也，真則其神奪"
+    },
+    {
+     "a": "今之諸侯，大抵多驕，既己令莫予反，行莫予違矣，從未見有草莽之人，有身兼三才，氣備四時之盛，如吾夫子者，豈不厭薄而以為不足與謀，而要不能不大服吾聖人於一望之際，立鋤其予聖自雄之習",
+     "b": "今之諸侯，大抵多忌，亦既各君其國，各子其民矣，從未見有四方之士，具天下一家，中國一人之槩，若吾夫子者，豈不猜虞而以為未可與言，而要不能不深信吾聖人於立談之頃，遽化其分疆絶界之心"
+    },
+    {
+     "a": "其道大，則天下莫能容，往往有心知其聖，終不能奉國以從，故貌合情疎，雖以父母之邦，不獲自遂其易世變國之心",
+     "b": "其誠至，則萬物無不動，往往一見其人，則莫不輸誠以獻，故刪詩修史，即以託迹之所，而亦深悉其興衰治亂之故"
+    },
+    {
+     "a": "游説之士，探大人之意㫖，而怵之以利害",
+     "b": "智謀之臣，窺人國之淺深，而獲之以計數"
+    }
+   ]
+  },
+  "278": {
+   "regular": false,
+   "reason": "five pairs (暱/懽, 宗者/宗之者, 始/忽, 尋師/定交, 古之君子 x2)"
+  },
+  "279": {
+   "regular": false,
+   "reason": "more than four pairs (氣節/天機, 無諂/無驕, 不諂/不驕, 絶諂/戒驕, 樂/禮, 如其人 x2)"
+  },
+  "280": {
+   "regular": false,
+   "reason": "more than four pairs (民/君人者, 道/齊, 性命/中正, 一道同風/百年必世, 徳/禮)"
+  },
+  "281": {
+   "regular": false,
+   "reason": "three pairs (國于天地/人于懿徳, 言/行, 時事/計較) and a short couplet in the conclusion"
+  },
+  "282": {
+   "regular": false,
+   "reason": "triple legs (敬/忠/勸) followed by one pair; not four pairs"
+  },
+  "283": {
+   "regular": false,
+   "reason": "three pairs (衆之所處/治之所行, 宜于時/存乎古, 分政/統政)"
+  },
+  "284": {
+   "regular": false,
+   "reason": "five pairs (速求/無所不為, 成/通, 智愚/險夷, 朝廷/朋友, 武王桓王/齊桓季路)"
+  },
+  "285": {
+   "regular": false,
+   "reason": "two pairs only (夏/殷, 因/革)"
+  },
+  "286": {
+   "regular": false,
+   "reason": "more than four pairs (識/氣, 是非/好惡, 私憂/引繩, 選愞/畏葸, 禍福/生死, 盛/純)"
+  }
+ }
+}
